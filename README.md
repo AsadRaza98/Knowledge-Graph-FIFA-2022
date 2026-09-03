@@ -66,7 +66,7 @@ The graph is RDF/OWL, so use an RDF-native store:
 * **Apache Jena Fuseki** — `fuseki-server --file kg/worldcup_full.ttl /worldcup`,
   then POST the `queries/*.rq` to `http://localhost:3030/worldcup/sparql`.
 
-## Report (max 10 pages) — chapter map
+## Report
 
 1. Introduction to Knowledge Graphs — KGs for IR
 2. Data and preprocessing — the 4 sources, scoping to WC-2022, entity
