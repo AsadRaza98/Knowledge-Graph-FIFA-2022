@@ -1,0 +1,15 @@
+# Q6  Goalkeepers ranked by save percentage (min. 2 appearances).
+#     Joins: position (worldcup squads) + save stats (Kaggle).
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?keeper ?team (STR(?a) AS ?apps)
+       (STR(?sp) AS ?savePct) (STR(?cs) AS ?cleanSheets) WHERE {
+    ?p wc:hasPosition wc:Goalkeeper ;
+       wc:fullName ?keeper ;
+       wc:representsTeam/wc:teamName ?team ;
+       wc:savePercentage ?sp .
+    OPTIONAL { ?p wc:appearances ?a }
+    OPTIONAL { ?p wc:cleanSheets ?cs }
+    FILTER(?a >= 2)
+}
+ORDER BY DESC(?sp)
+LIMIT 15

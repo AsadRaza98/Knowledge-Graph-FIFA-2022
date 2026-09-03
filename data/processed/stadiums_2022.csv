@@ -1,0 +1,9 @@
+key_id,stadium_id,stadium_name,city_name,country_name,stadium_capacity,stadium_wikipedia_link,city_wikipedia_link
+140,S-140,Al Bayt Stadium,Al Khor,Qatar,69000,https://en.wikipedia.org/wiki/Al_Bayt_Stadium,https://en.wikipedia.org/wiki/Al_Khor_(city)
+141,S-141,Ahmad bin Ali Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Ahmad_bin_Ali_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+142,S-142,Education City Stadium,Al Rayyan,Qatar,45000,https://en.wikipedia.org/wiki/Education_City_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+143,S-143,Khalifa International Stadium,Al Rayyan,Qatar,46000,https://en.wikipedia.org/wiki/Khalifa_International_Stadium,https://en.wikipedia.org/wiki/Al_Rayyan_(city)
+144,S-144,Al Janoub Stadium,Al Wakrah,Qatar,44000,https://en.wikipedia.org/wiki/Al_Janoub_Stadium,https://en.wikipedia.org/wiki/Al_Wakrah
+145,S-145,Al Thumama Stadium,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Al_Thumama_Stadium,https://en.wikipedia.org/wiki/Doha
+146,S-146,Stadium 974,Doha,Qatar,44000,https://en.wikipedia.org/wiki/Stadium_974,https://en.wikipedia.org/wiki/Doha
+147,S-147,Lusail Stadium,Lusail,Qatar,89000,https://en.wikipedia.org/wiki/Lusail_Stadium,https://en.wikipedia.org/wiki/Lusail

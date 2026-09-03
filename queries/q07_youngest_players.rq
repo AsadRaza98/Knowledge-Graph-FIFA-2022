@@ -1,0 +1,11 @@
+# Q7  Ten youngest players at the tournament (kick-off 2022-11-20).
+#     Source: worldcup players bio (birthDate).
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?player ?team (STR(?dob) AS ?birthDate) WHERE {
+    ?p a wc:Player ;
+       wc:fullName ?player ;
+       wc:birthDate ?dob ;
+       wc:representsTeam/wc:teamName ?team .
+}
+ORDER BY DESC(?dob)
+LIMIT 10

@@ -1,0 +1,13 @@
+# Q11  Tournament summary facts, including the winner (object property wonBy).
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?name (STR(?yr) AS ?year) ?host (STR(?sd) AS ?startDate)
+       (STR(?ed) AS ?endDate) (STR(?nt) AS ?numberOfTeams) ?winner WHERE {
+    ?t a wc:Tournament ;
+       wc:tournamentName ?name ;
+       wc:year ?yr ;
+       wc:hostCountry ?host ;
+       wc:startDate ?sd ;
+       wc:endDate ?ed ;
+       wc:numberOfTeams ?nt ;
+       wc:wonBy/wc:teamName ?winner .
+}

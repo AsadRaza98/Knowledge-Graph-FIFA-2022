@@ -1,0 +1,15 @@
+# Q12  Multimedia layer: players that have a photo folder and an extracted
+#      visual feature vector, with the image count. BOUND(?fv) shows which
+#      PlayerImage nodes were populated by 04_image_features.py.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?player ?team (STR(?imgCount) AS ?imageCount)
+       (STR(BOUND(?fv)) AS ?hasFeatureVector) WHERE {
+    ?p a wc:Player ;
+       wc:fullName ?player ;
+       wc:representsTeam/wc:teamName ?team ;
+       wc:hasImage ?img .
+    ?img wc:imageCount ?imgCount .
+    OPTIONAL { ?img wc:featureVector ?fv }
+}
+ORDER BY DESC(?imgCount)
+LIMIT 20

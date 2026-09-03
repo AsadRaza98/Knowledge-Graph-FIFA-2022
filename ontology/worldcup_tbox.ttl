@@ -1,0 +1,188 @@
+@prefix wc:   <http://www.semanticweb.org/worldcup2022#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+#################################################################
+#  Ontology header
+#################################################################
+<http://www.semanticweb.org/worldcup2022>
+    a owl:Ontology ;
+    rdfs:label "FIFA World Cup 2022 Knowledge Graph Ontology" ;
+    rdfs:comment "Schema (TBox) for a Multimedia Information Retrieval KG about the 2022 FIFA World Cup." .
+
+#################################################################
+#  Classes
+#################################################################
+wc:Tournament   a owl:Class ; rdfs:label "Tournament" .
+wc:Confederation a owl:Class ; rdfs:label "Confederation" .
+wc:Team         a owl:Class ; rdfs:label "Team" ;
+    rdfs:comment "A national team participating in the tournament." .
+wc:Player       a owl:Class ; rdfs:label "Player" .
+wc:Club         a owl:Class ; rdfs:label "Club" ;
+    rdfs:comment "The club a player belongs to (from the 2022 stats source)." .
+wc:Match        a owl:Class ; rdfs:label "Match" .
+wc:Goal         a owl:Class ; rdfs:label "Goal" .
+wc:Stadium      a owl:Class ; rdfs:label "Stadium" .
+wc:Position     a owl:Class ; rdfs:label "Position" ;
+    rdfs:comment "Playing position; individuals below enumerate the values." .
+wc:PlayerImage  a owl:Class ; rdfs:label "PlayerImage" ;
+    rdfs:comment "Multimedia resource: a player's photo folder + extracted feature vector." .
+
+#  Enumerated Position individuals
+wc:Goalkeeper a wc:Position ; rdfs:label "Goalkeeper" ; wc:positionCode "GK" .
+wc:Defender   a wc:Position ; rdfs:label "Defender"   ; wc:positionCode "DF" .
+wc:Midfielder a wc:Position ; rdfs:label "Midfielder" ; wc:positionCode "MF" .
+wc:Forward    a wc:Position ; rdfs:label "Forward"    ; wc:positionCode "FW" .
+
+#################################################################
+#  Object properties (relationships)
+#################################################################
+wc:belongsToConfederation a owl:ObjectProperty ;
+    rdfs:label "belongsToConfederation" ;
+    rdfs:domain wc:Team ; rdfs:range wc:Confederation .
+
+wc:participatesIn a owl:ObjectProperty ;
+    rdfs:label "participatesIn" ;
+    rdfs:domain wc:Team ; rdfs:range wc:Tournament .
+
+wc:wonBy a owl:ObjectProperty ;
+    rdfs:label "wonBy" ;
+    rdfs:domain wc:Tournament ; rdfs:range wc:Team .
+
+wc:representsTeam a owl:ObjectProperty ;
+    rdfs:label "representsTeam" ;
+    rdfs:comment "Player -> national team they played for in 2022." ;
+    rdfs:domain wc:Player ; rdfs:range wc:Team .
+
+wc:playsForClub a owl:ObjectProperty ;
+    rdfs:label "playsForClub" ;
+    rdfs:domain wc:Player ; rdfs:range wc:Club .
+
+wc:hasPosition a owl:ObjectProperty ;
+    rdfs:label "hasPosition" ;
+    rdfs:domain wc:Player ; rdfs:range wc:Position .
+
+wc:hasImage a owl:ObjectProperty ;
+    rdfs:label "hasImage" ;
+    rdfs:domain wc:Player ; rdfs:range wc:PlayerImage .
+
+wc:partOfTournament a owl:ObjectProperty ;
+    rdfs:label "partOfTournament" ;
+    rdfs:domain wc:Match ; rdfs:range wc:Tournament .
+
+wc:hasHomeTeam a owl:ObjectProperty ;
+    rdfs:label "hasHomeTeam" ;
+    rdfs:domain wc:Match ; rdfs:range wc:Team .
+
+wc:hasAwayTeam a owl:ObjectProperty ;
+    rdfs:label "hasAwayTeam" ;
+    rdfs:domain wc:Match ; rdfs:range wc:Team .
+
+wc:playedAt a owl:ObjectProperty ;
+    rdfs:label "playedAt" ;
+    rdfs:domain wc:Match ; rdfs:range wc:Stadium .
+
+wc:hasGoal a owl:ObjectProperty ;
+    rdfs:label "hasGoal" ;
+    rdfs:domain wc:Match ; rdfs:range wc:Goal ;
+    owl:inverseOf wc:scoredInMatch .
+
+wc:scoredInMatch a owl:ObjectProperty ;
+    rdfs:label "scoredInMatch" ;
+    rdfs:domain wc:Goal ; rdfs:range wc:Match .
+
+wc:scoredBy a owl:ObjectProperty ;
+    rdfs:label "scoredBy" ;
+    rdfs:domain wc:Goal ; rdfs:range wc:Player .
+
+wc:goalForTeam a owl:ObjectProperty ;
+    rdfs:label "goalForTeam" ;
+    rdfs:domain wc:Goal ; rdfs:range wc:Team .
+
+#################################################################
+#  Datatype properties (attributes)
+#################################################################
+#  Tournament
+wc:tournamentName a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:string .
+wc:year           a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:gYear .
+wc:startDate      a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:date .
+wc:endDate        a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:date .
+wc:hostCountry    a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:string .
+wc:numberOfTeams  a owl:DatatypeProperty ; rdfs:domain wc:Tournament ; rdfs:range xsd:integer .
+
+#  Confederation
+wc:confederationName a owl:DatatypeProperty ; rdfs:domain wc:Confederation ; rdfs:range xsd:string .
+wc:confederationCode a owl:DatatypeProperty ; rdfs:domain wc:Confederation ; rdfs:range xsd:string .
+
+#  Team
+wc:teamName       a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:string .
+wc:teamCode       a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:string .
+wc:federationName a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:string .
+wc:regionName     a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:string .
+
+#  Team - WC-2022 final standings (source: Kaggle FIFA - 2022.csv)
+wc:finalPosition   a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer ;
+    rdfs:comment "Final ranking of the team in the 2022 tournament (1 = winner)." .
+wc:gamesPlayed     a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:wins            a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:draws           a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:losses          a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:goalsFor        a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:goalsAgainst    a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:goalDifference  a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+wc:points          a owl:DatatypeProperty ; rdfs:domain wc:Team ; rdfs:range xsd:integer .
+
+#  Player  (bio from worldcup + stats from Kaggle)
+wc:givenName        a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:string .
+wc:familyName       a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:string .
+wc:fullName         a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:string .
+wc:birthDate        a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:date .
+wc:shirtNumber      a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:integer .
+wc:nationality      a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:string .
+wc:appearances      a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:integer .
+wc:goalsScored      a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:integer .
+wc:assistsProvided  a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:integer .
+wc:dribblesPer90       a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+wc:interceptionsPer90  a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+wc:tacklesPer90        a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+wc:duelsWonPer90       a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+wc:savePercentage      a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+wc:cleanSheets         a owl:DatatypeProperty ; rdfs:domain wc:Player ; rdfs:range xsd:float .
+
+#  Club
+wc:clubName a owl:DatatypeProperty ; rdfs:domain wc:Club ; rdfs:range xsd:string .
+
+#  Match
+wc:matchName        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:string .
+wc:matchDate        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:date .
+wc:stageName        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:string .
+wc:groupName        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:string .
+wc:homeScore        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:integer .
+wc:awayScore        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:integer .
+wc:extraTime        a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:boolean .
+wc:penaltyShootout  a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:boolean .
+wc:result           a owl:DatatypeProperty ; rdfs:domain wc:Match ; rdfs:range xsd:string .
+
+#  Goal
+wc:minuteLabel      a owl:DatatypeProperty ; rdfs:domain wc:Goal ; rdfs:range xsd:string .
+wc:minuteRegulation a owl:DatatypeProperty ; rdfs:domain wc:Goal ; rdfs:range xsd:integer .
+wc:isPenalty        a owl:DatatypeProperty ; rdfs:domain wc:Goal ; rdfs:range xsd:boolean .
+wc:isOwnGoal        a owl:DatatypeProperty ; rdfs:domain wc:Goal ; rdfs:range xsd:boolean .
+
+#  Stadium
+wc:stadiumName a owl:DatatypeProperty ; rdfs:domain wc:Stadium ; rdfs:range xsd:string .
+wc:city        a owl:DatatypeProperty ; rdfs:domain wc:Stadium ; rdfs:range xsd:string .
+wc:country     a owl:DatatypeProperty ; rdfs:domain wc:Stadium ; rdfs:range xsd:string .
+wc:capacity    a owl:DatatypeProperty ; rdfs:domain wc:Stadium ; rdfs:range xsd:integer .
+
+#  Position
+wc:positionName a owl:DatatypeProperty ; rdfs:domain wc:Position ; rdfs:range xsd:string .
+wc:positionCode a owl:DatatypeProperty ; rdfs:domain wc:Position ; rdfs:range xsd:string .
+
+#  PlayerImage (multimedia)
+wc:folderPath    a owl:DatatypeProperty ; rdfs:domain wc:PlayerImage ; rdfs:range xsd:string .
+wc:imageCount    a owl:DatatypeProperty ; rdfs:domain wc:PlayerImage ; rdfs:range xsd:integer .
+wc:featureVector a owl:DatatypeProperty ; rdfs:domain wc:PlayerImage ; rdfs:range xsd:string ;
+    rdfs:comment "Serialized image embedding produced in the feature-extraction step." .

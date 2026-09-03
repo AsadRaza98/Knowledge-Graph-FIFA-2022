@@ -1,0 +1,22 @@
+# Conda environment for the FIFA World Cup 2022 multimedia knowledge-graph project.
+#   conda env create -f environment.yml
+#   conda activate worldcup-kg
+name: worldcup-kg
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - scikit-learn=1.5.1
+  - pillow=10.4.0
+  - matplotlib=3.9.2
+  - pip
+  - pip:
+      - rdflib==7.6.0
+      - torch==2.10.0
+      - torchvision==0.25.0
+      - streamlit==1.37.1
+      - reportlab==4.4.10
+      - SPARQLWrapper>=2.0

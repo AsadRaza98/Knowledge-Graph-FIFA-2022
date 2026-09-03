@@ -1,0 +1,20 @@
+# Q5  Cross-source semantic query that NO single dataset can answer alone:
+#     South-American (CONMEBOL) national-team players who play club football
+#     in England.  Needs  Team->Confederation (worldcup)  +  Player->Club (Kaggle).
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?player ?country ?club WHERE {
+    ?p wc:fullName ?player ;
+       wc:representsTeam ?tm ;
+       wc:playsForClub ?c .
+    ?tm wc:teamName ?country ;
+        wc:belongsToConfederation/wc:confederationCode "CONMEBOL" .
+    ?c wc:clubName ?club .
+    VALUES ?club {
+        "Manchester City" "Manchester United" "Liverpool" "Chelsea"
+        "Arsenal" "Tottenham Hotspur" "Newcastle United" "Aston Villa"
+        "West Ham United" "Brighton" "Brentford" "Fulham" "Everton"
+        "Crystal Palace" "Wolverhampton Wanderers" "Leeds United"
+        "Nottingham Forest" "Leicester City" "Bournemouth" "Southampton"
+    }
+}
+ORDER BY ?club ?player

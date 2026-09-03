@@ -1,0 +1,14 @@
+# Q2  Golden-Boot race: players ranked by goals actually scored in WC-2022
+#     (own goals excluded). Source: worldcup goals table, aggregated.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?player ?team (STR(COUNT(?g)) AS ?goals) WHERE {
+    ?g a wc:Goal ;
+       wc:scoredBy ?p ;
+       wc:goalForTeam ?t .
+    FILTER NOT EXISTS { ?g wc:isOwnGoal true }
+    ?p wc:fullName ?player .
+    ?t wc:teamName ?team .
+}
+GROUP BY ?player ?team
+ORDER BY DESC(COUNT(?g)) ?player
+LIMIT 10

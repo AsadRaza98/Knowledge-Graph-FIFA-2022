@@ -1,0 +1,15 @@
+# Q8  Knockout ties decided by a penalty shootout.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT (STR(?d) AS ?date) ?match ?stage ?home
+       (STR(?hs) AS ?homeScore) (STR(?as) AS ?awayScore) ?away WHERE {
+    ?m a wc:Match ;
+       wc:penaltyShootout true ;
+       wc:matchName ?match ;
+       wc:matchDate ?d ;
+       wc:stageName ?stage ;
+       wc:homeScore ?hs ;
+       wc:awayScore ?as ;
+       wc:hasHomeTeam/wc:teamName ?home ;
+       wc:hasAwayTeam/wc:teamName ?away .
+}
+ORDER BY ?d

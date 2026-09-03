@@ -1,0 +1,2 @@
+key_id,tournament_id,tournament_name,year,start_date,end_date,host_country,winner,host_won,count_teams,group_stage,second_group_stage,final_round,round_of_16,quarter_finals,semi_finals,third_place_match,final
+30,WC-2022,2022 FIFA Men's World Cup,2022,2022-11-20,2022-12-18,Qatar,Argentina,0,32,1,0,0,1,1,1,1,1

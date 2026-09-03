@@ -1,0 +1,832 @@
+key_id,player_id,family_name,given_name,birth_date,female,goal_keeper,defender,midfielder,forward,count_tournaments,list_tournaments,player_wikipedia_link
+3,P-03484,Aaronson,Brenden,2000-10-22,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Brenden_Aaronson
+21,P-64924,Abdi,Ali,1993-12-20,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ali_Abdi_(footballer)
+24,P-21820,Abdul Samed,Salis,2000-03-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Salis_Abdul_Samed
+27,P-08125,Abdulhamid,Saud,1999-07-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Saud_Abdulhamid
+33,P-80505,Abedzadeh,Amir,1993-04-26,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Amir_Abedzadeh
+46,P-53452,Aboubakar,Vincent,1992-01-22,0,0,0,0,1,3,"2010, 2014, 2022",https://en.wikipedia.org/wiki/Vincent_Aboubakar
+47,P-48295,Aboukhlal,Zakaria,2000-02-18,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Zakaria_Aboukhlal
+68,P-86410,Acosta,Kellyn,1995-07-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kellyn_Acosta
+73,P-73712,Acuña,Marcos,1991-10-28,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Marcos_Acu%C3%B1a
+82,P-14151,Adams,Tyler,1999-02-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Tyler_Adams
+89,P-55821,Adekugbe,Sam,1995-01-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Sam_Adekugbe
+94,P-05901,Adeyemi,Karim,2002-01-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Karim_Adeyemi
+102,P-32222,Aebischer,Michel,1997-01-06,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Michel_Aebischer
+108,P-47319,Afif,Akram,1996-11-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Akram_Afif
+112,P-13639,Afriyie,Daniel,2001-06-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Daniel_Afriyie
+125,P-47490,Aguerd,Nayef,1996-03-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nayef_Aguerd
+133,P-44957,Aguilera,Brandon,2003-06-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Brandon_Aguilera
+148,P-33804,Ahmed,Homam,1999-08-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Homam_Ahmed
+153,P-09991,Aidoo,Joseph,1995-09-29,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joseph_Aidoo_(Ghanaian_footballer)
+170,P-23925,Akanji,Manuel,1995-07-19,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Manuel_Akanji
+171,P-64438,Aké,Nathan,1995-02-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nathan_Ak%C3%A9
+185,P-76864,Al-Abed,Nawaf,1990-01-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nawaf_Al-Abed
+186,P-45581,Al-Aboud,Abdulrahman,1995-06-01,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Abdulrahman_Al-Aboud
+187,P-12335,Al-Amri,Abdulelah,1997-01-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Abdulelah_Al-Amri
+191,P-67035,Al-Aqidi,Nawaf,2000-05-10,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Nawaf_Al-Aqidi
+195,P-94422,Al-Breik,Mohammed,1992-09-15,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mohammed_Al-Breik
+196,P-87284,Al-Bulaihi,Ali,1989-11-21,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ali_Al-Bulaihi
+199,P-89845,Al-Buraikan,Firas,2000-05-14,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Firas_Al-Buraikan
+202,P-10907,Al-Dawsari,Nasser,1998-12-19,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nasser_Al-Dawsari
+203,P-70583,Al-Dawsari,Salem,1991-08-19,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Salem_Al-Dawsari
+209,P-93688,Al-Faraj,Salman,1989-08-01,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Salman_Al-Faraj
+212,P-06789,Al-Ghannam,Sultan,1994-05-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Sultan_Al-Ghannam
+216,P-93316,Al-Hadhrami,Naif,2001-07-18,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Naif_Al-Hadhrami
+217,P-43921,Al-Hajri,Salem,1996-04-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Salem_Al-Hajri
+223,P-45413,Al-Hassan,Ali,1997-03-04,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ali_Al-Hassan
+224,P-38732,Al-Haydos,Hassan,1990-12-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Hassan_Al-Haydos
+238,P-20216,Al-Malki,Abdulellah,1994-10-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Abdulellah_Al-Malki
+246,P-87569,Al-Najei,Sami,1997-02-07,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sami_Al-Najei
+248,P-85438,Al-Owais,Mohammed,1991-10-10,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mohammed_Al-Owais
+252,P-15161,Al-Rawi,Bassam,1997-12-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Bassam_Al-Rawi
+253,P-06659,Al-Rubaie,Mohammed,1997-08-14,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Mohammed_Al-Rubaie
+257,P-45457,Al-Shahrani,Yasser,1992-05-25,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Yasser_Al-Shahrani
+259,P-70879,Al-Sheeb,Saad,1990-02-19,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Saad_Al-Sheeb
+261,P-37308,Al-Shehri,Saleh,1993-11-01,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Saleh_Al-Shehri
+267,P-93173,Al-Tambakti,Hassan,1999-02-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Hassan_Al-Tambakti
+274,P-57100,Alaaeldin,Ahmed,1993-01-31,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ahmed_Alaaeldin
+279,P-01416,Alba,Jordi,1989-03-21,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Jordi_Alba
+302,P-70547,Alderweireld,Toby,1989-03-02,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Toby_Alderweireld
+311,P-05318,Alexander-Arnold,Trent,1998-10-07,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Trent_Alexander-Arnold
+324,P-01930,Ali,Almoez,1996-08-19,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Almoez_Ali
+329,P-21531,Alisson,not applicable,1992-10-02,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Alisson
+341,P-92761,Allen,Joe,1990-03-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Joe_Allen
+350,P-56659,Almada,Thiago,2001-04-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Thiago_Almada
+375,P-03616,Alvarado,Esteban,1989-04-28,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Esteban_Alvarado
+378,P-73491,Alvarado,Roberto,1998-09-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Roberto_Alvarado
+381,P-26546,Álvarez,Edson,1997-10-24,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Edson_%C3%81lvarez
+384,P-19776,Álvarez,Julián,2000-01-31,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Juli%C3%A1n_%C3%81lvarez_(footballer)
+385,P-09058,Álvarez,Kevin,1999-01-15,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Kevin_%C3%81lvarez_(footballer,_born_1999)"
+395,P-09441,Alves,Dani,1983-05-06,0,0,1,0,0,3,"2010, 2014, 2022",https://en.wikipedia.org/wiki/Dani_Alves
+402,P-23330,Amallah,Selim,1996-11-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Selim_Amallah
+411,P-82956,Amartey,Daniel,1994-12-21,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Daniel_Amartey
+423,P-24531,Amiri,Vahid,1988-04-02,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Vahid_Amiri
+431,P-50398,Ampadu,Ethan,2000-09-14,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ethan_Ampadu
+433,P-71023,Amrabat,Sofyan,1996-08-21,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Sofyan_Amrabat
+451,P-43705,Andersen,Joachim,1996-05-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joachim_Andersen_(footballer)
+512,P-53957,Ansarifard,Karim,1990-04-03,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Karim_Ansarifard
+521,P-37860,Antony,not applicable,2000-02-24,0,0,0,0,1,1,2022,"https://en.wikipedia.org/wiki/Antony_(footballer,_born_2000)"
+522,P-81433,Antuna,Uriel,1997-08-21,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Uriel_Antuna
+552,P-38529,Araujo,Néstor,1991-08-29,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/N%C3%A9stor_Araujo
+553,P-89869,Araújo,Ronald,1999-03-07,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ronald_Ara%C3%BAjo
+558,P-22286,Arboleda,Robert,1991-10-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Robert_Arboleda
+568,P-81466,Areola,Alphonse,1993-02-27,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Alphonse_Areola
+585,P-39788,Armani,Franco,1986-10-16,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Franco_Armani
+598,P-06545,Arreaga,Xavier,1994-09-28,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Xavier_Arreaga
+606,P-96510,Arteaga,Gerardo,1998-09-07,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Gerardo_Arteaga
+615,P-46913,Asano,Takuma,1994-11-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Takuma_Asano
+622,P-09400,Asensio,Marco,1996-01-21,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Marco_Asensio
+625,P-40487,Asiri,Haitham,2001-03-25,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Haitham_Asiri
+634,P-51678,Assadalla,Ali,1993-01-19,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ali_Assadalla
+647,P-51990,Ati-Zigi,Lawrence,1996-11-29,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Lawrence_Ati-Zigi
+648,P-09062,Atkinson,Nathaniel,1999-06-13,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nathaniel_Atkinson
+653,P-91543,Attiyat Allah,Yahia,1995-03-02,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Yahia_Attiyat_Allah
+694,P-01945,Ayew,André,1989-12-17,0,0,0,1,1,3,"2010, 2014, 2022",https://en.wikipedia.org/wiki/Andr%C3%A9_Ayew
+696,P-31765,Ayew,Jordan,1991-09-11,0,0,0,0,1,2,"2014, 2022",https://en.wikipedia.org/wiki/Jordan_Ayew
+709,P-09113,Azmoun,Sardar,1995-01-01,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Sardar_Azmoun
+711,P-60716,Azpilicueta,César,1989-08-28,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/C%C3%A9sar_Azpilicueta
+721,P-70515,Babić,Srđan,1996-04-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Sr%C4%91an_Babi%C4%87
+725,P-27035,Baccus,Keanu,1998-06-07,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Keanu_Baccus
+747,P-92135,Bah,Alexander,1997-12-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alexander_Bah
+748,P-84563,Bahebri,Hattan,1992-07-16,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Hattan_Bahebri
+781,P-49008,Balde,Alejandro,2003-10-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alejandro_Balde
+785,P-63927,Bale,Gareth,1989-07-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Gareth_Bale
+795,P-86095,Ballo-Touré,Fodé,1997-01-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Fod%C3%A9_Ballo-Tour%C3%A9
+843,P-95766,Barišić,Borna,1992-11-10,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Borna_Bari%C5%A1i%C4%87
+870,P-28811,Barsham,Meshaal,1998-02-14,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Meshaal_Barsham
+886,P-51549,Bassogog,Christian,1995-10-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Christian_Bassogog
+902,P-13975,Batshuayi,Michy,1993-10-02,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Michy_Batshuayi
+936,P-10172,Bednarek,Jan,1996-04-12,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jan_Bednarek
+945,P-51118,Behich,Aziz,1990-12-16,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Aziz_Behich
+950,P-20998,Beiranvand,Alireza,1992-09-21,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Alireza_Beiranvand
+966,P-69200,Bella-Kotchap,Armel,2001-12-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Armel_Bella-Kotchap
+969,P-15674,Bellingham,Jude,2003-06-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jude_Bellingham
+989,P-42575,Ben Romdhane,Mohamed Ali,1999-09-06,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mohamed_Ali_Ben_Romdhane
+991,P-82657,Ben Saïd,Bechir,1992-11-29,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Bechir_Ben_Sa%C3%AFd
+992,P-45680,Ben Slimane,Anis,2001-03-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Anis_Ben_Slimane
+1026,P-09889,Bennette,Jewison,2004-06-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jewison_Bennette
+1027,P-00597,Benoun,Badr,1993-09-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Badr_Benoun
+1031,P-58791,Bentancur,Rodrigo,1997-06-25,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Rodrigo_Bentancur
+1037,P-35408,Benzema,Karim,1987-12-19,0,0,0,0,1,2,"2014, 2022",https://en.wikipedia.org/wiki/Karim_Benzema
+1041,P-42160,Bereszyński,Bartosz,1992-07-12,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Bartosz_Bereszy%C5%84ski
+1051,P-10326,Berghuis,Steven,1991-12-19,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Steven_Berghuis
+1058,P-44799,Bergwijn,Steven,1997-10-08,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Steven_Bergwijn
+1112,P-14593,Bielik,Krystian,1998-01-04,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Krystian_Bielik
+1119,P-15282,Bijlow,Justin,1998-01-22,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Justin_Bijlow
+1157,P-39861,Blind,Daley,1990-03-09,0,0,1,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Daley_Blind
+1241,P-11767,Borges,Celso,1988-05-27,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Celso_Borges
+1253,P-46263,Borjan,Milan,1987-10-23,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Milan_Borjan
+1283,P-95754,Boudiaf,Karim,1990-09-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Karim_Boudiaf
+1284,P-59033,Boufal,Sofiane,1993-09-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sofiane_Boufal
+1294,P-50688,Bounou,Yassine,1991-04-05,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Yassine_Bounou
+1327,P-85579,Braithwaite,Martin,1991-06-05,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Martin_Braithwaite
+1334,P-50679,Brandt,Julian,1996-05-02,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Julian_Brandt
+1352,P-14060,Bremer,not applicable,1997-03-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Gleison_Bremer
+1387,P-11879,Bronn,Dylan,1995-06-19,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Dylan_Bronn
+1407,P-79215,Brozović,Marcelo,1992-11-16,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Marcelo_Brozovi%C4%87
+1423,P-96259,Buchanan,Tajon,1999-02-08,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Tajon_Buchanan
+1430,P-99461,Budimir,Ante,1991-07-22,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ante_Budimir
+1440,P-72363,Bukari,Osman,1998-12-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Osman_Bukari
+1448,P-49090,Bum-keun,Song,1997-10-15,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Song_Bum-keun
+1481,P-28010,Busquets,Sergio,1988-07-16,0,0,0,1,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Sergio_Busquets
+1509,P-02030,Cabango,Ben,2000-05-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ben_Cabango
+1527,P-74058,Cáceres,Martín,1987-04-07,0,0,1,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Mart%C3%ADn_C%C3%A1ceres
+1538,P-82216,Caicedo,Moisés,2001-11-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mois%C3%A9s_Caicedo
+1561,P-71100,Calvo,Francisco,1992-07-08,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Francisco_Calvo
+1569,P-80996,Camavinga,Eduardo,2002-11-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Eduardo_Camavinga
+1585,P-70812,Campbell,Joel,1992-06-26,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Joel_Campbell
+1599,P-16736,Cancelo,João,1994-05-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jo%C3%A3o_Cancelo
+1610,P-24667,Canobbio,Agustín,1998-10-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Agust%C3%ADn_Canobbio
+1660,P-06338,Carrasco,Yannick,1993-09-04,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Yannick_Carrasco
+1675,P-25925,Carter-Vickers,Cameron,1997-12-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Cameron_Carter-Vickers
+1678,P-71071,Carvajal,Dani,1992-01-11,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Dani_Carvajal
+1682,P-44689,Carvalho,William,1992-04-07,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/William_Carvalho
+1692,P-02305,Casemiro,not applicable,1992-02-23,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Casemiro
+1694,P-17099,Cash,Matty,1997-08-07,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Matty_Cash
+1702,P-56069,Castagne,Timothy,1995-12-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Timothy_Castagne
+1706,P-88715,Casteels,Koen,1992-06-25,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Koen_Casteels
+1708,P-59303,Castelletto,Jean-Charles,1995-01-26,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jean-Charles_Castelletto
+1732,P-58061,Cavallini,Lucas,1992-12-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Lucas_Cavallini
+1733,P-59138,Cavani,Edinson,1987-02-14,0,0,0,0,1,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Edinson_Cavani
+1772,P-09569,Chaalali,Ghailene,1994-02-28,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Ghailene_Chaalali
+1774,P-57150,Chacón,Daniel,2001-04-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Daniel_Chac%C3%B3n_(footballer)
+1779,P-87409,Chair,Ilias,1997-10-30,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ilias_Chair
+1793,P-88360,Chang-hoon,Kwon,1994-06-30,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kwon_Chang-hoon
+1821,P-49806,Chávez,Luis,1996-01-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Luis_Ch%C3%A1vez_(footballer)
+1828,P-05216,Cheddira,Walid,1998-01-22,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Walid_Cheddira
+1842,P-98747,Cheshmi,Rouzbeh,1993-07-24,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi
+1905,P-06117,Choupo-Moting,Eric Maxim,1989-03-23,0,0,0,0,1,3,"2010, 2014, 2022",https://en.wikipedia.org/wiki/Eric_Maxim_Choupo-Moting
+1909,P-18923,Christensen,Andreas,1996-04-10,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Andreas_Christensen
+1915,P-07304,Christensen,Oliver,1999-03-22,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Oliver_Christensen
+1937,P-75628,Cifuentes,José,1999-03-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jos%C3%A9_Cifuentes
+1951,P-61416,Ciss,Pathé,1994-03-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Path%C3%A9_Ciss
+1955,P-90626,Cissé,Pape Abou,1995-09-14,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Pape_Abou_Ciss%C3%A9
+1987,P-76287,Coady,Conor,1993-02-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Conor_Coady
+1988,P-20051,Coates,Sebastián,1990-10-07,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Coates
+2017,P-07137,Colwill,Rubin,2002-04-27,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Rubin_Colwill
+2019,P-06614,Coman,Kingsley,1996-06-13,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Kingsley_Coman
+2023,P-56868,Cömert,Eray,1998-02-04,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Eray_C%C3%B6mert
+2036,P-02556,Contreras,Anthony,2000-01-29,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Anthony_Contreras
+2062,P-29053,Cornelius,Andreas,1993-03-16,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Andreas_Cornelius
+2063,P-21099,Cornelius,Derek,1997-11-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Derek_Cornelius
+2069,P-92353,Correa,Ángel,1995-03-09,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/%C3%81ngel_Correa
+2087,P-54827,Costa,Diogo,1999-09-19,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Diogo_Costa
+2098,P-96662,Cota,Rodolfo,1987-07-03,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Rodolfo_Cota
+2108,P-09658,Courtois,Thibaut,1992-05-11,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Thibaut_Courtois
+2184,P-67089,Cummings,Jason,1995-08-01,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jason_Cummings
+2214,P-32803,Dahmen,Aymen,1997-01-28,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Aymen_Dahmen
+2226,P-41603,Dalot,Diogo,1999-03-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Diogo_Dalot
+2232,P-57782,Damsgaard,Mikkel,2000-07-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mikkel_Damsgaard
+2239,P-40137,Danilo,not applicable,1991-07-15,0,0,1,0,0,2,"2018, 2022","https://en.wikipedia.org/wiki/Danilo_(footballer,_born_July_1991)"
+2242,P-16148,Danlad,Ibrahim,2002-12-02,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Ibrahim_Danlad
+2248,P-52013,Dari,Achraf,1999-05-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Achraf_Dari
+2260,P-48340,David,Jonathan,2000-01-14,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jonathan_David
+2269,P-92482,Davies,Adam,1992-07-17,0,1,0,0,0,1,2022,"https://en.wikipedia.org/wiki/Adam_Davies_(footballer,_born_1992)"
+2270,P-46358,Davies,Alphonso,2000-11-02,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Alphonso_Davies
+2271,P-41198,Davies,Ben,1993-04-24,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Ben_Davies_(footballer,_born_1993)"
+2283,P-62594,De Arrascaeta,Giorgian,1994-06-01,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Giorgian_De_Arrascaeta
+2292,P-48955,De Bruyne,Kevin,1991-06-28,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Kevin_De_Bruyne
+2302,P-17688,de Jong,Frenkie,1997-05-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Frenkie_de_Jong
+2303,P-64551,de Jong,Luuk,1990-08-27,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Luuk_de_Jong
+2306,P-61810,De Ketelaere,Charles,2001-03-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Charles_De_Ketelaere
+2308,P-86878,de la Cruz,Nicolás,1997-06-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nicol%C3%A1s_de_la_Cruz
+2311,P-74007,de la Torre,Luca,1998-05-23,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Luca_de_la_Torre
+2315,P-73572,de Ligt,Matthijs,1999-08-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Matthijs_de_Ligt
+2321,P-37314,De Paul,Rodrigo,1994-05-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Rodrigo_De_Paul
+2323,P-55965,de Roon,Marten,1991-03-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Marten_de_Roon
+2333,P-70280,de Vrij,Stefan,1992-02-05,0,0,1,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Stefan_de_Vrij
+2340,P-56669,Debast,Zeno,2003-10-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Zeno_Debast
+2354,P-59727,Degenek,Miloš,1994-04-28,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Milo%C5%A1_Degenek
+2367,P-57615,Delaney,Thomas,1991-09-03,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Thomas_Delaney
+2386,P-97778,Dembélé,Ousmane,1997-05-15,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9
+2395,P-73834,Dendoncker,Leander,1995-04-15,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Leander_Dendoncker
+2398,P-68599,Deng,Thomas,1997-03-20,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Thomas_Deng
+2404,P-27540,Depay,Memphis,1994-02-13,0,0,0,0,1,2,"2014, 2022",https://en.wikipedia.org/wiki/Memphis_Depay
+2415,P-89452,Dest,Sergiño,2000-11-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Sergi%C3%B1o_Dest
+2422,P-64249,Devlin,Cameron,1998-06-07,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Cameron_Devlin
+2439,P-42113,Di María,Ángel,1988-02-14,0,0,0,1,1,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa
+2443,P-33622,Dia,Boulaye,1996-11-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Boulaye_Dia
+2450,P-77769,Diallo,Abdou,1996-05-04,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Abdou_Diallo
+2457,P-10712,Dias,Rúben,1997-05-14,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/R%C3%BAben_Dias
+2458,P-09292,Diatta,Krépin,1999-02-25,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kr%C3%A9pin_Diatta
+2485,P-27280,Diédhiou,Famara,1992-12-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Famara_Di%C3%A9dhiou
+2487,P-88928,Dieng,Bamba,2000-03-23,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Bamba_Dieng
+2488,P-99821,Dieng,Seny,1994-11-23,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Seny_Dieng
+2490,P-31219,Dier,Eric,1994-01-15,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Eric_Dier
+2521,P-91324,Disasi,Axel,1998-03-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Axel_Disasi
+2533,P-59808,Djiku,Alexander,1994-08-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alexander_Djiku
+2540,P-72770,Dmitrović,Marko,1992-01-24,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Marko_Dmitrovi%C4%87
+2541,P-58907,Dōan,Ritsu,1998-06-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ritsu_D%C5%8Dan
+2556,P-29578,Doku,Jérémy,2002-05-27,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/J%C3%A9r%C3%A9my_Doku
+2558,P-72592,Dolberg,Kasper,1997-10-06,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Kasper_Dolberg
+2566,P-94877,Domínguez,Alexander,1987-06-05,0,1,0,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Alexander_Dom%C3%ADnguez
+2606,P-49094,Dräger,Mohamed,1996-06-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Mohamed_Dr%C3%A4ger
+2625,P-97912,Duarte,Óscar,1989-06-03,0,0,1,0,0,3,"2014, 2018, 2022","https://en.wikipedia.org/wiki/%C3%93scar_Duarte_(footballer,_born_1989)"
+2639,P-91029,Duke,Mitchell,1991-01-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Mitchell_Duke
+2644,P-97615,Dumfries,Denzel,1996-04-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Denzel_Dumfries
+2663,P-79754,Đuričić,Filip,1992-01-30,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Filip_%C4%90uri%C4%8Di%C4%87
+2673,P-28151,Dybala,Paulo,1993-11-15,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Paulo_Dybala
+2693,P-02759,Ebosse,Enzo,1999-03-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Enzo_Ebosse
+2708,P-89248,Ederson,not applicable,1993-08-17,0,1,0,0,0,2,"2018, 2022","https://en.wikipedia.org/wiki/Ederson_(footballer,_born_1993)"
+2771,P-80656,El Khannous,Bilal,2004-05-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Bilal_El_Khannous
+2777,P-14026,El Yamiq,Jawad,1992-02-29,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jawad_El_Yamiq
+2809,P-19193,Elvedi,Nico,1996-09-30,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Nico_Elvedi
+2814,P-19075,Embolo,Breel,1997-02-14,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Breel_Embolo
+2823,P-42517,En-Nesyri,Youssef,1997-06-01,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Youssef_En-Nesyri
+2829,P-53282,Endo,Wataru,1993-02-09,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Wataru_Endo
+2847,P-70357,Epassy,Devis,1993-02-02,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Devis_Epassy
+2848,P-55665,Eraković,Strahinja,2001-01-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Strahinja_Erakovi%C4%87
+2858,P-50104,Eriksen,Christian,1992-02-14,0,0,0,1,0,3,"2010, 2018, 2022",https://en.wikipedia.org/wiki/Christian_Eriksen
+2867,P-01196,Erlić,Martin,1998-01-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Martin_Erli%C4%87
+2901,P-44851,Estrada,Michael,1996-04-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Michael_Estrada
+2902,P-52697,Estupiñán,Pervis,1998-01-21,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Pervis_Estupi%C3%B1%C3%A1n
+2912,P-28794,Eustáquio,Stephen,1996-12-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Stephen_Eust%C3%A1quio
+2928,P-95374,Ezatolahi,Saeid,1996-10-01,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Saeid_Ezatolahi
+2932,P-21052,Ezzalzouli,Abde,2001-12-17,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Abde_Ezzalzouli
+2938,P-77071,Fabinho,not applicable,1993-10-23,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Fabinho_(footballer,_born_1993)"
+2945,P-61413,Faes,Wout,1998-04-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Wout_Faes
+2951,P-47677,Fai,Collins,1992-08-13,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Collins_Fai
+2976,P-71875,Fassnacht,Christian,1993-11-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Christian_Fassnacht
+2978,P-33854,Fati,Ansu,2002-10-31,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ansu_Fati
+3000,P-17931,Félix,João,1999-11-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jo%C3%A3o_F%C3%A9lix
+3010,P-39584,Fernandes,Bruno,1994-09-08,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Bruno_Fernandes
+3012,P-29932,Fernandes,Edimilson,1996-04-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Edimilson_Fernandes
+3020,P-10739,Fernández,Enzo,2001-01-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez
+3046,P-34132,Ferreira,Jesús,2000-12-24,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jes%C3%BAs_Ferreira
+3127,P-10501,Foden,Phil,2000-05-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Phil_Foden
+3129,P-23304,Fofana,Youssouf,1999-01-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Youssouf_Fofana_(footballer)
+3170,P-00652,Foyth,Juan,1998-01-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Juan_Foyth
+3181,P-28364,Franco,Alan,1998-08-21,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Alan_Franco_(footballer,_born_1998)"
+3191,P-23437,Frankowski,Przemysław,1995-04-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Przemys%C5%82aw_Frankowski
+3195,P-32574,Fraser,Liam,1998-02-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Liam_Fraser
+3198,P-74941,Fred,not applicable,1993-03-05,0,0,0,1,0,2,"2018, 2022","https://en.wikipedia.org/wiki/Fred_(footballer,_born_1993)"
+3201,P-00244,Frei,Fabian,1989-01-08,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Fabian_Frei
+3204,P-68060,Freuler,Remo,1992-04-15,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Remo_Freuler
+3218,P-70227,Frimpong,Jeremie,2000-12-10,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jeremie_Frimpong
+3234,P-80986,Fuller,Keysher,1994-07-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Keysher_Fuller
+3235,P-46246,Füllkrug,Niclas,1993-02-09,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Niclas_F%C3%BCllkrug
+3238,P-51689,Funes Mori,Rogelio,1991-03-05,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Rogelio_Funes_Mori
+3248,P-22110,Gaber,Jassem,2002-02-20,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jassem_Gaber
+3266,P-28911,Gakpo,Cody,1999-05-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Cody_Gakpo
+3277,P-56347,Galíndez,Hernán,1987-03-30,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Hern%C3%A1n_Gal%C3%ADndez
+3282,P-46540,Gallagher,Conor,2000-02-06,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Conor_Gallagher
+3285,P-80088,Gallardo,Jesús,1994-08-15,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo
+3322,P-37420,García,Eric,2001-01-09,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Eric_Garc%C3%ADa_(footballer,_born_2001)"
+3361,P-88433,Gavi,not applicable,2004-08-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Gavi_(footballer)
+3421,P-68161,Ghandri,Nader,1995-02-18,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nader_Ghandri
+3431,P-87786,Ghoddos,Saman,1993-09-06,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Saman_Ghoddos
+3433,P-45653,Gholizadeh,Ali,1996-03-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ali_Gholizadeh
+3454,P-65659,Giménez,José,1995-01-20,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Jos%C3%A9_Gim%C3%A9nez
+3457,P-36126,Ginter,Matthias,1994-01-19,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Matthias_Ginter
+3463,P-89750,Giroud,Olivier,1986-09-30,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Olivier_Giroud
+3478,P-29046,Glik,Kamil,1988-02-03,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kamil_Glik
+3483,P-75989,Gnabry,Serge,1995-07-14,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Serge_Gnabry
+3487,P-78440,Godín,Diego,1986-02-16,0,0,1,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Diego_God%C3%ADn
+3519,P-70671,Gómez,Maxi,1996-08-14,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Maxi_G%C3%B3mez
+3520,P-10231,Gómez,Papu,1988-02-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Papu_G%C3%B3mez
+3525,P-53694,Gomis,Alfred,1993-09-05,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Alfred_Gomis
+3529,P-66906,Gonda,Shūichi,1989-03-03,0,1,0,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Sh%C5%ABichi_Gonda
+3569,P-82010,Goodwin,Craig,1991-12-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Craig_Goodwin
+3578,P-79409,Goretzka,Leon,1995-02-06,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Leon_Goretzka
+3594,P-63673,Götze,Mario,1992-06-03,0,0,0,1,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Mario_G%C3%B6tze
+3595,P-63923,Gouet,Samuel,1997-12-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Samuel_Gouet
+3605,P-90913,Grabara,Kamil,1999-01-08,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Kamil_Grabara
+3632,P-32870,Grbić,Ivo,1996-01-18,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Ivo_Grbi%C4%87_(footballer)
+3633,P-21153,Grealish,Jack,1995-09-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jack_Grealish
+3650,P-90908,Griezmann,Antoine,1991-03-21,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Antoine_Griezmann
+3663,P-64261,Grosicki,Kamil,1988-06-08,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kamil_Grosicki
+3668,P-13321,Gruezo,Carlos,1995-04-19,0,0,0,1,0,2,"2014, 2022","https://en.wikipedia.org/wiki/Carlos_Gruezo_(footballer,_born_1995)"
+3669,P-89573,Grujić,Marko,1996-04-13,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Marko_Gruji%C4%87
+3678,P-40312,Guardado,Andrés,1986-09-28,0,0,0,1,0,5,"2006, 2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Andr%C3%A9s_Guardado
+3686,P-24610,Gudelj,Nemanja,1991-11-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nemanja_Gudelj
+3689,P-87169,Gue-sung,Cho,1998-01-25,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Cho_Gue-sung
+3696,P-32431,Guendouzi,Matteo,1999-04-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Matteo_Guendouzi
+3698,P-67578,Guerreiro,Raphaël,1993-12-22,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Rapha%C3%ABl_Guerreiro
+3707,P-40621,Gueye,Idrissa,1989-09-26,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Idrissa_Gueye
+3708,P-45280,Gueye,Pape,1999-01-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Pape_Gueye
+3712,P-87958,Guillamón,Hugo,2000-01-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Hugo_Guillam%C3%B3n
+3716,P-74688,Guimarães,Bruno,1997-11-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es
+3725,P-42168,Gumny,Robert,1998-06-04,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Robert_Gumny
+3727,P-08896,Gündoğan,İlkay,1990-10-24,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan
+3731,P-92343,Gunter,Chris,1989-07-21,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Chris_Gunter
+3732,P-63385,Günter,Christian,1993-02-28,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Christian_G%C3%BCnter
+3743,P-64299,Gutiérrez,Érick,1995-06-15,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/%C3%89rick_Guti%C3%A9rrez
+3758,P-58420,Gvardiol,Joško,2002-01-23,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jo%C5%A1ko_Gvardiol
+3794,P-75785,Hajsafi,Ehsan,1990-02-25,0,0,1,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Ehsan_Hajsafi
+3798,P-45288,Hakimi,Achraf,1998-11-04,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Achraf_Hakimi
+3815,P-90423,Hamdallah,Abderrazak,1990-12-17,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Abderrazak_Hamdallah
+3879,P-37173,Harris,Mark,1998-12-29,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Mark_Harris_(Welsh_footballer)
+3895,P-01258,Hassan,Abdelkarim,1993-08-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Abdelkarim_Hassan
+3900,P-75618,Hassan,Yousef,1996-05-24,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Yousef_Hassan
+3902,P-57303,Hassen,Mouez,1995-03-05,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mouez_Hassen
+3907,P-97800,Hatem,Abdulaziz,1990-01-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Abdulaziz_Hatem
+3913,P-77743,Havertz,Kai,1999-06-11,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Kai_Havertz
+3922,P-72011,Hazard,Eden,1991-01-07,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Eden_Hazard
+3923,P-74337,Hazard,Thorgan,1993-03-29,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Thorgan_Hazard
+3958,P-08169,Henderson,Jordan,1990-06-17,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Jordan_Henderson
+3963,P-46457,Hennessey,Wayne,1987-01-24,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Wayne_Hennessey
+3991,P-84424,Hernandez,Lucas,1996-02-14,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Lucas_Hernandez
+3992,P-09867,Hernandez,Théo,1997-10-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Th%C3%A9o_Hernandez
+3995,P-14872,Hernández,Anthony,2001-10-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Anthony_Hern%C3%A1ndez
+4011,P-42911,Herrera,Héctor,1990-04-19,0,0,1,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/H%C3%A9ctor_Herrera
+4048,P-29713,Hincapié,Piero,2002-01-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Piero_Hincapi%C3%A9
+4077,P-18188,Hofmann,Jonas,1992-07-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jonas_Hofmann
+4086,P-35706,Hoilett,Junior,1990-06-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Junior_Hoilett
+4087,P-98199,Højbjerg,Pierre-Emile,1995-08-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Pierre-Emile_H%C3%B8jbjerg
+4106,P-91889,Hong,Chul,1990-09-17,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Hong_Chul
+4115,P-34633,Hongla,Martin,1998-03-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Martin_Hongla
+4126,P-05304,Horta,Ricardo,1994-09-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ricardo_Horta
+4129,P-01792,Horvath,Ethan,1995-06-09,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Ethan_Horvath
+4133,P-28492,Hosseini,Hossein,1992-06-30,0,1,0,0,0,1,2022,"https://en.wikipedia.org/wiki/Hossein_Hosseini_(footballer,_born_1992)"
+4135,P-15905,Hosseini,Majid,1996-06-20,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Majid_Hosseini
+4161,P-82945,Hrustic,Ajdin,1996-07-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ajdin_Hrustic
+4203,P-03472,Hutchinson,Atiba,1983-02-08,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Atiba_Hutchinson
+4209,P-58692,Hwang,Hee-chan,1996-01-26,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Hwang_Hee-chan
+4228,P-34543,Ibarra,Romario,1994-09-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Romario_Ibarra
+4240,P-22128,Ifa,Bilel,1990-03-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Bilel_Ifa
+4257,P-67641,Ilić,Ivan,2001-03-17,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Ivan_Ili%C4%87_(footballer,_born_2001)"
+4273,P-67516,In-beom,Hwang,1996-09-20,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Hwang_In-beom
+4307,P-34822,Irvine,Jackson,1993-03-07,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jackson_Irvine
+4327,P-62854,Issahaku,Abdul Fatawu,2004-03-08,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Abdul_Fatawu_Issahaku
+4328,P-35225,Itakura,Ko,1997-01-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ko_Itakura
+4331,P-41902,Ito,Hiroki,1999-05-12,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Hiroki_Ito_(footballer,_born_1999)"
+4332,P-86909,Ito,Junya,1993-03-09,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Junya_Ito_(footballer,_born_1993)"
+4347,P-94815,Ivušić,Ivica,1995-02-01,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Ivica_Ivu%C5%A1i%C4%87
+4361,P-86644,Jabrane,Yahya,1991-06-18,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Yahya_Jabrane
+4368,P-86937,Jackson,Nicolas,2001-06-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Nicolas_Jackson
+4376,P-98775,Jahanbakhsh,Alireza,1993-08-11,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh
+4383,P-86466,Jakić,Kristijan,1997-05-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kristijan_Jaki%C4%87
+4387,P-54506,Jakobs,Ismail,1999-08-17,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ismail_Jakobs
+4395,P-62858,Jalali,Abolfazl,1998-06-26,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Abolfazl_Jalali
+4399,P-74707,James,Daniel,1997-11-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Daniel_James_(footballer)
+4426,P-57087,Janssen,Vincent,1994-06-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Vincent_Janssen
+4443,P-17496,Jashari,Ardon,2002-07-30,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ardon_Jashari
+4450,P-82056,Jaziri,Seifeddine,1993-02-12,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Seifeddine_Jaziri
+4454,P-11346,Jebali,Issam,1991-12-25,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Issam_Jebali
+4458,P-61813,Jędrzejczyk,Artur,1987-11-04,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Artur_J%C4%99drzejczyk
+4476,P-26593,Jensen,Mathias,1996-01-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mathias_Jensen
+4487,P-92004,Jesus,Gabriel,1997-04-03,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Gabriel_Jesus
+4499,P-57865,Jiménez,Raúl,1991-05-05,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez
+4503,P-82889,Jin-su,Kim,1992-06-13,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kim_Jin-su
+4506,P-04157,Jo,Hyeon-woo,1991-09-25,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jo_Hyeon-woo
+4535,P-57098,Johnson,Brennan,2001-05-23,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Brennan_Johnson
+4541,P-38940,Johnson,Sean,1989-05-31,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Sean_Johnson_(soccer)
+4544,P-12635,Johnston,Alistair,1998-10-08,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alistair_Johnston
+4571,P-88529,Jong-gyu,Yoon,1998-03-20,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Yoon_Jong-gyu
+4595,P-62033,Jović,Luka,1997-12-23,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Luka_Jovi%C4%87
+4615,P-61172,Jun-ho,Son,1992-05-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Son_Jun-ho_(footballer)
+4624,P-64292,Jung,Woo-young,1989-12-14,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jung_Woo-young
+4629,P-92812,Júnior,Vinícius,2000-07-12,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Vin%C3%ADcius_J%C3%BAnior
+4631,P-16484,Juranović,Josip,1995-08-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Josip_Juranovi%C4%87
+4692,P-62952,Kamada,Daichi,1996-08-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Daichi_Kamada
+4698,P-83610,Kamiński,Jakub,2002-06-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jakub_Kami%C5%84ski
+4701,P-74612,Kanaanizadegan,Hossein,1994-03-23,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Hossein_Kanaanizadegan
+4703,P-58924,Kane,Harry,1993-07-28,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Harry_Kane
+4713,P-87514,Kang-in,Lee,2001-02-19,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Lee_Kang-in
+4716,P-91268,Kanno,Mohamed,1994-09-22,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mohamed_Kanno
+4728,P-24134,Karačić,Fran,1996-05-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Fran_Kara%C4%8Di%C4%87
+4744,P-68842,Karimi,Ali,1994-02-11,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Ali_Karimi_(footballer,_born_1994)"
+4772,P-53272,Kawashima,Eiji,1983-03-20,0,1,0,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Eiji_Kawashima
+4774,P-72399,Kaye,Mark-Anthony,1994-12-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mark-Anthony_Kaye
+4782,P-27079,Kechrida,Wajdi,1995-11-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Wajdi_Kechrida
+4787,P-11933,Kehrer,Thilo,1996-09-21,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Thilo_Kehrer
+4833,P-97838,Khalilzadeh,Shojae,1989-05-14,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Shojae_Khalilzadeh
+4842,P-42223,Khazri,Wahbi,1991-02-08,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Wahbi_Khazri
+4843,P-32949,Kheder,Musab,1993-01-01,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Musab_Kheder
+4845,P-21865,Khenissi,Taha Yassine,1992-01-06,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Taha_Yassine_Khenissi
+4851,P-12810,Khoukhi,Boualem,1990-07-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Boualem_Khoukhi
+4915,P-42523,Kim,Seung-gyu,1990-09-30,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Kim_Seung-gyu
+4932,P-07259,Kim,Young-gwon,1990-02-27,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Kim_Young-gwon
+4937,P-30316,Kimmich,Joshua,1995-02-08,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Joshua_Kimmich
+4940,P-53409,King,Joel,2000-10-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joel_King
+4966,P-44780,Kiwior,Jakub,2000-02-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jakub_Kiwior
+4969,P-14988,Kjær,Simon,1989-03-26,0,0,1,0,0,3,"2010, 2018, 2022",https://en.wikipedia.org/wiki/Simon_Kj%C3%A6r
+4970,P-42078,Klaassen,Davy,1993-02-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Davy_Klaassen
+4985,P-89863,Klostermann,Lukas,1996-06-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Lukas_Klostermann
+5004,P-06076,Kobel,Gregor,1997-12-06,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Gregor_Kobel
+5015,P-38800,Köhn,Philipp,1998-04-02,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Philipp_K%C3%B6hn
+5018,P-37294,Koke,not applicable,1992-01-08,0,0,0,1,0,3,"2014, 2018, 2022","https://en.wikipedia.org/wiki/Koke_(footballer,_born_1992)"
+5031,P-92987,Kolo Muani,Randal,1998-12-05,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Randal_Kolo_Muani
+5042,P-86920,Konaté,Ibrahima,1999-05-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ibrahima_Konat%C3%A9
+5049,P-85670,Koné,Ismaël,2002-06-16,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Isma%C3%ABl_Kon%C3%A9_(soccer,_born_2002)"
+5059,P-35705,Koopmeiners,Teun,1998-02-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Teun_Koopmeiners
+5084,P-80738,Kostić,Filip,1992-11-01,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Filip_Kosti%C4%87
+5095,P-47321,Koulibaly,Kalidou,1991-06-20,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kalidou_Koulibaly
+5097,P-78484,Koundé,Jules,1998-11-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jules_Kound%C3%A9
+5099,P-55140,Kouyaté,Cheikhou,1989-12-21,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Cheikhou_Kouyat%C3%A9
+5107,P-07670,Kovačić,Mateo,1994-05-06,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87
+5130,P-65182,Kramarić,Andrej,1991-06-19,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Andrej_Kramari%C4%87
+5154,P-82877,Kristensen,Rasmus,1997-07-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Rasmus_Kristensen
+5174,P-45449,Krychowiak,Grzegorz,1990-01-29,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Grzegorz_Krychowiak
+5180,P-39942,Kubo,Takefusa,2001-06-04,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Takefusa_Kubo
+5188,P-23821,Kudus,Mohammed,2000-08-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mohammed_Kudus
+5199,P-29115,Kunde,Pierre,1995-07-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Pierre_Kunde
+5204,P-05864,Kuol,Garang,2004-09-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Garang_Kuol
+5231,P-92252,Kyereh,Daniel-Kofi,1996-03-08,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Daniel-Kofi_Kyereh
+5234,P-57511,Kyung-won,Kwon,1992-01-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kwon_Kyung-won
+5254,P-29063,Laïdouni,Aïssa,1996-12-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/A%C3%AFssa_La%C3%AFdouni
+5269,P-12913,Lamptey,Tariq,2000-09-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Tariq_Lamptey
+5281,P-57903,Lang,Noa,1999-06-17,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Noa_Lang
+5290,P-99025,Laporte,Aymeric,1994-05-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Aymeric_Laporte
+5300,P-01925,Larin,Cyle,1995-04-17,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Cyle_Larin
+5317,P-42390,Laryea,Richie,1995-01-07,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Richie_Laryea
+5351,P-54211,Lazović,Darko,1990-09-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Darko_Lazovi%C4%87
+5360,P-27349,Leão,Rafael,1999-06-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Rafael_Le%C3%A3o
+5365,P-35837,Leckie,Mathew,1991-02-04,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Mathew_Leckie
+5381,P-93920,Lee,Jae-sung,1992-08-10,0,0,0,1,0,2,"2018, 2022","https://en.wikipedia.org/wiki/Lee_Jae-sung_(footballer,_born_1992)"
+5458,P-24982,Levitt,Dylan,2000-11-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Dylan_Levitt
+5460,P-00549,Lewandowski,Robert,1988-08-21,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Robert_Lewandowski
+5513,P-70516,Lindstrøm,Jesper,2000-02-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jesper_Lindstr%C3%B8m
+5533,P-31643,Livaja,Marko,1993-08-26,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Marko_Livaja
+5534,P-99988,Livaković,Dominik,1995-01-09,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Dominik_Livakovi%C4%87
+5546,P-86871,Llorente,Marcos,1995-01-30,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Marcos_Llorente
+5547,P-30711,Lloris,Hugo,1986-12-26,0,1,0,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Hugo_Lloris
+5553,P-34567,Lockyer,Tom,1994-12-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Tom_Lockyer
+5572,P-75522,Long,Aaron,1992-10-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Aaron_Long_(soccer)
+5587,P-01994,López,Douglas,1998-09-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Douglas_L%C3%B3pez
+5615,P-37001,Loum,Mamadou,1996-12-30,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mamadou_Loum
+5621,P-56297,Lovren,Dejan,1989-07-05,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Dejan_Lovren
+5627,P-24705,Lozano,Hirving,1995-07-30,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Hirving_Lozano
+5649,P-72637,Lukaku,Romelu,1993-05-13,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Romelu_Lukaku
+5650,P-78056,Lukić,Saša,1996-08-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sa%C5%A1a_Luki%C4%87
+5688,P-38981,Maâloul,Ali,1990-01-01,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ali_Ma%C3%A2loul
+5690,P-61979,Mabil,Awer,1995-09-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Awer_Mabil
+5692,P-71343,Mac Allister,Alexis,1998-12-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Alexis_Mac_Allister
+5700,P-44328,Machino,Shuto,1999-09-30,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Shuto_Machino
+5710,P-20087,Maclaren,Jamie,1993-07-29,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Jamie_Maclaren
+5715,P-95181,Maddison,James,1996-11-23,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/James_Maddison
+5717,P-63532,Madibo,Assim,1996-10-22,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Assim_Madibo
+5723,P-20388,Madu,Abdullah,1993-07-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Abdullah_Madu
+5725,P-30206,Maeda,Daizen,1997-10-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Daizen_Maeda
+5726,P-39995,Mæhle,Joakim,1997-05-20,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joakim_M%C3%A6hle
+5744,P-02465,Maguire,Harry,1993-03-05,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Harry_Maguire
+5768,P-64353,Majer,Lovro,1998-01-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Lovro_Majer
+5778,P-89598,Maksimović,Nemanja,1995-01-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nemanja_Maksimovi%C4%87
+5780,P-78630,Malacia,Tyrell,1999-08-17,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Tyrell_Malacia
+5803,P-36638,Manaf Nurudeen,Abdul,1999-02-08,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Abdul_Manaf_Nurudeen
+5806,P-69594,Mandanda,Steve,1985-03-28,0,1,0,0,0,3,"2010, 2018, 2022",https://en.wikipedia.org/wiki/Steve_Mandanda
+5889,P-31133,Mário,João,1993-01-19,0,0,0,1,0,2,"2018, 2022","https://en.wikipedia.org/wiki/Jo%C3%A3o_M%C3%A1rio_(footballer,_born_January_1993)"
+5909,P-25904,Marou,Souaibou,2000-12-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Souaibou_Marou
+5913,P-76060,Marquinhos,not applicable,1994-05-14,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Marquinhos
+5923,P-49482,Martín,Henry,1992-11-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Henry_Mart%C3%ADn
+5924,P-70483,Martinelli,Gabriel,2001-06-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Gabriel_Martinelli
+5926,P-39281,Martínez,Carlos,1999-03-30,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Carlos_Mart%C3%ADnez_(footballer,_born_1999)"
+5927,P-13162,Martínez,Emiliano,1992-09-02,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Emiliano_Mart%C3%ADnez
+5935,P-81505,Martínez,Lautaro,1997-08-22,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Lautaro_Mart%C3%ADnez
+5936,P-23070,Martínez,Lisandro,1998-01-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Lisandro_Mart%C3%ADnez
+5982,P-37189,Matarrita,Rónald,1994-07-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/R%C3%B3nald_Matarrita
+5993,P-25989,Mathlouthi,Aymen,1984-09-14,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Aymen_Mathlouthi
+6028,P-09614,Mazraoui,Noussair,1997-11-14,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Noussair_Mazraoui
+6033,P-80930,Mbaizo,Olivier,1997-08-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Olivier_Mbaizo
+6035,P-64077,Mbappé,Kylian,1998-12-20,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9
+6037,P-39394,Mbeumo,Bryan,1999-08-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Bryan_Mbeumo
+6073,P-51406,McGree,Riley,1998-11-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Riley_McGree
+6079,P-68952,McKennie,Weston,1998-08-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Weston_McKennie
+6133,P-48887,Mejbri,Hannibal,2003-01-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Hannibal_Mejbri
+6146,P-11495,Mena,Ángel,1988-01-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/%C3%81ngel_Mena
+6151,P-87003,Mendes,Nuno,2002-06-19,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Nuno_Mendes_(footballer,_born_2002)"
+6159,P-56839,Méndez,Sebas,1997-04-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sebas_M%C3%A9ndez
+6170,P-45399,Mendy,Édouard,1992-03-01,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/%C3%89douard_Mendy
+6171,P-11718,Mendy,Formose,2001-01-02,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Formose_Mendy_(footballer,_born_2001)"
+6172,P-96697,Mendy,Nampalys,1992-06-23,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nampalys_Mendy
+6178,P-28517,Mensah,Gideon,1998-07-18,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Gideon_Mensah_(footballer,_born_1998)"
+6185,P-74888,Mepham,Chris,1997-11-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Chris_Mepham
+6191,P-81706,Meriah,Yassine,1993-07-02,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Yassine_Meriah
+6198,P-84852,Mertens,Dries,1987-05-06,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Dries_Mertens
+6204,P-26637,Meshaal,Mostafa,2001-03-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mostafa_Meshaal_(footballer)
+6207,P-14758,Messi,Lionel,1987-06-24,0,0,0,0,1,5,"2006, 2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Lionel_Messi
+6216,P-22930,Meunier,Thomas,1991-09-12,0,0,1,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Thomas_Meunier
+6239,P-10313,Mignolet,Simon,1988-03-06,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Simon_Mignolet
+6261,P-57535,Milenković,Nikola,1997-10-12,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Nikola_Milenkovi%C4%87
+6264,P-12381,Milik,Arkadiusz,1994-02-28,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Arkadiusz_Milik
+6265,P-27744,Milinković-Savić,Sergej,1995-02-27,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Sergej_Milinkovi%C4%87-Savi%C4%87
+6266,P-24245,Milinković-Savić,Vanja,1997-02-20,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Vanja_Milinkovi%C4%87-Savi%C4%87
+6269,P-55590,Militão,Éder,1998-01-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/%C3%89der_Milit%C3%A3o
+6275,P-00809,Millar,Liam,1999-09-27,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Liam_Millar
+6280,P-31806,Miller,Kamal,1997-05-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kamal_Miller
+6294,P-14360,Min-jae,Kim,1996-11-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kim_Min-jae_(footballer)
+6295,P-97485,Min-kyu,Song,1999-09-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Song_Min-kyu_(footballer)
+6299,P-05559,Minamino,Takumi,1995-01-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Takumi_Minamino
+6326,P-22633,Mitoma,Kaoru,1997-05-20,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kaoru_Mitoma
+6329,P-85696,Mitrović,Aleksandar,1994-09-16,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Aleksandar_Mitrovi%C4%87
+6330,P-19069,Mitrović,Stefan,1990-05-22,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Stefan_Mitrovi%C4%87_(footballer,_born_1990)"
+6347,P-82143,Mladenović,Filip,1991-08-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Filip_Mladenovi%C4%87
+6360,P-29491,Modrić,Luka,1985-09-09,0,0,0,1,0,4,"2006, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Luka_Modri%C4%87
+6368,P-15566,Mohamedi,Munir,1989-05-10,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Munir_Mohamedi
+6369,P-01077,Mohammad,Ismaeel,1990-04-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ismaeel_Mohammad
+6370,P-74098,Mohammadi,Milad,1993-09-29,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Milad_Mohammadi
+6375,P-84382,Moharrami,Sadegh,1996-03-01,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Sadegh_Moharrami
+6389,P-84430,Molina,Nahuel,1998-04-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nahuel_Molina
+6416,P-36212,Montes,César,1997-02-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/C%C3%A9sar_Montes
+6420,P-91431,Montiel,Gonzalo,1997-01-01,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Gonzalo_Montiel
+6428,P-07233,Moon-hwan,Kim,1995-08-01,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kim_Moon-hwan
+6433,P-10657,Moore,Kieffer,1992-08-08,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Kieffer_Moore
+6436,P-48265,Moore,Shaq,1996-11-02,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Shaq_Moore
+6440,P-95847,Mooy,Aaron,1990-09-15,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Aaron_Mooy
+6455,P-29274,Morata,Álvaro,1992-10-23,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/%C3%81lvaro_Morata
+6464,P-21208,Moreno,Héctor,1988-01-17,0,0,1,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/H%C3%A9ctor_Moreno
+6482,P-75751,Morita,Hidemasa,1995-05-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Hidemasa_Morita
+6487,P-69082,Morrell,Joe,1997-01-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Joe_Morrell
+6489,P-77402,Morris,Jordan,1994-10-26,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jordan_Morris
+6514,P-04137,Moukoko,Youssoufa,2004-11-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Youssoufa_Moukoko
+6515,P-90012,Mount,Mason,1999-01-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mason_Mount
+6530,P-25741,Msakni,Youssef,1990-10-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Youssef_Msakni
+6557,P-28154,Müller,Thomas,1989-09-13,0,0,0,1,1,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Thomas_M%C3%BCller
+6564,P-54495,Muneer,Khalid,1998-02-24,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Khalid_Muneer
+6574,P-17048,Muntari,Mohammed,1993-12-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Mohammed_Muntari
+6594,P-59571,Musah,Yunus,2002-11-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Yunus_Musah
+6596,P-47182,Musiala,Jamal,2003-02-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jamal_Musiala
+6598,P-10014,Muslera,Fernando,1986-06-16,0,1,0,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Fernando_Muslera
+6621,P-66635,N'Diaye,Moussa,2002-06-18,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Moussa_N%27Diaye_(footballer,_born_2002)"
+6645,P-26303,Nagatomo,Yuto,1986-09-12,0,0,1,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Yuto_Nagatomo
+6672,P-92891,Name,Moustapha,1995-05-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Moustapha_Name
+6700,P-81392,Navas,Keylor,1986-12-15,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Keylor_Navas
+6714,P-33958,Ndiaye,Iliman,2000-03-06,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Iliman_Ndiaye
+6742,P-49454,Nelsson,Victor,1998-10-14,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Victor_Nelsson
+6759,P-19408,Neuer,Manuel,1986-03-27,0,1,0,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Manuel_Neuer
+6763,P-22983,Neves,Rúben,1997-03-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/R%C3%BAben_Neves
+6766,P-87008,Neymar,not applicable,1992-02-05,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Neymar
+6768,P-27913,Ngamaleu,Moumi,1994-07-09,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Moumi_Ngamaleu
+6770,P-22927,Ngapandouetnbu,Simon,2003-04-12,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Simon_Ngapandouetnbu
+6776,P-32773,Ngom Mbekeli,Jerome,1998-09-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jerome_Ngom_Mbekeli
+6780,P-17784,Niazmand,Payam,1995-04-06,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Payam_Niazmand
+6836,P-68058,Nkoudou,Georges-Kévin,1995-02-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Georges-K%C3%A9vin_Nkoudou
+6837,P-93209,Nkoulou,Nicolas,1990-03-27,0,0,1,0,0,3,"2010, 2014, 2022",https://en.wikipedia.org/wiki/Nicolas_Nkoulou
+6855,P-82000,Noppert,Andries,1994-04-07,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Andries_Noppert
+6867,P-56182,Nørgaard,Christian,1994-03-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Christian_N%C3%B8rgaard
+6876,P-42215,Nourollahi,Ahmad,1993-02-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ahmad_Nourollahi
+6888,P-39239,Nsame,Jean-Pierre,1993-05-01,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jean-Pierre_Nsame
+6889,P-62618,Ntcham,Olivier,1996-02-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Olivier_Ntcham
+6893,P-57759,Nunes,Matheus,1998-08-27,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Matheus_Nunes
+6894,P-18885,Núñez,Darwin,1999-06-24,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Darwin_N%C3%BA%C3%B1ez
+6950,P-80826,Ochoa,Guillermo,1985-07-13,0,1,0,0,0,5,"2006, 2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Guillermo_Ochoa
+6960,P-08359,Odoi,Denis,1988-05-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Denis_Odoi
+6989,P-85577,Okafor,Noah,2000-05-24,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Noah_Okafor
+7026,P-90796,Olivera,Mathías,1997-10-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Math%C3%ADas_Olivera
+7034,P-40007,Olmo,Dani,1998-05-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Dani_Olmo
+7035,P-82313,Olsen,Andreas Skov,1999-12-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Andreas_Skov_Olsen
+7057,P-75926,Omlin,Jonas,1994-01-10,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Jonas_Omlin
+7059,P-21652,Onana,Amadou,2001-08-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Amadou_Onana
+7060,P-67127,Onana,André,1996-04-02,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Andr%C3%A9_Onana
+7065,P-36707,Ondoua,Gaël,1995-11-04,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ga%C3%ABl_Ondoua
+7082,P-70691,Openda,Loïs,2000-02-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Lo%C3%AFs_Openda
+7104,P-26942,Oršić,Mislav,1992-12-29,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Mislav_Or%C5%A1i%C4%87
+7131,P-27541,Osorio,Jonathan,1992-06-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jonathan_Osorio
+7145,P-49114,Otamendi,Nicolás,1988-02-12,0,0,1,0,0,3,"2010, 2018, 2022",https://en.wikipedia.org/wiki/Nicol%C3%A1s_Otamendi
+7147,P-78787,Otávio,not applicable,1995-02-09,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Ot%C3%A1vio_(footballer,_born_1995)"
+7148,P-99177,Otayf,Abdullah,1992-08-03,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Abdullah_Otayf
+7158,P-40619,Ounahi,Azzedine,2000-04-19,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Azzedine_Ounahi
+7163,P-10740,Oviedo,Bryan,1990-02-18,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Bryan_Oviedo
+7169,P-70145,Owusu,Elisha,1997-11-07,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Elisha_Owusu
+7183,P-49934,Pacho,William,2001-10-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/William_Pacho
+7206,P-04237,Palacios,Diego,1999-07-12,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Diego_Palacios
+7208,P-40147,Palacios,Exequiel,1998-10-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Exequiel_Palacios
+7218,P-46583,Palhinha,João,1995-07-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jo%C3%A3o_Palhinha
+7243,P-61949,Pantemis,James,1997-02-21,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/James_Pantemis
+7254,P-05164,Paquetá,Lucas,1997-08-27,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Lucas_Paquet%C3%A1
+7265,P-27582,Paredes,Leandro,1994-06-29,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Leandro_Paredes
+7298,P-07875,Partey,Thomas,1993-06-13,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Thomas_Partey
+7300,P-89948,Pašalić,Mario,1995-02-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Mario_Pa%C5%A1ali%C4%87
+7314,P-18921,Pasveer,Remko,1983-11-08,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Remko_Pasveer
+7318,P-72028,Patrício,Rui,1988-02-15,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Rui_Patr%C3%ADcio
+7331,P-60652,Pavard,Benjamin,1996-03-28,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Benjamin_Pavard
+7335,P-98435,Pavlović,Strahinja,2001-05-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Strahinja_Pavlovi%C4%87
+7362,P-24897,Pedri,not applicable,2002-11-25,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Pedri
+7365,P-15197,Pedro,not applicable,1997-06-20,0,0,0,0,1,1,2022,"https://en.wikipedia.org/wiki/Pedro_(footballer,_born_1997)"
+7379,P-95062,Pellistri,Facundo,2001-12-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Facundo_Pellistri
+7397,P-81972,Pepe,not applicable,1983-02-26,0,0,1,0,0,4,"2010, 2014, 2018, 2022","https://en.wikipedia.org/wiki/Pepe_(footballer,_born_1983)"
+7409,P-98929,Pereira,Danilo,1991-09-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Danilo_Pereira
+7451,P-93884,Perišić,Ivan,1989-02-02,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87
+7486,P-46461,Petković,Bruno,1994-09-16,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Bruno_Petkovi%C4%87
+7507,P-29298,Pezzella,Germán,1991-06-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Germ%C3%A1n_Pezzella
+7518,P-43567,Phillips,Kalvin,1995-12-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kalvin_Phillips
+7523,P-11013,Piątek,Krzysztof,1995-07-01,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Krzysztof_Pi%C4%85tek
+7530,P-70618,Pickford,Jordan,1994-03-07,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jordan_Pickford
+7535,P-65386,Piette,Samuel,1994-11-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Samuel_Piette
+7545,P-95198,Pineda,Orbelín,1996-03-24,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Orbel%C3%ADn_Pineda
+7554,P-46898,Pino,Yeremy,2002-10-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Yeremy_Pino
+7588,P-13973,Plata,Gonzalo,2000-11-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Gonzalo_Plata
+7631,P-89070,Pope,Nick,1992-04-19,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Nick_Pope_(footballer)
+7644,P-73694,Porozo,Jackson,2000-08-04,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jackson_Porozo
+7657,P-08442,Poulsen,Yussuf,1994-06-15,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Yussuf_Poulsen
+7658,P-29864,Pouraliganji,Morteza,1992-04-19,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Morteza_Pouraliganji
+7668,P-62543,Preciado,Ángelo,1998-02-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/%C3%81ngelo_Preciado
+7669,P-16576,Preciado,Ayrton,1994-07-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ayrton_Preciado
+7710,P-11737,Pulisic,Christian,1998-09-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Christian_Pulisic
+7763,P-57401,Rabiot,Adrien,1995-04-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Adrien_Rabiot
+7765,P-09530,Račić,Uroš,1998-03-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Uro%C5%A1_Ra%C4%8Di%C4%87
+7775,P-79900,Radonjić,Nemanja,1996-02-15,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Nemanja_Radonji%C4%87
+7793,P-94579,Rahman,Baba,1994-07-02,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Baba_Rahman
+7800,P-35773,Rajković,Predrag,1995-10-31,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Predrag_Rajkovi%C4%87
+7816,P-39347,Ramírez,Moisés,2000-09-09,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Mois%C3%A9s_Ram%C3%ADrez
+7825,P-41647,Ramos,Gonçalo,2001-06-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Gon%C3%A7alo_Ramos
+7833,P-62368,Ramsdale,Aaron,1998-05-14,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Aaron_Ramsdale
+7834,P-86951,Ramsey,Aaron,1990-12-26,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Aaron_Ramsey
+7842,P-83169,Raphinha,not applicable,1996-12-14,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Raphinha
+7848,P-59837,Rashford,Marcus,1997-10-31,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Marcus_Rashford
+7860,P-20804,Raum,David,1998-04-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/David_Raum
+7863,P-33433,Raya,David,1995-09-15,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/David_Raya
+7868,P-26367,Ream,Tim,1987-10-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Tim_Ream
+7869,P-69217,Reasco,Djorkaeff,1999-01-18,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Djorkaeff_Reasco
+7878,P-30596,Redmayne,Andrew,1989-01-13,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Andrew_Redmayne
+7933,P-85878,Reyna,Giovanni,2002-11-13,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Giovanni_Reyna
+7936,P-47137,Rezaeian,Ramin,1990-03-21,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ramin_Rezaeian
+7954,P-42740,Ribeiro,Éverton,1989-04-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/%C3%89verton_Ribeiro
+7962,P-84787,Rice,Declan,1999-01-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Declan_Rice
+7964,P-68016,Richarlison,not applicable,1997-05-10,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Richarlison
+7968,P-25593,Rieder,Fabian,2002-02-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Fabian_Rieder
+8015,P-00052,Ró-Ró,not applicable,1990-08-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/R%C3%B3-R%C3%B3
+8022,P-56503,Roberts,Connor,1995-09-23,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Connor_Roberts_(footballer,_born_1995)"
+8028,P-70867,Robinson,Antonee,1997-08-08,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Antonee_Robinson
+8040,P-00232,Rochet,Sergio,1993-03-23,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Sergio_Rochet
+8050,P-38105,Rodon,Joe,1997-10-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joe_Rodon
+8052,P-62341,Rodri,not applicable,1996-06-22,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Rodri_(footballer,_born_1996)"
+8059,P-19618,Rodríguez,Carlos,1997-01-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Carlos_Alberto_Rodr%C3%ADguez
+8064,P-03265,Rodríguez,Guido,1994-04-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Guido_Rodr%C3%ADguez
+8073,P-55597,Rodríguez,José Luis,1997-03-14,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(footballer,_born_1997)"
+8077,P-02839,Rodríguez,Kevin,2000-03-04,0,0,0,0,1,1,2022,"https://en.wikipedia.org/wiki/Kevin_Rodr%C3%ADguez_(footballer,_born_2000)"
+8086,P-43367,Rodríguez,Ricardo,1992-08-25,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(footballer)
+8090,P-06446,Rodrygo,not applicable,2001-01-09,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Rodrygo
+8112,P-35320,Roldan,Cristian,1995-06-03,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Cristian_Roldan
+8125,P-79650,Romero,Cristian,1998-04-27,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Cristian_Romero_(footballer,_born_1998)"
+8136,P-26412,Romo,Luis,1995-06-05,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Luis_Romo
+8139,P-70442,Ronaldo,Cristiano,1985-02-05,0,0,0,0,1,5,"2006, 2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Cristiano_Ronaldo
+8142,P-35930,Rønnow,Frederik,1992-08-04,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Frederik_R%C3%B8nnow
+8180,P-88273,Rowles,Kye,1998-06-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Kye_Rowles
+8189,P-51201,Rüdiger,Antonio,1993-03-03,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger
+8202,P-99590,Ruiz,Bryan,1985-08-18,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Bryan_Ruiz
+8210,P-36188,Rulli,Gerónimo,1992-05-20,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Ger%C3%B3nimo_Rulli
+8224,P-10244,Ryan,Mathew,1992-04-08,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Mathew_Ryan
+8234,P-85204,Sá,José,1993-01-17,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%A1
+8240,P-55298,Sabaly,Youssouf,1993-03-05,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Youssouf_Sabaly
+8246,P-05265,Sabiri,Abdelhamid,1996-11-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Abdelhamid_Sabiri
+8280,P-26068,Saïss,Romain,1990-03-26,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Romain_Sa%C3%AFss
+8283,P-76842,Saka,Bukayo,2001-09-05,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Bukayo_Saka
+8286,P-56398,Sakai,Hiroki,1990-04-12,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Hiroki_Sakai
+8296,P-32622,Salas,Youstin,1996-06-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Youstin_Salas
+8310,P-07089,Saliba,William,2001-03-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/William_Saliba
+8317,P-50142,Salisu,Mohammed,1999-04-17,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Mohammed_Salisu
+8320,P-42663,Salman,Tarek,1997-12-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Tarek_Salman
+8358,P-24062,Sánchez,Jorge,1997-12-10,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Jorge_S%C3%A1nchez_(footballer,_born_1997)"
+8364,P-92513,Sánchez,Robert,1997-11-18,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Robert_S%C3%A1nchez
+8384,P-97698,Sandro,Alex,1991-01-26,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alex_Sandro
+8387,P-39464,Sané,Leroy,1996-01-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Leroy_San%C3%A9
+8390,P-10357,Sang-ho,Na,1996-08-12,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Na_Sang-ho
+8423,P-81427,Sarabia,Pablo,1992-05-11,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Pablo_Sarabia
+8427,P-94647,Sargent,Josh,2000-02-20,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Josh_Sargent
+8432,P-78091,Sarmiento,Jeremy,2002-06-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jeremy_Sarmiento
+8439,P-37935,Sarr,Ismaïla,1998-02-25,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr
+8441,P-76835,Sarr,Pape Matar,2002-09-14,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Pape_Matar_Sarr
+8447,P-90867,Sassi,Ferjani,1992-03-18,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ferjani_Sassi
+8463,P-80838,Scally,Joe,2002-12-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joe_Scally
+8472,P-25131,Schär,Fabian,1991-12-20,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Fabian_Sch%C3%A4r
+8486,P-71859,Schlotterbeck,Nico,1999-12-01,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nico_Schlotterbeck
+8488,P-58755,Schmeichel,Kasper,1986-11-05,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kasper_Schmeichel
+8492,P-77827,Schmidt,Daniel,1992-02-03,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Daniel_Schmidt_(footballer)
+8549,P-07180,Seferovic,Haris,1992-02-22,0,0,0,0,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Haris_Seferovic
+8559,P-36105,Seidu,Alidu,2000-06-04,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alidu_Seidu
+8573,P-14179,Semenyo,Antoine,2000-01-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Antoine_Semenyo
+8596,P-81142,Sequeira,Patrick,1999-03-01,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Patrick_Sequeira
+8623,P-32599,Seung-ho,Paik,1997-03-17,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Paik_Seung-ho
+8635,P-39460,Shaqiri,Xherdan,1991-10-10,0,0,0,1,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Xherdan_Shaqiri
+8636,P-06750,Sharahili,Riyadh,1993-04-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Riyadh_Sharahili
+8640,P-36400,Shaw,Luke,1995-07-12,0,0,1,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Luke_Shaw
+8653,P-99817,Shibasaki,Gaku,1992-05-28,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Gaku_Shibasaki
+8706,P-33280,Silva,André,1995-11-06,0,0,0,0,1,2,"2018, 2022","https://en.wikipedia.org/wiki/Andr%C3%A9_Silva_(footballer,_born_1995)"
+8707,P-05289,Silva,António,2003-10-30,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ant%C3%B3nio_Silva_(footballer)
+8708,P-34205,Silva,Bernardo,1994-08-10,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Bernardo_Silva
+8721,P-32798,Silva,Thiago,1984-09-22,0,0,1,0,0,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Thiago_Silva
+8737,P-94271,Simón,Unai,1997-06-11,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Unai_Sim%C3%B3n
+8741,P-34458,Simons,Xavi,2003-04-21,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Xavi_Simons
+8774,P-47815,Skhiri,Ellyes,1995-05-10,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ellyes_Skhiri
+8780,P-02071,Skóraś,Michał,2000-02-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Micha%C5%82_Sk%C3%B3ra%C5%9B
+8781,P-17943,Skorupski,Łukasz,1991-05-05,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/%C5%81ukasz_Skorupski
+8784,P-76468,Skov,Robert,1996-05-20,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Robert_Skov
+8796,P-69793,Sliti,Naïm,1992-07-27,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Na%C3%AFm_Sliti
+8816,P-84269,Smith,Matthew,1999-11-22,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Matthew_Smith_(footballer,_born_1999)"
+8847,P-30405,Soler,Carlos,1997-01-02,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Carlos_Soler_(footballer)
+8856,P-64056,Soma,Yuki,1997-02-25,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Yuki_Soma
+8859,P-63312,Sommer,Yann,1988-12-17,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Yann_Sommer
+8860,P-77335,Son,Heung-min,1992-07-08,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Son_Heung-min
+8889,P-84190,Sosa,Borna,1998-01-21,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Borna_Sosa
+8895,P-19914,Sosa,Sebastián,1986-08-19,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Sosa
+8912,P-89217,Souttar,Harry,1998-10-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Harry_Souttar
+8917,P-11878,Sow,Djibril,1997-02-06,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Djibril_Sow
+8919,P-20467,Sowah,Kamal,2000-01-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kamal_Sowah
+8943,P-94317,St. Clair,Dayne,1997-05-09,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Dayne_St._Clair
+8957,P-91350,Stanišić,Josip,2000-04-02,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Josip_Stani%C5%A1i%C4%87
+8970,P-20482,Steffen,Renato,1991-11-03,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Renato_Steffen
+8987,P-21553,Sterling,Raheem,1994-12-08,0,0,0,1,1,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Raheem_Sterling
+9023,P-92628,Stones,John,1994-05-28,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/John_Stones
+9056,P-11588,Stryger Larsen,Jens,1991-02-21,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Jens_Stryger_Larsen
+9067,P-30486,Suárez,Luis,1987-01-24,0,0,0,0,1,4,"2010, 2014, 2018, 2022",https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez
+9075,P-67668,Sučić,Luka,2002-09-08,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Luka_Su%C4%8Di%C4%87
+9086,P-48737,Süle,Niklas,1995-09-03,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Niklas_S%C3%BCle
+9087,P-33325,Sulemana,Kamaldeen,2002-02-15,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Kamaldeen_Sulemana
+9115,P-57417,Šutalo,Josip,2000-02-28,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Josip_%C5%A0utalo
+9150,P-85630,Świderski,Karol,1997-01-23,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Karol_%C5%9Awiderski
+9164,P-31606,Szczęsny,Wojciech,1990-04-18,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny
+9175,P-44699,Szymański,Damian,1995-06-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Damian_Szyma%C5%84ski
+9176,P-65512,Szymański,Sebastian,1999-05-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sebastian_Szyma%C5%84ski
+9182,P-33390,Tadić,Dušan,1988-11-20,0,0,0,1,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87
+9183,P-66969,Tae-hwan,Kim,1989-07-24,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Kim_Tae-hwan_(footballer,_born_1989)"
+9188,P-35173,Tagliafico,Nicolás,1992-08-31,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Nicol%C3%A1s_Tagliafico
+9189,P-88869,Tagnaouti,Ahmed Reda,1996-04-05,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Ahmed_Reda_Tagnaouti
+9208,P-94928,Talavera,Alfredo,1982-09-18,0,1,0,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Alfredo_Talavera
+9209,P-73455,Talbi,Montassar,1998-05-26,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Montassar_Talbi
+9219,P-82447,Tanaka,Ao,1998-09-10,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Ao_Tanaka
+9227,P-77382,Taniguchi,Shogo,1991-07-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Shogo_Taniguchi
+9238,P-85860,Taremi,Mehdi,1992-07-18,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Mehdi_Taremi
+9258,P-95763,Taylor,Kenneth,2002-05-16,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Kenneth_Taylor_(footballer,_born_2002)"
+9267,P-54517,Tchouaméni,Aurélien,2000-01-27,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Aur%C3%A9lien_Tchouam%C3%A9ni
+9273,P-24978,Tejeda,Yeltsin,1992-03-17,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Yeltsin_Tejeda
+9279,P-26953,Telles,Alex,1992-12-15,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Alex_Telles
+9289,P-03367,ter Stegen,Marc-André,1992-04-30,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen
+9307,P-75820,Theate,Arthur,2000-05-25,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Arthur_Theate
+9319,P-20564,Thomas,Sorba,1999-01-25,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Sorba_Thomas
+9332,P-13613,Thuram,Marcus,1997-08-06,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Marcus_Thuram
+9338,P-47906,Tielemans,Youri,1997-05-07,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Youri_Tielemans
+9343,P-34915,Tilio,Marco,2001-08-23,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Marco_Tilio
+9346,P-74111,Timber,Jurriën,2001-06-17,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Jurri%C3%ABn_Timber
+9368,P-20259,Toko Ekambi,Karl,1992-09-14,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Karl_Toko_Ekambi
+9376,P-55367,Tolo,Nouhou,1997-06-23,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Nouhou_Tolo
+9385,P-68429,Tomiyasu,Takehiro,1998-11-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Takehiro_Tomiyasu
+9391,P-04541,Torabi,Mehdi,1994-09-10,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mehdi_Torabi
+9401,P-47386,Torreira,Lucas,1996-02-11,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Lucas_Torreira
+9411,P-68430,Torres,Facundo,2000-04-13,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Facundo_Torres
+9412,P-96347,Torres,Félix,1997-01-11,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/F%C3%A9lix_Torres_(footballer,_born_1997)"
+9414,P-31301,Torres,Ferran,2000-02-29,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ferran_Torres
+9416,P-12179,Torres,Gerson,1997-08-28,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Gerson_Torres
+9419,P-16333,Torres,Pau,1997-01-16,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Pau_Torres
+9450,P-81947,Trapp,Kevin,1990-07-08,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kevin_Trapp
+9461,P-25937,Trippier,Kieran,1990-09-19,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kieran_Trippier
+9471,P-95312,Trossard,Leandro,1994-12-04,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Leandro_Trossard
+9497,P-48903,Turner,Matt,1994-06-24,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Matt_Turner_(soccer)
+9512,P-57586,Ueda,Ayase,1998-08-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ayase_Ueda
+9516,P-94091,Ugarte,Manuel,2001-04-11,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Manuel_Ugarte_(footballer)
+9518,P-83822,Ugbo,Iké,1998-09-21,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ik%C3%A9_Ugbo
+9519,P-92710,Ui-jo,Hwang,1992-08-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Hwang_Ui-jo
+9531,P-03945,Upamecano,Dayot,1998-10-27,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Dayot_Upamecano
+9586,P-75912,Valencia,Enner,1989-11-04,0,0,0,0,1,2,"2014, 2022",https://en.wikipedia.org/wiki/Enner_Valencia
+9603,P-05174,Valverde,Federico,1998-07-22,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Federico_Valverde
+9640,P-56029,van Dijk,Virgil,1991-07-08,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Virgil_van_Dijk
+9673,P-81997,Vanaken,Hans,1992-08-24,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Hans_Vanaken
+9693,P-42326,Varane,Raphaël,1993-04-25,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane
+9695,P-78932,Varela,Guillermo,1993-03-24,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Guillermo_Varela
+9704,P-65777,Vargas,Juan Pablo,1995-06-06,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Juan_Pablo_Vargas
+9706,P-85823,Vargas,Ruben,1998-08-05,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Ruben_Vargas
+9717,P-09877,Vásquez,Johan,1998-10-22,0,0,1,0,0,1,2022,"https://en.wikipedia.org/wiki/Johan_V%C3%A1squez_(footballer,_born_1998)"
+9730,P-46785,Vecino,Matías,1991-08-24,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Mat%C3%ADas_Vecino
+9731,P-64182,Vega,Alexis,1997-11-25,0,0,0,0,1,1,2022,"https://en.wikipedia.org/wiki/Alexis_Vega_(footballer,_born_1997)"
+9746,P-30283,Veljković,Miloš,1995-09-26,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Milo%C5%A1_Veljkovi%C4%87
+9754,P-58669,Venegas,Johan,1988-11-27,0,0,0,0,1,2,"2018, 2022",https://en.wikipedia.org/wiki/Johan_Venegas
+9764,P-00465,Veretout,Jordan,1993-03-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jordan_Veretout
+9784,P-64049,Vertonghen,Jan,1987-04-24,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Jan_Vertonghen
+9799,P-91294,Vida,Domagoj,1989-04-29,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Domagoj_Vida
+9844,P-18564,Viña,Matías,1997-11-09,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Mat%C3%ADas_Vi%C3%B1a
+9854,P-89266,Vitinha,not applicable,2000-02-13,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Vitinha_(footballer,_born_2000)"
+9856,P-89710,Vitória,Steven,1987-01-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Steven_Vit%C3%B3ria
+9864,P-63293,Vlahović,Dušan,2000-01-28,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Du%C5%A1an_Vlahovi%C4%87
+9866,P-22160,Vlašić,Nikola,1997-10-04,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nikola_Vla%C5%A1i%C4%87
+9910,P-11675,Vukovic,Danny,1985-03-27,0,1,0,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Danny_Vukovic
+9914,P-90689,Waad,Mohammed,1999-09-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Mohammed_Waad
+9932,P-74071,Walker,Kyle,1990-05-28,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kyle_Walker
+9960,P-31718,Ward,Danny,1993-06-22,0,1,0,0,0,1,2022,https://en.wikipedia.org/wiki/Danny_Ward_(Welsh_footballer)
+9969,P-93781,Wass,Daniel,1989-05-31,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Daniel_Wass
+9970,P-37984,Waston,Kendall,1988-01-01,0,0,1,0,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Kendall_Waston
+9972,P-71727,Waterman,Joel,1996-01-24,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Joel_Waterman
+9977,P-30252,Weah,Timothy,2000-02-22,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Timothy_Weah
+9988,P-95036,Weghorst,Wout,1992-08-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Wout_Weghorst
+10015,P-66020,Weverton,not applicable,1987-12-13,0,1,0,0,0,1,2022,"https://en.wikipedia.org/wiki/Weverton_(footballer,_born_1987)"
+10020,P-50034,White,Ben,1997-10-08,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Ben_White_(footballer)
+10032,P-38927,Widmer,Silvan,1993-03-05,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Silvan_Widmer
+10037,P-76995,Wieteska,Mateusz,1997-02-11,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Mateusz_Wieteska
+10055,P-53967,Williams,Iñaki,1994-06-15,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/I%C3%B1aki_Williams
+10056,P-56664,Williams,Jonny,1993-10-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jonny_Williams
+10058,P-87190,Williams,Neco,2001-04-13,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Neco_Williams
+10059,P-68218,Williams,Nico,2002-07-12,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Nico_Williams
+10070,P-22844,Wilson,Callum,1992-02-27,0,0,0,0,1,1,2022,"https://en.wikipedia.org/wiki/Callum_Wilson_(footballer,_born_1992)"
+10072,P-94779,Wilson,Harry,1997-03-22,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/Harry_Wilson_(footballer,_born_1997)"
+10076,P-23993,Wilson,Roan,2002-05-01,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Roan_Wilson
+10080,P-59609,Wind,Jonas,1999-02-07,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Jonas_Wind
+10090,P-53048,Witsel,Axel,1989-01-12,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Axel_Witsel
+10104,P-94500,Woo-yeong,Jeong,1999-09-20,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Jeong_Woo-yeong
+10112,P-74894,Wooh,Christopher,2001-09-18,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Christopher_Wooh
+10117,P-49915,Wotherspoon,David,1990-01-16,0,0,0,1,0,1,2022,"https://en.wikipedia.org/wiki/David_Wotherspoon_(footballer,_born_1990)"
+10119,P-97422,Wright,Bailey,1992-07-28,0,0,1,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/Bailey_Wright
+10121,P-68131,Wright,Haji,1998-03-27,0,0,0,0,1,1,2022,https://en.wikipedia.org/wiki/Haji_Wright
+10139,P-77224,Xhaka,Granit,1992-09-27,0,0,0,1,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Granit_Xhaka
+10169,P-45981,Yamane,Miki,1993-12-22,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Miki_Yamane
+10200,P-95273,Yedlin,DeAndre,1993-07-09,0,0,1,0,0,2,"2014, 2022",https://en.wikipedia.org/wiki/DeAndre_Yedlin
+10226,P-89321,Yoshida,Maya,1988-08-24,0,0,1,0,0,3,"2014, 2018, 2022",https://en.wikipedia.org/wiki/Maya_Yoshida
+10236,P-05917,Yu-min,Cho,1996-11-17,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Cho_Yu-min
+10264,P-83560,Zakaria,Denis,1996-11-20,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Denis_Zakaria
+10268,P-40498,Zalewski,Nicola,2002-01-23,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Nicola_Zalewski
+10269,P-38355,Zambo Anguissa,André-Frank,1995-11-16,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Andr%C3%A9-Frank_Zambo_Anguissa
+10272,P-22631,Zamora,Álvaro,2002-03-09,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/%C3%81lvaro_Zamora
+10284,P-94093,Zaroury,Anass,2000-11-07,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Anass_Zaroury
+10355,P-32165,Zieliński,Piotr,1994-05-20,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Piotr_Zieli%C5%84ski
+10359,P-57029,Zimmerman,Walker,1993-05-19,0,0,1,0,0,1,2022,https://en.wikipedia.org/wiki/Walker_Zimmerman
+10365,P-58363,Živković,Andrija,1996-07-11,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Andrija_%C5%BDivkovi%C4%87
+10368,P-70715,Ziyech,Hakim,1993-03-19,0,0,0,1,0,2,"2018, 2022",https://en.wikipedia.org/wiki/Hakim_Ziyech
+10397,P-31085,Żurkowski,Szymon,1997-09-25,0,0,0,1,0,1,2022,https://en.wikipedia.org/wiki/Szymon_%C5%BBurkowski

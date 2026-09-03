@@ -1,0 +1,16 @@
+# Q13  Official WC-2022 final standings (Kaggle "FIFA - 2022.csv"), joined per
+#      team with its confederation from the worldcup source.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT (STR(?pos) AS ?position) ?team ?confederation
+       (STR(?w) AS ?w) (STR(?d) AS ?d) (STR(?l) AS ?l)
+       (STR(?gf) AS ?gf) (STR(?ga) AS ?ga) (STR(?gd) AS ?gd)
+       (STR(?pts) AS ?points) WHERE {
+    ?t a wc:Team ;
+       wc:teamName ?team ;
+       wc:finalPosition ?pos ;
+       wc:wins ?w ; wc:draws ?d ; wc:losses ?l ;
+       wc:goalsFor ?gf ; wc:goalsAgainst ?ga ; wc:goalDifference ?gd ;
+       wc:points ?pts ;
+       wc:belongsToConfederation/wc:confederationCode ?confederation .
+}
+ORDER BY ?pos

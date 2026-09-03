@@ -1,0 +1,16 @@
+# Q4  All matches played at Lusail Stadium, with score and stage.
+#     Joins: worldcup matches + stadiums.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT (STR(?d) AS ?date) ?match ?stage ?home
+       (STR(?hs) AS ?homeScore) (STR(?as) AS ?awayScore) ?away WHERE {
+    ?s wc:stadiumName "Lusail Stadium" .
+    ?m wc:playedAt ?s ;
+       wc:matchName ?match ;
+       wc:matchDate ?d ;
+       wc:stageName ?stage ;
+       wc:hasHomeTeam/wc:teamName ?home ;
+       wc:hasAwayTeam/wc:teamName ?away ;
+       wc:homeScore ?hs ;
+       wc:awayScore ?as .
+}
+ORDER BY ?d

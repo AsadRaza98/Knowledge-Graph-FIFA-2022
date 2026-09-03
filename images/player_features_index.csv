@@ -1,0 +1,821 @@
+player_id,full_name,team,folder,ok
+P-39788,Franco Armani,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Franco Armani,True
+P-00652,Juan Foyth,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Juan Foyth,True
+P-35173,Nicolás Tagliafico,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Nicol├ís Tagliafico,True
+P-91431,Gonzalo Montiel,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Gonzalo Montiel,True
+P-27582,Leandro Paredes,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Leandro Paredes,True
+P-29298,Germán Pezzella,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Germ├ín Pezzella,True
+P-37314,Rodrigo De Paul,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Rodrigo De Paul,True
+P-73712,Marcos Acuña,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Marcos Acu├▒a,True
+P-19776,Julián Álvarez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Juli├ín ├ülvarez,True
+P-14758,Lionel Messi,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Lionel Messi (captain),True
+P-42113,Ángel Di María,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_├üngel Di Mar├¡a,True
+P-36188,Gerónimo Rulli,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Ger├│nimo Rulli,True
+P-79650,Cristian Romero,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Cristian Romero,True
+P-40147,Exequiel Palacios,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Exequiel Palacios,True
+P-92353,Ángel Correa,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_├üngel Correa,True
+P-56659,Thiago Almada,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Thiago Almada,True
+P-10231,Papu Gómez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Papu G├│mez,True
+P-03265,Guido Rodríguez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Guido Rodr├¡guez,True
+P-49114,Nicolás Otamendi,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Nicol├ís Otamendi,True
+P-71343,Alexis Mac Allister,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Alexis Mac Allister,True
+P-28151,Paulo Dybala,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Paulo Dybala,True
+P-81505,Lautaro Martínez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Lautaro Mart├¡nez,True
+P-13162,Emiliano Martínez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Emiliano Mart├¡nez,True
+P-10739,Enzo Fernández,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Enzo Fern├índez,True
+P-23070,Lisandro Martínez,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Lisandro Mart├¡nez,True
+P-84430,Nahuel Molina,Argentina,data/raw/player-images/Images/Images/Group C/Argentina Players/Images_Nahuel Molina,True
+P-10244,Mathew Ryan,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Mathew Ryan (captain),True
+P-59727,Miloš Degenek,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Milo┼í Degenek,True
+P-09062,Nathaniel Atkinson,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Nathaniel Atkinson,True
+P-88273,Kye Rowles,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Kye Rowles,True
+P-24134,Fran Karačić,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Fran Kara─ìi─ç,True
+P-35837,Mathew Leckie,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Mathew Leckie,True
+P-97422,Bailey Wright,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Bailey Wright,True
+P-20087,Jamie Maclaren,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Jamie Maclaren,True
+P-82945,Ajdin Hrustic,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Ajdin Hrustic,True
+P-61979,Awer Mabil,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Awer Mabil,True
+P-30596,Andrew Redmayne,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Andrew Redmayne,True
+P-95847,Aaron Mooy,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Aaron Mooy,True
+P-51406,Riley McGree,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Riley McGree,True
+P-91029,Mitchell Duke,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Mitchell Duke,True
+P-51118,Aziz Behich,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Aziz Behich,True
+P-64249,Cameron Devlin,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Cameron Devlin,True
+P-11675,Danny Vukovic,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Danny Vukovic,True
+P-89217,Harry Souttar,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Harry Souttar,True
+P-68599,Thomas Deng,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Thomas Deng,True
+P-05864,Garang Kuol,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Garang Kuol,True
+P-34822,Jackson Irvine,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Jackson Irvine,True
+P-82010,Craig Goodwin,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Craig Goodwin,True
+P-53409,Joel King,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Joel King,True
+P-67089,Jason Cummings,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Jason Cummings,True
+P-27035,Keanu Baccus,Australia,data/raw/player-images/Images/Images/Group D/Australia Players/Images_Keanu Baccus,True
+P-09658,Thibaut Courtois,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Thibaut Courtois,True
+P-70547,Toby Alderweireld,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Toby Alderweireld,True
+P-75820,Arthur Theate,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Arthur Theate,True
+P-61413,Wout Faes,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Wout Faes,True
+P-64049,Jan Vertonghen,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Jan Vertonghen,True
+P-53048,Axel Witsel,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Axel Witsel,True
+P-48955,Kevin De Bruyne,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Kevin De Bruyne,True
+P-47906,Youri Tielemans,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Youri Tielemans,True
+P-72637,Romelu Lukaku,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Romelu Lukaku,True
+P-72011,Eden Hazard,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Eden Hazard (captain),True
+P-06338,Yannick Carrasco,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Yannick Carrasco,True
+P-10313,Simon Mignolet,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Simon Mignolet,True
+P-88715,Koen Casteels,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Koen Casteels,True
+P-84852,Dries Mertens,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Dries Mertens,True
+P-22930,Thomas Meunier,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Thomas Meunier,True
+P-74337,Thorgan Hazard,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Thorgan Hazard,True
+P-95312,Leandro Trossard,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Leandro Trossard,True
+P-21652,Amadou Onana,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Amadou Onana,True
+P-73834,Leander Dendoncker,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Leander Dendoncker,True
+P-81997,Hans Vanaken,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Hans Vanaken,True
+P-56069,Timothy Castagne,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Timothy Castagne,True
+P-61810,Charles De Ketelaere,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Charles De Ketelaere,True
+P-13975,Michy Batshuayi,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Michy Batshuayi,True
+P-70691,Loïs Openda,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Lo├»s Openda,True
+P-29578,Jérémy Doku,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_J├⌐r├⌐my Doku,True
+P-56669,Zeno Debast,Belgium,data/raw/player-images/Images/Images/Group F/Belgium Players/Images_Zeno Debast,True
+P-21531,Alisson,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Alisson,True
+P-40137,Danilo,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Danilo,True
+P-32798,Thiago Silva,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Thiago Silva (captain),True
+P-76060,Marquinhos,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Marquinhos,True
+P-02305,Casemiro,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Casemiro,True
+P-97698,Alex Sandro,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Alex Sandro,True
+P-05164,Lucas Paquetá,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Lucas Paquet├í,True
+P-74941,Fred,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Fred,True
+P-68016,Richarlison,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Richarlison,True
+P-87008,Neymar,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Neymar,True
+P-83169,Raphinha,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Raphinha,True
+P-66020,Weverton,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Weverton,True
+P-09441,Dani Alves,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Dani Alves,True
+P-55590,Éder Militão,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_├ëder Milit├úo,True
+P-77071,Fabinho,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Fabinho,True
+P-26953,Alex Telles,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Alex Telles,True
+P-74688,Bruno Guimarães,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Bruno Guimar├úes,True
+P-92004,Gabriel Jesus,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Gabriel Jesus,True
+P-37860,Antony,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Antony,True
+P-92812,Vinícius Júnior,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Vin├¡cius J├║nior,True
+P-06446,Rodrygo,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Rodrygo,True
+P-42740,Éverton Ribeiro,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_├ëverton Ribeiro,True
+P-89248,Ederson,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Ederson,True
+P-14060,Bremer,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Bremer,True
+P-15197,Pedro,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Pedro,True
+P-70483,Gabriel Martinelli,Brazil,data/raw/player-images/Images/Images/Group G/Brazil Players/Images_Gabriel Martinelli,True
+P-22927,Simon Ngapandouetnbu,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Simon Ngapandouetnbu,True
+P-32773,Jerome Ngom Mbekeli,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Jerome Ngom Mbekeli,True
+P-93209,Nicolas Nkoulou,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Nicolas Nkoulou,True
+P-74894,Christopher Wooh,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Christopher Wooh,True
+P-36707,Gaël Ondoua,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Ga├½l Ondoua,True
+P-27913,Moumi Ngamaleu,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Moumi Ngamaleu,True
+P-68058,Georges-Kévin Nkoudou,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Georges-K├⌐vin Nkoudou,True
+P-38355,André-Frank Zambo Anguissa,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Andr├⌐-Frank Zambo Anguissa,True
+P-39239,Jean-Pierre Nsame,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Jean-Pierre Nsame,True
+P-53452,Vincent Aboubakar,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Vincent Aboubakar (captain),True
+P-51549,Christian Bassogog,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Christian Bassogog,True
+P-20259,Karl Toko Ekambi,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Karl Toko Ekambi,True
+P-06117,Eric Maxim Choupo-Moting,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Eric Maxim Choupo-Moting,True
+P-63923,Samuel Gouet,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Samuel Gouet,True
+P-29115,Pierre Kunde,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Pierre Kunde,True
+P-70357,Devis Epassy,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Devis Epassy,True
+P-80930,Olivier Mbaizo,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Olivier Mbaizo,True
+P-34633,Martin Hongla,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Martin Hongla,True
+P-47677,Collins Fai,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Collins Fai,True
+P-39394,Bryan Mbeumo,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Bryan Mbeumo,True
+P-59303,Jean-Charles Castelletto,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Jean-Charles Castelletto,True
+P-62618,Olivier Ntcham,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Olivier Ntcham,True
+P-67127,André Onana,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Andr├⌐ Onana,True
+P-02759,Enzo Ebosse,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Enzo Ebosse,True
+P-55367,Nouhou Tolo,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Nouhou Tolo,True
+P-25904,Souaibou Marou,Cameroon,data/raw/player-images/Images/Images/Group G/Cameroon Players/Images_Souaibou Marou,True
+P-94317,Dayne St. Clair,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Dayne St. Clair,True
+P-12635,Alistair Johnston,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Alistair Johnston,True
+P-55821,Sam Adekugbe,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Sam Adekugbe,True
+P-31806,Kamal Miller,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Kamal Miller,True
+P-89710,Steven Vitória,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Steven Vit├│ria,True
+P-65386,Samuel Piette,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Samuel Piette,True
+P-28794,Stephen Eustáquio,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Stephen Eust├íquio,True
+P-32574,Liam Fraser,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Liam Fraser,True
+P-58061,Lucas Cavallini,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Lucas Cavallini,True
+P-35706,Junior Hoilett,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Junior Hoilett,True
+P-96259,Tajon Buchanan,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Tajon Buchanan,True
+P-83822,Iké Ugbo,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Ik├⌐ Ugbo,True
+P-03472,Atiba Hutchinson,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Atiba Hutchinson (captain),True
+P-72399,Mark-Anthony Kaye,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Mark-Anthony Kaye,True
+P-85670,Ismaël Koné,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Isma├½l Kon├⌐,True
+P-61949,James Pantemis,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_James Pantemis,True
+P-01925,Cyle Larin,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Cyle Larin,True
+P-46263,Milan Borjan,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Milan Borjan,True
+P-46358,Alphonso Davies,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Alphonso Davies,True
+P-48340,Jonathan David,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Jonathan David,True
+P-27541,Jonathan Osorio,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Jonathan Osorio,True
+P-42390,Richie Laryea,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Richie Laryea,True
+P-00809,Liam Millar,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Liam Millar,True
+P-49915,David Wotherspoon,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_David Wotherspoon,True
+P-21099,Derek Cornelius,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Derek Cornelius,True
+P-71727,Joel Waterman,Canada,data/raw/player-images/Images/Images/Group F/Canada Players/Images_Joel Waterman,True
+P-81392,Keylor Navas,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Keylor Navas,True
+P-57150,Daniel Chacón,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Daniel Chac├│n,True
+P-65777,Juan Pablo Vargas,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Juan Pablo Vargas,True
+P-80986,Keysher Fuller,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Keysher Fuller,True
+P-11767,Celso Borges,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Celso Borges,True
+P-97912,Óscar Duarte,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_├ôscar Duarte,True
+P-02556,Anthony Contreras,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Anthony Contreras,True
+P-10740,Bryan Oviedo,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Bryan Oviedo,True
+P-09889,Jewison Bennette,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Jewison Bennette,True
+P-99590,Bryan Ruiz,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Bryan Ruiz (captain),True
+P-58669,Johan Venegas,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Johan Venegas,True
+P-70812,Joel Campbell,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Joel Campbell,True
+P-12179,Gerson Torres,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Gerson Torres,True
+P-32622,Youstin Salas,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Youstin Salas,True
+P-71100,Francisco Calvo,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Francisco Calvo,True
+P-39281,Carlos Martínez,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Carlos Mart├¡nez,True
+P-24978,Yeltsin Tejeda,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Yeltsin Tejeda,True
+P-03616,Esteban Alvarado,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Esteban Alvarado,True
+P-37984,Kendall Waston,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Kendall Waston,True
+P-44957,Brandon Aguilera,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Brandon Aguilera,True
+P-01994,Douglas López,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Douglas L├│pez,True
+P-37189,Rónald Matarrita,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_R├│nald Matarrita,True
+P-81142,Patrick Sequeira,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Patrick Sequeira,True
+P-23993,Roan Wilson,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Roan Wilson,True
+P-14872,Anthony Hernández,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_Anthony Hern├índez,True
+P-22631,Álvaro Zamora,Costa Rica,data/raw/player-images/Images/Images/Group E/Costa Rica Players/Images_├ülvaro Zamora,True
+P-99988,Dominik Livaković,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Dominik Livakovi─ç,True
+P-91350,Josip Stanišić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Josip Stani┼íi─ç,True
+P-95766,Borna Barišić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Borna Bari┼íi─ç,True
+P-93884,Ivan Perišić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Ivan Peri┼íi─ç,True
+P-01196,Martin Erlić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Martin Erli─ç,True
+P-56297,Dejan Lovren,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Dejan Lovren,True
+P-64353,Lovro Majer,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Lovro Majer,True
+P-07670,Mateo Kovačić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Mateo Kova─ìi─ç,True
+P-65182,Andrej Kramarić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Andrej Kramari─ç,True
+P-29491,Luka Modrić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Luka Modri─ç (captain),True
+P-79215,Marcelo Brozović,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Marcelo Brozovi─ç,True
+P-32870,Ivo Grbić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Ivo Grbi─ç,True
+P-22160,Nikola Vlašić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Nikola Vla┼íi─ç,True
+P-31643,Marko Livaja,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Marko Livaja,True
+P-89948,Mario Pašalić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Mario Pa┼íali─ç,True
+P-46461,Bruno Petković,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Bruno Petkovi─ç,True
+P-99461,Ante Budimir,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Ante Budimir,True
+P-26942,Mislav Oršić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Mislav Or┼íi─ç,True
+P-84190,Borna Sosa,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Borna Sosa,True
+P-58420,Joško Gvardiol,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Jo┼íko Gvardiol,True
+P-91294,Domagoj Vida,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Domagoj Vida,True
+P-16484,Josip Juranović,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Josip Juranovi─ç,True
+P-94815,Ivica Ivušić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Ivica Ivu┼íi─ç,True
+P-57417,Josip Šutalo,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Josip ┼áutalo,True
+P-67668,Luka Sučić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Luka Su─ìi─ç,True
+P-86466,Kristijan Jakić,Croatia,data/raw/player-images/Images/Images/Group F/Croatia Players/Images_Kristijan Jaki─ç,True
+P-58755,Kasper Schmeichel,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Kasper Schmeichel,True
+P-43705,Joachim Andersen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Joachim Andersen,True
+P-49454,Victor Nelsson,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Victor Nelsson,True
+P-14988,Simon Kjær,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Simon Kj├ªr (captain),True
+P-39995,Joakim Mæhle,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Joakim M├ªhle,True
+P-18923,Andreas Christensen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Andreas Christensen,True
+P-26593,Mathias Jensen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Mathias Jensen,True
+P-57615,Thomas Delaney,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Thomas Delaney,True
+P-85579,Martin Braithwaite,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Martin Braithwaite,True
+P-50104,Christian Eriksen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Christian Eriksen,True
+P-82313,Andreas Skov Olsen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Andreas Skov Olsen,True
+P-72592,Kasper Dolberg,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Kasper Dolberg,True
+P-82877,Rasmus Kristensen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Rasmus Kristensen,True
+P-57782,Mikkel Damsgaard,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Mikkel Damsgaard,True
+P-56182,Christian Nørgaard,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Christian N├╕rgaard,True
+P-07304,Oliver Christensen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Oliver Christensen,True
+P-11588,Jens Stryger Larsen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Jens Stryger Larsen,True
+P-93781,Daniel Wass,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Daniel Wass,True
+P-59609,Jonas Wind,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Jonas Wind,True
+P-08442,Yussuf Poulsen,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Yussuf Poulsen,True
+P-29053,Andreas Cornelius,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Andreas Cornelius,True
+P-35930,Frederik Rønnow,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Frederik R├╕nnow,True
+P-98199,Pierre-Emile Højbjerg,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Pierre-Emile H├╕jbjerg,True
+P-76468,Robert Skov,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Robert Skov,True
+P-70516,Jesper Lindstrøm,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Jesper Lindstr├╕m,True
+P-92135,Alexander Bah,Denmark,data/raw/player-images/Images/Images/Group D/Denmark Players/Images_Alexander Bah,True
+P-56347,Hernán Galíndez,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Hern├ín Gal├¡ndez,True
+P-96347,Félix Torres,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_F├⌐lix Torres,True
+P-29713,Piero Hincapié,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Piero Hincapi├⌐,True
+P-22286,Robert Arboleda,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Robert Arboleda,True
+P-75628,José Cifuentes,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Jos├⌐ Cifuentes,True
+P-49934,William Pacho,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_William Pacho,True
+P-52697,Pervis Estupiñán,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Pervis Estupi├▒├ín,True
+P-13321,Carlos Gruezo,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Carlos Gruezo,True
+P-16576,Ayrton Preciado,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Ayrton Preciado,True
+P-34543,Romario Ibarra,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Romario Ibarra,True
+P-44851,Michael Estrada,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Michael Estrada,True
+P-39347,Moisés Ramírez,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Mois├⌐s Ram├¡rez,True
+P-75912,Enner Valencia,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Enner Valencia (captain),True
+P-06545,Xavier Arreaga,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Xavier Arreaga,True
+P-11495,Ángel Mena,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_├üngel Mena,True
+P-78091,Jeremy Sarmiento,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Jeremy Sarmiento,True
+P-62543,Ángelo Preciado,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_├üngelo Preciado,True
+P-04237,Diego Palacios,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Diego Palacios,True
+P-13973,Gonzalo Plata,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Gonzalo Plata,True
+P-56839,Sebas Méndez,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Sebas M├⌐ndez,True
+P-28364,Alan Franco,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Alan Franco,True
+P-94877,Alexander Domínguez,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Alexander Dom├¡nguez,True
+P-82216,Moisés Caicedo,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Mois├⌐s Caicedo,True
+P-69217,Djorkaeff Reasco,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Djorkaeff Reasco,True
+P-73694,Jackson Porozo,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Jackson Porozo,True
+P-02839,Kevin Rodríguez,Ecuador,data/raw/player-images/Images/Images/Group A/Ecuador Players/Images_Kevin Rodr├¡guez,True
+P-70618,Jordan Pickford,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Jordan Pickford,True
+P-74071,Kyle Walker,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Kyle Walker,True
+P-36400,Luke Shaw,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Luke Shaw,True
+P-84787,Declan Rice,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Declan Rice,True
+P-92628,John Stones,England,data/raw/player-images/Images/Images/Group B/England Players/Images_John Stones,True
+P-02465,Harry Maguire,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Harry Maguire,True
+P-21153,Jack Grealish,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Jack Grealish,True
+P-08169,Jordan Henderson,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Jordan Henderson,True
+P-58924,Harry Kane,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Harry Kane (captain),True
+P-21553,Raheem Sterling,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Raheem Sterling,True
+P-59837,Marcus Rashford,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Marcus Rashford,True
+P-25937,Kieran Trippier,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Kieran Trippier,True
+P-89070,Nick Pope,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Nick Pope,True
+P-43567,Kalvin Phillips,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Kalvin Phillips,True
+P-31219,Eric Dier,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Eric Dier,True
+P-76287,Conor Coady,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Conor Coady,True
+P-76842,Bukayo Saka,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Bukayo Saka,True
+P-05318,Trent Alexander-Arnold,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Trent Alexander-Arnold,True
+P-90012,Mason Mount,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Mason Mount,True
+P-10501,Phil Foden,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Phil Foden,True
+P-50034,Ben White,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Ben White,True
+P-15674,Jude Bellingham,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Jude Bellingham,True
+P-62368,Aaron Ramsdale,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Aaron Ramsdale,True
+P-22844,Callum Wilson,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Callum Wilson,True
+P-95181,James Maddison,England,data/raw/player-images/Images/Images/Group B/England Players/Images_James Maddison,True
+P-46540,Conor Gallagher,England,data/raw/player-images/Images/Images/Group B/England Players/Images_Conor Gallagher,True
+P-30711,Hugo Lloris,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Hugo Lloris (captain),True
+P-60652,Benjamin Pavard,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Benjamin Pavard,True
+P-91324,Axel Disasi,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Axel Disasi,True
+P-42326,Raphaël Varane,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Rapha├½l Varane,True
+P-78484,Jules Koundé,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Jules Kound├⌐,True
+P-32431,Matteo Guendouzi,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Matteo Guendouzi,True
+P-90908,Antoine Griezmann,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Antoine Griezmann,True
+P-54517,Aurélien Tchouaméni,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Aur├⌐lien Tchouam├⌐ni,True
+P-89750,Olivier Giroud,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Olivier Giroud,True
+P-64077,Kylian Mbappé,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Kylian Mbapp├⌐,True
+P-97778,Ousmane Dembélé,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Ousmane Demb├⌐l├⌐,True
+P-92987,Randal Kolo Muani,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Randal Kolo Muani,True
+P-23304,Youssouf Fofana,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Youssouf Fofana,True
+P-57401,Adrien Rabiot,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Adrien Rabiot,True
+P-00465,Jordan Veretout,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Jordan Veretout,True
+P-69594,Steve Mandanda,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Steve Mandanda,True
+P-07089,William Saliba,France,data/raw/player-images/Images/Images/Group D/France Players/Images_William Saliba,True
+P-03945,Dayot Upamecano,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Dayot Upamecano,True
+P-35408,Karim Benzema,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Karim Benzema,True
+P-06614,Kingsley Coman,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Kingsley Coman,True
+P-84424,Lucas Hernandez,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Lucas Hernandez,True
+P-09867,Théo Hernandez,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Theo Hernandez,True
+P-81466,Alphonse Areola,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Alphonse Areola,True
+P-86920,Ibrahima Konaté,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Ibrahima Konat├⌐,True
+P-80996,Eduardo Camavinga,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Eduardo Camavinga,True
+P-13613,Marcus Thuram,France,data/raw/player-images/Images/Images/Group D/France Players/Images_Marcus Thuram,True
+P-19408,Manuel Neuer,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Manuel Neuer (captain),True
+P-51201,Antonio Rüdiger,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Antonio R├╝diger,True
+P-20804,David Raum,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_David Raum,True
+P-36126,Matthias Ginter,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Matthias Ginter,True
+P-11933,Thilo Kehrer,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Thilo Kehrer,True
+P-30316,Joshua Kimmich,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Joshua Kimmich,True
+P-77743,Kai Havertz,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Kai Havertz,True
+P-79409,Leon Goretzka,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Leon Goretzka,True
+P-46246,Niclas Füllkrug,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Niclas F├╝llkrug,True
+P-75989,Serge Gnabry,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Serge Gnabry,True
+P-63673,Mario Götze,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Mario G├╢tze,True
+P-81947,Kevin Trapp,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Kevin Trapp,True
+P-28154,Thomas Müller,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Thomas M├╝ller,True
+P-47182,Jamal Musiala,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Jamal Musiala,True
+P-48737,Niklas Süle,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Niklas S├╝le,True
+P-89863,Lukas Klostermann,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Lukas Klostermann,True
+P-50679,Julian Brandt,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Julian Brandt,True
+P-18188,Jonas Hofmann,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Jonas Hofmann,True
+P-39464,Leroy Sané,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Leroy San├⌐,True
+P-63385,Christian Günter,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Christian G├╝nter,True
+P-08896,İlkay Gündoğan,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_─░lkay G├╝ndo─ƒan,True
+P-03367,Marc-André ter Stegen,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Marc-Andr├⌐ ter Stegen,True
+P-71859,Nico Schlotterbeck,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Nico Schlotterbeck,True
+P-05901,Karim Adeyemi,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Karim Adeyemi,True
+P-69200,Armel Bella-Kotchap,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Armel Bella-Kotchap,True
+P-04137,Youssoufa Moukoko,Germany,data/raw/player-images/Images/Images/Group E/Germany Players/Images_Youssoufa Moukoko,True
+P-51990,Lawrence Ati-Zigi,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Lawrence Ati-Zigi,True
+P-12913,Tariq Lamptey,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Tariq Lamptey,True
+P-08359,Denis Odoi,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Denis Odoi,True
+P-50142,Mohammed Salisu,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Mohammed Salisu,True
+P-07875,Thomas Partey,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Thomas Partey,True
+P-70145,Elisha Owusu,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Elisha Owusu,True
+P-62854,Abdul Fatawu Issahaku,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Abdul Fatawu Issahaku,True
+P-92252,Daniel-Kofi Kyereh,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Daniel-Kofi Kyereh,True
+P-31765,Jordan Ayew,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Jordan Ayew,True
+P-01945,André Ayew,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Andr├⌐ Ayew (captain),True
+P-72363,Osman Bukari,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Osman Bukari,True
+P-16148,Ibrahim Danlad,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Ibrahim Danlad,True
+P-13639,Daniel Afriyie,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Daniel Afriyie,True
+P-28517,Gideon Mensah,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Gideon Mensah,True
+P-09991,Joseph Aidoo,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Joseph Aidoo,True
+P-36638,Abdul Manaf Nurudeen,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Abdul Manaf Nurudeen,True
+P-94579,Baba Rahman,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Baba Rahman,True
+P-82956,Daniel Amartey,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Daniel Amartey,True
+P-53967,Iñaki Williams,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_I├▒aki Williams,True
+P-23821,Mohammed Kudus,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Mohammed Kudus,True
+P-21820,Salis Abdul Samed,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Salis Abdul Samed,True
+P-33325,Kamaldeen Sulemana,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Kamaldeen Sulemana,True
+P-59808,Alexander Djiku,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Alexander Djiku,True
+P-20467,Kamal Sowah,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Kamal Sowah,True
+P-14179,Antoine Semenyo,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Antoine Semenyo,True
+P-36105,Alidu Seidu,Ghana,data/raw/player-images/Images/Images/Group H/Ghana Players/Images_Alidu Seidu,True
+P-20998,Alireza Beiranvand,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Alireza Beiranvand,True
+P-84382,Sadegh Moharrami,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Sadegh Moharrami,True
+P-75785,Ehsan Hajsafi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Ehsan Hajsafi (captain),True
+P-97838,Shojae Khalilzadeh,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Shojae Khalilzadeh,True
+P-74098,Milad Mohammadi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Milad Mohammadi,True
+P-95374,Saeid Ezatolahi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Saeid Ezatolahi,True
+P-98775,Alireza Jahanbakhsh,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Alireza Jahanbakhsh,True
+P-29864,Morteza Pouraliganji,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Morteza Pouraliganji,True
+P-85860,Mehdi Taremi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Mehdi Taremi,True
+P-53957,Karim Ansarifard,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Karim Ansarifard,True
+P-24531,Vahid Amiri,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Vahid Amiri,True
+P-17784,Payam Niazmand,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Payam Niazmand,True
+P-74612,Hossein Kanaanizadegan,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Hossein Kanaanizadegan,True
+P-87786,Saman Ghoddos,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Saman Ghoddos,True
+P-98747,Rouzbeh Cheshmi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Rouzbeh Cheshmi,True
+P-04541,Mehdi Torabi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Mehdi Torabi,True
+P-45653,Ali Gholizadeh,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Ali Gholizadeh,True
+P-68842,Ali Karimi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Ali Karimi,True
+P-15905,Majid Hosseini,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Majid Hosseini,True
+P-09113,Sardar Azmoun,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Sardar Azmoun,True
+P-42215,Ahmad Nourollahi,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Ahmad Nourollahi,True
+P-80505,Amir Abedzadeh,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Amir Abedzadeh,True
+P-47137,Ramin Rezaeian,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Ramin Rezaeian,True
+P-28492,Hossein Hosseini,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Hossein Hosseini,True
+P-62858,Abolfazl Jalali,Iran,data/raw/player-images/Images/Images/Group B/Iran Players/Images_Abolfazl Jalali,True
+P-53272,Eiji Kawashima,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Eiji Kawashima,True
+P-45981,Miki Yamane,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Miki Yamane,True
+P-77382,Shogo Taniguchi,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Shogo Taniguchi,True
+P-35225,Ko Itakura,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Ko Itakura,True
+P-26303,Yuto Nagatomo,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Yuto Nagatomo,True
+P-53282,Wataru Endo,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Wataru Endo,True
+P-99817,Gaku Shibasaki,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Gaku Shibasaki,True
+P-58907,Ritsu Dōan,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Ritsu D┼ìan,True
+P-22633,Kaoru Mitoma,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Kaoru Mitoma,True
+P-05559,Takumi Minamino,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Takumi Minamino,True
+P-39942,Takefusa Kubo,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Takefusa Kubo,True
+P-66906,Shūichi Gonda,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Sh┼½ichi Gonda,True
+P-75751,Hidemasa Morita,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Hidemasa Morita,True
+P-86909,Junya Ito,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Junya Ito,True
+P-62952,Daichi Kamada,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Daichi Kamada,True
+P-68429,Takehiro Tomiyasu,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Takehiro Tomiyasu,True
+P-82447,Ao Tanaka,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Ao Tanaka,True
+P-46913,Takuma Asano,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Takuma Asano,True
+P-56398,Hiroki Sakai,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Hiroki Sakai,True
+P-44328,Shuto Machino,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Shuto Machino,True
+P-57586,Ayase Ueda,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Ayase Ueda,True
+P-89321,Maya Yoshida,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Maya Yoshida (captain),True
+P-77827,Daniel Schmidt,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Daniel Schmidt,True
+P-64056,Yuki Soma,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Yuki Soma,True
+P-30206,Daizen Maeda,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Daizen Maeda,True
+P-41902,Hiroki Ito,Japan,data/raw/player-images/Images/Images/Group E/Japan Players/Images_Hiroki Ito,True
+P-94928,Alfredo Talavera,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Alfredo Talavera,True
+P-38529,Néstor Araujo,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_N├⌐stor Araujo,True
+P-36212,César Montes,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_C├⌐sar Montes,True
+P-26546,Edson Álvarez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Edson ├ülvarez,True
+P-09877,Johan Vásquez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Johan V├ísquez,True
+P-96510,Gerardo Arteaga,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Gerardo Arteaga,True
+P-26412,Luis Romo,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Luis Romo,True
+P-19618,Carlos Rodríguez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Carlos Rodr├¡guez,True
+P-57865,Raúl Jiménez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Ra├║l Jim├⌐nez,True
+P-64182,Alexis Vega,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Alexis Vega,True
+P-51689,Rogelio Funes Mori,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Rogelio Funes Mori,True
+P-96662,Rodolfo Cota,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Rodolfo Cota,True
+P-80826,Guillermo Ochoa,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Guillermo Ochoa,True
+P-64299,Érick Gutiérrez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_├ërick Guti├⌐rrez,True
+P-21208,Héctor Moreno,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_H├⌐ctor Moreno,True
+P-42911,Héctor Herrera,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_H├⌐ctor Herrera,True
+P-95198,Orbelín Pineda,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Orbel├¡n Pineda,True
+P-40312,Andrés Guardado,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Andr├⌐s Guardado (captain),True
+P-24062,Jorge Sánchez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Jorge S├ínchez,True
+P-49482,Henry Martín,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Henry Mart├¡n,True
+P-81433,Uriel Antuna,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Uriel Antuna,True
+P-24705,Hirving Lozano,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Hirving Lozano,True
+P-80088,Jesús Gallardo,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Jes├║s Gallardo,True
+P-49806,Luis Chávez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Luis Ch├ívez,True
+P-73491,Roberto Alvarado,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Roberto Alvarado,True
+P-09058,Kevin Álvarez,Mexico,data/raw/player-images/Images/Images/Group C/Mexico Players/Images_Kevin ├ülvarez,True
+P-50688,Yassine Bounou,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Yassine Bounou,True
+P-45288,Achraf Hakimi,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Achraf Hakimi,True
+P-09614,Noussair Mazraoui,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Noussair Mazraoui,True
+P-71023,Sofyan Amrabat,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Sofyan Amrabat,True
+P-47490,Nayef Aguerd,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Nayef Aguerd,True
+P-26068,Romain Saïss,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Romain Sa├»ss (captain),True
+P-70715,Hakim Ziyech,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Hakim Ziyech,True
+P-40619,Azzedine Ounahi,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Azzedine Ounahi,True
+P-90423,Abderrazak Hamdallah,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Abderrazak Hamdallah,True
+P-94093,Anass Zaroury,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Anass Zaroury,True
+P-05265,Abdelhamid Sabiri,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Abdelhamid Sabiri,True
+P-15566,Munir Mohamedi,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Munir Mohamedi,True
+P-87409,Ilias Chair,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Ilias Chair,True
+P-48295,Zakaria Aboukhlal,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Zakaria Aboukhlal,True
+P-23330,Selim Amallah,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Selim Amallah,True
+P-21052,Abde Ezzalzouli,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Abde Ezzalzouli,True
+P-59033,Sofiane Boufal,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Sofiane Boufal,True
+P-14026,Jawad El Yamiq,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Jawad El Yamiq,True
+P-42517,Youssef En-Nesyri,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Youssef En-Nesyri,True
+P-52013,Achraf Dari,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Achraf Dari,True
+P-05216,Walid Cheddira,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Walid Cheddira,True
+P-88869,Ahmed Reda Tagnaouti,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Ahmed Reda Tagnaouti,True
+P-80656,Bilal El Khannous,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Bilal El Khannous,True
+P-00597,Badr Benoun,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Badr Benoun,True
+P-91543,Yahia Attiyat Allah,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Yahia Attiyat Allah,True
+P-86644,Yahya Jabrane,Morocco,data/raw/player-images/Images/Images/Group F/Morocco players/Images_Yahya Jabrane,True
+P-18921,Remko Pasveer,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Remko Pasveer,True
+P-74111,Jurriën Timber,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Jurri├½n Timber,True
+P-73572,Matthijs de Ligt,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Matthijs de Ligt,True
+P-56029,Virgil van Dijk,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Virgil van Dijk (captain),True
+P-64438,Nathan Aké,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Nathan Ak├⌐,True
+P-70280,Stefan de Vrij,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Stefan de Vrij,True
+P-44799,Steven Bergwijn,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Steven Bergwijn,True
+P-28911,Cody Gakpo,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Cody Gakpo,True
+P-64551,Luuk de Jong,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Luuk de Jong,True
+P-27540,Memphis Depay,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Memphis Depay,True
+P-10326,Steven Berghuis,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Steven Berghuis,True
+P-57903,Noa Lang,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Noa Lang,True
+P-15282,Justin Bijlow,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Justin Bijlow,True
+P-42078,Davy Klaassen,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Davy Klaassen,True
+P-55965,Marten de Roon,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Marten de Roon,True
+P-78630,Tyrell Malacia,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Tyrell Malacia,True
+P-39861,Daley Blind,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Daley Blind,True
+P-57087,Vincent Janssen,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Vincent Janssen,True
+P-95036,Wout Weghorst,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Wout Weghorst,True
+P-35705,Teun Koopmeiners,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Teun Koopmeiners,True
+P-17688,Frenkie de Jong,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Frenkie de Jong,True
+P-97615,Denzel Dumfries,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Denzel Dumfries,True
+P-82000,Andries Noppert,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Andries Noppert,True
+P-95763,Kenneth Taylor,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Kenneth Taylor,True
+P-34458,Xavi Simons,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Xavi Simons,True
+P-70227,Jeremie Frimpong,Netherlands,data/raw/player-images/Images/Images/Group A/Netherland Players/Images_Jeremie Frimpong,True
+P-31606,Wojciech Szczęsny,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Wojciech Szcz─Ösny,True
+P-17099,Matty Cash,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Matty Cash,True
+P-61813,Artur Jędrzejczyk,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Artur J─Ödrzejczyk,True
+P-76995,Mateusz Wieteska,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Mateusz Wieteska,True
+P-10172,Jan Bednarek,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Jan Bednarek,True
+P-14593,Krystian Bielik,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Krystian Bielik,True
+P-12381,Arkadiusz Milik,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Arkadiusz Milik,True
+P-44699,Damian Szymański,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Damian Szyma┼äski,True
+P-00549,Robert Lewandowski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Robert Lewandowski (captain),True
+P-45449,Grzegorz Krychowiak,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Grzegorz Krychowiak,True
+P-64261,Kamil Grosicki,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Kamil Grosicki,True
+P-17943,Łukasz Skorupski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_┼üukasz Skorupski,True
+P-83610,Jakub Kamiński,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Jakub Kami┼äski,True
+P-44780,Jakub Kiwior,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Jakub Kiwior,True
+P-29046,Kamil Glik,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Kamil Glik,True
+P-85630,Karol Świderski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Karol ┼Üwiderski,True
+P-31085,Szymon Żurkowski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Szymon ┼╗urkowski,True
+P-42160,Bartosz Bereszyński,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Bartosz Bereszy┼äski,True
+P-65512,Sebastian Szymański,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Sebastian Szyma┼äski,True
+P-32165,Piotr Zieliński,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Piotr Zieli┼äski,True
+P-40498,Nicola Zalewski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Nicola Zalewski,True
+P-90913,Kamil Grabara,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Kamil Grabara,True
+P-11013,Krzysztof Piątek,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Krzysztof Pi─àtek,True
+P-23437,Przemysław Frankowski,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Przemys┼éaw Frankowski,True
+P-42168,Robert Gumny,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Robert Gumny,True
+P-02071,Michał Skóraś,Poland,data/raw/player-images/Images/Images/Group C/Poland Players/Images_Micha┼é Sk├│ra┼¢,True
+P-72028,Rui Patrício,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Rui Patr├¡cio,True
+P-41603,Diogo Dalot,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Diogo Dalot,True
+P-81972,Pepe,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Pepe,True
+P-10712,Rúben Dias,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_R├║ben Dias,True
+P-67578,Raphaël Guerreiro,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Rapha├½l Guerreiro,True
+P-46583,João Palhinha,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Jo├úo Palhinha,True
+P-70442,Cristiano Ronaldo,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Cristiano Ronaldo (captain),True
+P-39584,Bruno Fernandes,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Bruno Fernandes,True
+P-33280,André Silva,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Andr├⌐ Silva,True
+P-34205,Bernardo Silva,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Bernardo Silva,True
+P-17931,João Félix,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Jo├úo F├⌐lix,True
+P-85204,José Sá,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Jos├⌐ S├í,True
+P-98929,Danilo Pereira,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Danilo Pereira,True
+P-44689,William Carvalho,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_William Carvalho,True
+P-27349,Rafael Leão,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Rafael Le├úo,True
+P-89266,Vitinha,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Vitinha,True
+P-31133,João Mário,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Jo├úo M├írio,True
+P-22983,Rúben Neves,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_R├║ben Neves,True
+P-87003,Nuno Mendes,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Nuno Mendes,True
+P-16736,João Cancelo,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Jo├úo Cancelo,True
+P-05304,Ricardo Horta,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Ricardo Horta,True
+P-54827,Diogo Costa,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Diogo Costa,True
+P-57759,Matheus Nunes,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Matheus Nunes,True
+P-05289,António Silva,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Ant├│nio Silva,True
+P-78787,Otávio,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Ot├ívio,True
+P-41647,Gonçalo Ramos,Portugal,data/raw/player-images/Images/Images/Group H/Portugal Players/Images_Gon├ºalo Ramos,True
+P-70879,Saad Al-Sheeb,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Saad Al-Sheeb,True
+P-00052,Ró-Ró,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_R├│-R├│,True
+P-01258,Abdelkarim Hassan,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Abdelkarim Hassan,True
+P-90689,Mohammed Waad,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Mohammed Waad,True
+P-42663,Tarek Salman,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Tarek Salman,True
+P-97800,Abdulaziz Hatem,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Abdulaziz Hatem,True
+P-57100,Ahmed Alaaeldin,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Ahmed Alaaeldin,True
+P-51678,Ali Assadalla,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Ali Assadalla,True
+P-17048,Mohammed Muntari,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Mohammed Muntari,True
+P-38732,Hassan Al-Haydos,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Hassan Al-Haydos (captain),True
+P-47319,Akram Afif,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Akram Afif,True
+P-95754,Karim Boudiaf,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Karim Boudiaf,True
+P-32949,Musab Kheder,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Musab Kheder,True
+P-33804,Homam Ahmed,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Homam Ahmed,True
+P-15161,Bassam Al-Rawi,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Bassam Al-Rawi,True
+P-12810,Boualem Khoukhi,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Boualem Khoukhi,True
+P-01077,Ismaeel Mohammad,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Ismaeel Mohammad,True
+P-54495,Khalid Muneer,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Khalid Muneer,True
+P-01930,Almoez Ali,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Almoez Ali,True
+P-43921,Salem Al-Hajri,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Salem Al-Hajri,True
+P-75618,Yousef Hassan,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Yousef Hassan,True
+P-28811,Meshaal Barsham,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Meshaal Barsham,True
+P-63532,Assim Madibo,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Assim Madibo,True
+P-93316,Naif Al-Hadhrami,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Naif Al-Hadhrami,True
+P-22110,Jassem Gaber,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Jassem Gaber,True
+P-26637,Mostafa Meshaal,Qatar,data/raw/player-images/Images/Images/Group A/Qatar Players/Images_Mostafa Meshaal,True
+P-06659,Mohammed Al-Rubaie,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Mohammed Al-Rubaie,True
+P-06789,Sultan Al-Ghannam,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Sultan Al-Ghannam,True
+P-20388,Abdullah Madu,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Abdullah Madu,True
+P-12335,Abdulelah Al-Amri,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Abdulelah Al-Amri,True
+P-87284,Ali Al-Bulaihi,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Ali Al-Bulaihi,True
+P-94422,Mohammed Al-Breik,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Mohammed Al-Breik,True
+P-93688,Salman Al-Faraj,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Salman Al-Faraj (captain),True
+P-20216,Abdulellah Al-Malki,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Abdulellah Al-Malki,True
+P-89845,Firas Al-Buraikan,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Firas Al-Buraikan,True
+P-70583,Salem Al-Dawsari,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Salem Al-Dawsari,True
+P-37308,Saleh Al-Shehri,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Saleh Al-Shehri,True
+P-08125,Saud Abdulhamid,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Saud Abdulhamid,True
+P-45457,Yasser Al-Shahrani,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Yasser Al-Shahrani,True
+P-99177,Abdullah Otayf,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Abdullah Otayf,True
+P-45413,Ali Al-Hassan,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Ali Al-Hassan,True
+P-87569,Sami Al-Najei,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Sami Al-Najei,True
+P-93173,Hassan Al-Tambakti,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Hassan Al-Tambakti,True
+P-76864,Nawaf Al-Abed,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Nawaf Al-Abed,True
+P-84563,Hattan Bahebri,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Hattan Bahebri,True
+P-45581,Abdulrahman Al-Aboud,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Abdulrahman Al-Aboud,True
+P-85438,Mohammed Al-Owais,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Mohammed Al-Owais,True
+P-67035,Nawaf Al-Aqidi,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Nawaf Al-Aqidi,True
+P-91268,Mohamed Kanno,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Mohamed Kanno,True
+P-10907,Nasser Al-Dawsari,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Nasser Al-Dawsari,True
+P-40487,Haitham Asiri,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Haitham Asiri,True
+P-06750,Riyadh Sharahili,Saudi Arabia,data/raw/player-images/Images/Images/Group C/Saudi Arabia Players/Images_Riyadh Sharahili,True
+P-99821,Seny Dieng,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Seny Dieng,True
+P-11718,Formose Mendy,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Formose Mendy,True
+P-47321,Kalidou Koulibaly,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Kalidou Koulibaly (captain),True
+P-90626,Pape Abou Cissé,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Pape Abou Ciss├⌐,True
+P-40621,Idrissa Gueye,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Idrissa Gueye,True
+P-96697,Nampalys Mendy,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Nampalys Mendy,True
+P-86937,Nicolas Jackson,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Nicolas Jackson,True
+P-55140,Cheikhou Kouyaté,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Cheikhou Kouyat├⌐,True
+P-33622,Boulaye Dia,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Boulaye Dia,True
+P-61416,Pathé Ciss,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Path├⌐ Ciss,True
+P-86095,Fodé Ballo-Touré,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Fod├⌐ Ballo-Tour├⌐,True
+P-33958,Iliman Ndiaye,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Iliman Ndiaye,True
+P-54506,Ismail Jakobs,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Ismail Jakobs,True
+P-09292,Krépin Diatta,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Kr├⌐pin Diatta,True
+P-45399,Édouard Mendy,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_├ëdouard Mendy,True
+P-76835,Pape Matar Sarr,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Pape Matar Sarr,True
+P-37935,Ismaïla Sarr,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Isma├»la Sarr,True
+P-27280,Famara Diédhiou,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Famara Di├⌐dhiou,True
+P-88928,Bamba Dieng,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Bamba Dieng,True
+P-55298,Youssouf Sabaly,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Youssouf Sabaly,True
+P-77769,Abdou Diallo,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Abdou Diallo,True
+P-53694,Alfred Gomis,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Alfred Gomis,True
+P-92891,Moustapha Name,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Moustapha Name,True
+P-37001,Mamadou Loum,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Mamadou Loum,True
+P-45280,Pape Gueye,Senegal,data/raw/player-images/Images/Images/Group A/Senegal Players/Images_Pape Gueye,True
+P-72770,Marko Dmitrović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Marko Dmitrovi─ç,True
+P-98435,Strahinja Pavlović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Strahinja Pavlovi─ç,True
+P-55665,Strahinja Eraković,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Strahinja Erakovi─ç,True
+P-57535,Nikola Milenković,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Nikola Milenkovi─ç,True
+P-30283,Miloš Veljković,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Milo┼í Veljkovi─ç,True
+P-89598,Nemanja Maksimović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Nemanja Maksimovi─ç,True
+P-79900,Nemanja Radonjić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Nemanja Radonji─ç,True
+P-24610,Nemanja Gudelj,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Nemanja Gudelj,True
+P-85696,Aleksandar Mitrović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Aleksandar Mitrovi─ç,True
+P-33390,Dušan Tadić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Du┼ían Tadi─ç (captain),True
+P-62033,Luka Jović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Luka Jovi─ç,True
+P-35773,Predrag Rajković,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Predrag Rajkovi─ç,True
+P-19069,Stefan Mitrović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Stefan Mitrovi─ç,True
+P-58363,Andrija Živković,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Andrija ┼╜ivkovi─ç,True
+P-70515,Srđan Babić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Sr─æan Babi─ç,True
+P-78056,Saša Lukić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Sa┼ía Luki─ç,True
+P-80738,Filip Kostić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Filip Kosti─ç,True
+P-63293,Dušan Vlahović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Du┼ían Vlahovi─ç,True
+P-09530,Uroš Račić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Uro┼í Ra─ìi─ç,True
+P-27744,Sergej Milinković-Savić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Sergej Milinkovi─ç-Savi─ç,True
+P-79754,Filip Đuričić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Filip ─Éuri─ìi─ç,True
+P-54211,Darko Lazović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Darko Lazovi─ç,True
+P-24245,Vanja Milinković-Savić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Vanja Milinkovi─ç-Savi─ç,True
+P-67641,Ivan Ilić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Ivan Ili─ç,True
+P-82143,Filip Mladenović,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Filip Mladenovi─ç,True
+P-89573,Marko Grujić,Serbia,data/raw/player-images/Images/Images/Group G/Serbia Players/Images_Marko Gruji─ç,True
+P-88529,Yoon Jong-gyu,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Yoon Jong-gyu,True
+P-82889,Kim Jin-su,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kim Jin-su,True
+P-14360,Kim Min-jae,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kim Min-jae,True
+P-67516,Hwang In-beom,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Hwang In-beom,True
+P-32599,Paik Seung-ho,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Paik Seung-ho,True
+P-87169,Cho Gue-sung,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Cho Gue-sung,True
+P-49090,Song Bum-keun,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Song Bum-keun,True
+P-61172,Son Jun-ho,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Son Jun-ho,True
+P-07233,Kim Moon-hwan,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kim Moon-hwan,True
+P-92710,Hwang Ui-jo,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Hwang Ui-jo,True
+P-87514,Lee Kang-in,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Lee Kang-in,True
+P-57511,Kwon Kyung-won,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kwon Kyung-won,True
+P-88360,Kwon Chang-hoon,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kwon Chang-hoon,True
+P-66969,Kim Tae-hwan,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Kim Tae-hwan,True
+P-05917,Cho Yu-min,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Cho Yu-min,True
+P-94500,Jeong Woo-yeong,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Jeong Woo-yeong,True
+P-97485,Song Min-kyu,South Korea,data/raw/player-images/Images/Images/Group H/South Korea Players/Images_Song Min-kyu,True
+P-92513,Robert Sánchez,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Robert S├ínchez,True
+P-60716,César Azpilicueta,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_C├⌐sar Azpilicueta,True
+P-37420,Eric García,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Eric Garc├¡a,True
+P-16333,Pau Torres,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Pau Torres,True
+P-28010,Sergio Busquets,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Sergio Busquets (captain),True
+P-86871,Marcos Llorente,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Marcos Llorente,True
+P-29274,Álvaro Morata,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_├ülvaro Morata,True
+P-37294,Koke,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Koke,True
+P-88433,Gavi,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Gavi,True
+P-09400,Marco Asensio,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Marco Asensio,True
+P-31301,Ferran Torres,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Ferran Torres,True
+P-68218,Nico Williams,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Nico Williams,True
+P-33433,David Raya,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_David Raya,True
+P-49008,Alejandro Balde,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Alejandro Balde,True
+P-87958,Hugo Guillamón,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Hugo Guillam├│n,True
+P-62341,Rodri,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Rodri,True
+P-46898,Yeremy Pino,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Yeremy Pino,True
+P-01416,Jordi Alba,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Jordi Alba,True
+P-30405,Carlos Soler,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Carlos Soler,True
+P-71071,Dani Carvajal,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Dani Carvajal,True
+P-40007,Dani Olmo,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Dani Olmo,True
+P-81427,Pablo Sarabia,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Pablo Sarabia,True
+P-94271,Unai Simón,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Unai Sim├│n,True
+P-99025,Aymeric Laporte,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Aymeric Laporte,True
+P-33854,Ansu Fati,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Ansu Fati,True
+P-24897,Pedri,Spain,data/raw/player-images/Images/Images/Group E/Spain Players/Images_Pedri,True
+P-63312,Yann Sommer,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Yann Sommer,True
+P-29932,Edimilson Fernandes,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Edimilson Fernandes,True
+P-38927,Silvan Widmer,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Silvan Widmer,True
+P-19193,Nico Elvedi,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Nico Elvedi,True
+P-23925,Manuel Akanji,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Manuel Akanji,True
+P-83560,Denis Zakaria,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Denis Zakaria,True
+P-19075,Breel Embolo,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Breel Embolo,True
+P-68060,Remo Freuler,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Remo Freuler,True
+P-07180,Haris Seferovic,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Haris Seferovic,True
+P-77224,Granit Xhaka,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Granit Xhaka (captain),True
+P-20482,Renato Steffen,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Renato Steffen,True
+P-75926,Jonas Omlin,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Jonas Omlin,True
+P-43367,Ricardo Rodríguez,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Ricardo Rodriguez,True
+P-32222,Michel Aebischer,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Michel Aebischer,True
+P-11878,Djibril Sow,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Djibril Sow,True
+P-71875,Christian Fassnacht,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Christian Fassnacht,True
+P-85823,Ruben Vargas,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Ruben Vargas,True
+P-56868,Eray Cömert,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Eray C├╢mert,True
+P-85577,Noah Okafor,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Noah Okafor,True
+P-00244,Fabian Frei,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Fabian Frei,True
+P-06076,Gregor Kobel,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Gregor Kobel,True
+P-25131,Fabian Schär,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Fabian Sch├ñr,True
+P-39460,Xherdan Shaqiri,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Xherdan Shaqiri,True
+P-38800,Philipp Köhn,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Philipp K├╢hn,True
+P-25593,Fabian Rieder,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Fabian Rieder,True
+P-17496,Ardon Jashari,Switzerland,data/raw/player-images/Images/Images/Group G/Switzerland Players/Images_Ardon Jashari,True
+P-25989,Aymen Mathlouthi,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Aymen Mathlouthi,True
+P-22128,Bilel Ifa,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Bilel Ifa,True
+P-73455,Montassar Talbi,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Montassar Talbi,True
+P-81706,Yassine Meriah,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Yassine Meriah,True
+P-68161,Nader Ghandri,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Nader Ghandri,True
+P-11879,Dylan Bronn,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Dylan Bronn,True
+P-25741,Youssef Msakni,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Youssef Msakni (captain),True
+P-48887,Hannibal Mejbri,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Hannibal Mejbri,True
+P-11346,Issam Jebali,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Issam Jebali,True
+P-42223,Wahbi Khazri,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Wahbi Khazri,True
+P-21865,Taha Yassine Khenissi,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Taha Yassine Khenissi,True
+P-38981,Ali Maâloul,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Ali Ma├óloul,True
+P-90867,Ferjani Sassi,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Ferjani Sassi,True
+P-29063,Aïssa Laïdouni,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_A├»ssa La├»douni,True
+P-42575,Mohamed Ali Ben Romdhane,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Mohamed Ali Ben Romdhane,True
+P-32803,Aymen Dahmen,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Aymen Dahmen,True
+P-47815,Ellyes Skhiri,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Ellyes Skhiri,True
+P-09569,Ghailene Chaalali,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Ghailene Chaalali,True
+P-82056,Seifeddine Jaziri,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Seifeddine Jaziri,True
+P-49094,Mohamed Dräger,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Mohamed Dr├ñger,True
+P-27079,Wajdi Kechrida,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Wajdi Kechrida,True
+P-82657,Bechir Ben Saïd,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Bechir Ben Sa├»d,True
+P-69793,Naïm Sliti,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Na├»m Sliti,True
+P-64924,Ali Abdi,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Ali Abdi,True
+P-45680,Anis Ben Slimane,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Anis Ben Slimane,True
+P-57303,Mouez Hassen,Tunisia,data/raw/player-images/Images/Images/Group D/Tunisia Players/Images_Mouez Hassen,True
+P-48903,Matt Turner,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Matt Turner,True
+P-89452,Sergiño Dest,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Sergi├▒o Dest,True
+P-57029,Walker Zimmerman,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Walker Zimmerman,True
+P-14151,Tyler Adams,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Tyler Adams,True
+P-70867,Antonee Robinson,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Antonee Robinson,True
+P-59571,Yunus Musah,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Yunus Musah,True
+P-85878,Giovanni Reyna,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Giovanni Reyna,True
+P-68952,Weston McKennie,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Weston McKennie,True
+P-34132,Jesús Ferreira,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Jes├║s Ferreira,True
+P-11737,Christian Pulisic,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Christian Pulisic,True
+P-03484,Brenden Aaronson,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Brenden Aaronson,True
+P-01792,Ethan Horvath,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Ethan Horvath,True
+P-26367,Tim Ream,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Tim Ream,True
+P-74007,Luca de la Torre,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Luca de la Torre,True
+P-75522,Aaron Long,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Aaron Long,True
+P-77402,Jordan Morris,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Jordan Morris,True
+P-35320,Cristian Roldan,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Cristian Roldan,True
+P-48265,Shaq Moore,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Shaq Moore,True
+P-68131,Haji Wright,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Haji Wright,True
+P-25925,Cameron Carter-Vickers,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Cameron Carter-Vickers,True
+P-30252,Timothy Weah,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Timothy Weah,True
+P-95273,DeAndre Yedlin,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_DeAndre Yedlin,True
+P-86410,Kellyn Acosta,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Kellyn Acosta,True
+P-94647,Josh Sargent,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Josh Sargent,True
+P-38940,Sean Johnson,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Sean Johnson,True
+P-80838,Joe Scally,United States,data/raw/player-images/Images/Images/Group B/United States Players/Images_Joe Scally,True
+P-10014,Fernando Muslera,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Fernando Muslera,True
+P-65659,José Giménez,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Jos├⌐ Gim├⌐nez,True
+P-78440,Diego Godín,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Diego God├¡n (captain),True
+P-89869,Ronald Araújo,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Ronald Ara├║jo,True
+P-46785,Matías Vecino,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Mat├¡as Vecino,True
+P-58791,Rodrigo Bentancur,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Rodrigo Bentancur,True
+P-86878,Nicolás de la Cruz,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Nicol├ís de la Cruz,True
+P-95062,Facundo Pellistri,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Facundo Pellistri,True
+P-30486,Luis Suárez,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Luis Su├írez,True
+P-62594,Giorgian De Arrascaeta,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Giorgian de Arrascaeta,True
+P-18885,Darwin Núñez,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Darwin N├║├▒ez,True
+P-19914,Sebastián Sosa,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Sebasti├ín Sosa,True
+P-78932,Guillermo Varela,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Guillermo Varela,True
+P-47386,Lucas Torreira,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Lucas Torreira,True
+P-05174,Federico Valverde,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Federico Valverde,True
+P-90796,Mathías Olivera,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Math├¡as Olivera,True
+P-18564,Matías Viña,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Mat├¡as Vi├▒a,True
+P-70671,Maxi Gómez,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Maxi G├│mez,True
+P-20051,Sebastián Coates,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Sebasti├ín Coates,True
+P-68430,Facundo Torres,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Facundo Torres,True
+P-59138,Edinson Cavani,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Edinson Cavani,True
+P-74058,Martín Cáceres,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Mart├¡n C├íceres,True
+P-00232,Sergio Rochet,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Sergio Rochet,True
+P-24667,Agustín Canobbio,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Agust├¡n Canobbio,True
+P-94091,Manuel Ugarte,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Manuel Ugarte,True
+P-55597,José Luis Rodríguez,Uruguay,data/raw/player-images/Images/Images/Group H/Uruguay Players/Images_Jos├⌐ Luis Rodr├¡guez,True
+P-46457,Wayne Hennessey,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Wayne Hennessey,True
+P-92343,Chris Gunter,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Chris Gunter,True
+P-87190,Neco Williams,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Neco Williams,True
+P-41198,Ben Davies,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Ben Davies,True
+P-74888,Chris Mepham,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Chris Mepham,True
+P-38105,Joe Rodon,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Joe Rodon,True
+P-92761,Joe Allen,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Joe Allen,True
+P-94779,Harry Wilson,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Harry Wilson,True
+P-57098,Brennan Johnson,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Brennan Johnson,True
+P-86951,Aaron Ramsey,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Aaron Ramsey,True
+P-63927,Gareth Bale,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Gareth Bale (captain),True
+P-31718,Danny Ward,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Danny Ward,True
+P-10657,Kieffer Moore,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Kieffer Moore,True
+P-56503,Connor Roberts,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Connor Roberts,True
+P-50398,Ethan Ampadu,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Ethan Ampadu,True
+P-69082,Joe Morrell,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Joe Morrell,True
+P-34567,Tom Lockyer,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Tom Lockyer,True
+P-56664,Jonny Williams,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Jonny Williams,True
+P-37173,Mark Harris,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Mark Harris,True
+P-74707,Daniel James,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Daniel James,True
+P-92482,Adam Davies,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Adam Davies,True
+P-20564,Sorba Thomas,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Sorba Thomas,True
+P-24982,Dylan Levitt,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Dylan Levitt,True
+P-02030,Ben Cabango,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Ben Cabango,True
+P-07137,Rubin Colwill,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Rubin Colwill,True
+P-84269,Matthew Smith,Wales,data/raw/player-images/Images/Images/Group B/Wales Players/Images_Matthew Smith,True

@@ -1,0 +1,33 @@
+Position,Team,Games Played,Win,Draw,Loss,Goals For,Goals Against,Goal Difference,Points,team_name,team_norm
+1,Argentina,7,6,0,1,15,8,7,18,Argentina,argentina
+2,France,7,5,0,2,16,8,8,15,France,france
+3,Croatia,7,4,2,1,8,7,1,14,Croatia,croatia
+4,Morocco,7,4,1,2,6,5,1,13,Morocco,morocco
+5,England,5,3,1,1,13,4,9,10,England,england
+6,Netherlands,5,3,1,1,10,4,6,10,Netherlands,netherlands
+7,Portugal,5,3,0,2,12,6,6,9,Portugal,portugal
+8,Brazil,5,3,0,2,8,3,5,9,Brazil,brazil
+9,Japan,4,2,0,2,5,4,1,6,Japan,japan
+10,Senegal,4,2,0,2,5,7,-2,6,Senegal,senegal
+11,Australia,4,2,0,2,4,6,-2,6,Australia,australia
+12,Switzerland,4,2,0,2,5,9,-4,6,Switzerland,switzerland
+13,USA,4,1,2,1,3,4,-1,5,United States,united states
+14,Spain,4,1,1,2,9,3,6,4,Spain,spain
+15,Poland,4,1,1,2,3,5,-2,4,Poland,poland
+16,South Korea,4,1,1,2,5,8,-3,4,South Korea,south korea
+17,Germany,3,1,1,1,6,5,1,4,Germany,germany
+18,Ecuador,3,1,1,1,4,3,1,4,Ecuador,ecuador
+19,Cameroon,3,1,1,1,4,4,0,4,Cameroon,cameroon
+20,Uruguay,3,1,1,1,2,2,0,4,Uruguay,uruguay
+21,Tunisia,3,1,1,1,1,1,0,4,Tunisia,tunisia
+22,Mexico,3,1,1,1,2,3,-1,4,Mexico,mexico
+23,Belgium,3,1,1,1,1,2,-1,4,Belgium,belgium
+24,Ghana,3,1,0,2,5,7,-2,3,Ghana,ghana
+25,Saudi Arabia,3,1,0,2,3,5,-2,3,Saudi Arabia,saudi arabia
+26,Iran,3,1,0,2,4,7,-3,3,Iran,iran
+27,Costa Rica,3,1,0,2,3,11,-8,3,Costa Rica,costa rica
+28,Denmark,3,0,1,2,1,3,-2,1,Denmark,denmark
+29,Serbia,3,0,1,2,5,8,-3,1,Serbia,serbia
+30,Wales,3,0,1,2,1,6,-5,1,Wales,wales
+31,Canada,3,0,0,3,2,7,-5,0,Canada,canada
+32,Qatar,3,0,0,3,1,7,-6,0,Qatar,qatar

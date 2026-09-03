@@ -1,0 +1,11 @@
+# Q3  Every goal of the Final, in order, with scorer / minute / penalty flag.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT (STR(?min) AS ?minute) ?scorer ?forTeam (STR(?pen) AS ?penalty) WHERE {
+    ?m a wc:Match ; wc:stageName "final" .
+    ?g wc:scoredInMatch ?m ;
+       wc:scoredBy/wc:fullName ?scorer ;
+       wc:goalForTeam/wc:teamName ?forTeam ;
+       wc:minuteRegulation ?min .
+    OPTIONAL { ?g wc:isPenalty ?pen }
+}
+ORDER BY ?min

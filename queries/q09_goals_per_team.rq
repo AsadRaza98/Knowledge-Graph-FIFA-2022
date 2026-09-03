@@ -1,0 +1,8 @@
+# Q9  Total goals scored by each team in the tournament (own goals for the
+#     benefiting team). Aggregate over Goal -> goalForTeam.
+PREFIX wc: <http://www.semanticweb.org/worldcup2022#>
+SELECT ?team (STR(COUNT(?g)) AS ?goals) WHERE {
+    ?g a wc:Goal ; wc:goalForTeam/wc:teamName ?team .
+}
+GROUP BY ?team
+ORDER BY DESC(COUNT(?g)) ?team

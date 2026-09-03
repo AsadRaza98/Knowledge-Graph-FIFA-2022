@@ -1,0 +1,2 @@
+PREFIX wc:   <http://www.semanticweb.org/worldcup2022#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>

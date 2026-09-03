@@ -1,0 +1,19 @@
+# Raw third-party datasets — mandatory sources, referenced by URL in README, NOT redistributed
+data/raw/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+.venv/
+venv/
+
+# GraphDB / local runtime
+*.log
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.idea/
+.vscode/

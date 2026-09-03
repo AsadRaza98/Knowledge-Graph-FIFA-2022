@@ -1,0 +1,13 @@
+# Q1  Full squad of a team with shirt number, position and club.
+# Joins: worldcup squads/players  +  Kaggle player stats (club).
+PREFIX wc:   <http://www.semanticweb.org/worldcup2022#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT (STR(?shirt) AS ?shirtNo) ?player ?position ?club WHERE {
+    ?p a wc:Player ;
+       wc:representsTeam wc:team_ARG ;
+       wc:fullName ?player .
+    OPTIONAL { ?p wc:shirtNumber ?shirt }
+    OPTIONAL { ?p wc:hasPosition/rdfs:label ?position }
+    OPTIONAL { ?p wc:playsForClub/wc:clubName ?club }
+}
+ORDER BY ?shirt

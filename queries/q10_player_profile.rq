@@ -1,0 +1,20 @@
+# Q10  One player's unified profile assembled from all four sources:
+#      bio (worldcup) + stats (Kaggle) + club + position + image folder.
+PREFIX wc:   <http://www.semanticweb.org/worldcup2022#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?full (STR(?dob) AS ?birthDate) ?team ?club ?position
+       (STR(?shirt) AS ?shirtNo) (STR(?apps) AS ?appearances)
+       (STR(?goals) AS ?goalsScored) (STR(?ast) AS ?assists)
+       ?imageFolder (STR(?imgCount) AS ?imageCount) WHERE {
+    ?p wc:familyName "Messi" ; wc:givenName "Lionel" ; wc:fullName ?full .
+    OPTIONAL { ?p wc:birthDate ?dob }
+    OPTIONAL { ?p wc:representsTeam/wc:teamName ?team }
+    OPTIONAL { ?p wc:playsForClub/wc:clubName ?club }
+    OPTIONAL { ?p wc:hasPosition/rdfs:label ?position }
+    OPTIONAL { ?p wc:shirtNumber ?shirt }
+    OPTIONAL { ?p wc:appearances ?apps }
+    OPTIONAL { ?p wc:goalsScored ?goals }
+    OPTIONAL { ?p wc:assistsProvided ?ast }
+    OPTIONAL { ?p wc:hasImage ?img .
+               ?img wc:folderPath ?imageFolder ; wc:imageCount ?imgCount }
+}

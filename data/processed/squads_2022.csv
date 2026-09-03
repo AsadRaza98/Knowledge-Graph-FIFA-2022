@@ -1,0 +1,832 @@
+key_id,tournament_id,tournament_name,team_id,team_name,team_code,player_id,family_name,given_name,shirt_number,position_name,position_code
+13013,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-39788,Armani,Franco,1,goal keeper,GK
+13014,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-00652,Foyth,Juan,2,defender,DF
+13015,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-35173,Tagliafico,Nicolás,3,defender,DF
+13016,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-91431,Montiel,Gonzalo,4,defender,DF
+13017,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-27582,Paredes,Leandro,5,midfielder,MF
+13018,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-29298,Pezzella,Germán,6,defender,DF
+13019,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-37314,De Paul,Rodrigo,7,midfielder,MF
+13020,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-73712,Acuña,Marcos,8,midfielder,MF
+13021,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-19776,Álvarez,Julián,9,forward,FW
+13022,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-14758,Messi,Lionel,10,forward,FW
+13023,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-42113,Di María,Ángel,11,forward,FW
+13024,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-36188,Rulli,Gerónimo,12,goal keeper,GK
+13025,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-79650,Romero,Cristian,13,defender,DF
+13026,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-40147,Palacios,Exequiel,14,midfielder,MF
+13027,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-92353,Correa,Ángel,15,forward,FW
+13028,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-56659,Almada,Thiago,16,midfielder,MF
+13029,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-10231,Gómez,Papu,17,midfielder,MF
+13030,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-03265,Rodríguez,Guido,18,midfielder,MF
+13031,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-49114,Otamendi,Nicolás,19,defender,DF
+13032,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-71343,Mac Allister,Alexis,20,midfielder,MF
+13033,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-28151,Dybala,Paulo,21,forward,FW
+13034,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-81505,Martínez,Lautaro,22,forward,FW
+13035,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-13162,Martínez,Emiliano,23,goal keeper,GK
+13036,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-10739,Fernández,Enzo,24,midfielder,MF
+13037,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-23070,Martínez,Lisandro,25,defender,DF
+13038,WC-2022,2022 FIFA Men's World Cup,T-03,Argentina,ARG,P-84430,Molina,Nahuel,26,defender,DF
+13039,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-10244,Ryan,Mathew,1,goal keeper,GK
+13040,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-59727,Degenek,Miloš,2,defender,DF
+13041,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-09062,Atkinson,Nathaniel,3,defender,DF
+13042,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-88273,Rowles,Kye,4,defender,DF
+13043,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-24134,Karačić,Fran,5,defender,DF
+13044,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-34915,Tilio,Marco,6,forward,FW
+13045,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-35837,Leckie,Mathew,7,forward,FW
+13046,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-97422,Wright,Bailey,8,defender,DF
+13047,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-20087,Maclaren,Jamie,9,forward,FW
+13048,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-82945,Hrustic,Ajdin,10,midfielder,MF
+13049,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-61979,Mabil,Awer,11,forward,FW
+13050,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-30596,Redmayne,Andrew,12,goal keeper,GK
+13051,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-95847,Mooy,Aaron,13,midfielder,MF
+13052,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-51406,McGree,Riley,14,midfielder,MF
+13053,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-91029,Duke,Mitchell,15,forward,FW
+13054,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-51118,Behich,Aziz,16,defender,DF
+13055,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-64249,Devlin,Cameron,17,midfielder,MF
+13056,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-11675,Vukovic,Danny,18,goal keeper,GK
+13057,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-89217,Souttar,Harry,19,defender,DF
+13058,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-68599,Deng,Thomas,20,defender,DF
+13059,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-05864,Kuol,Garang,21,forward,FW
+13060,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-34822,Irvine,Jackson,22,midfielder,MF
+13061,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-82010,Goodwin,Craig,23,forward,FW
+13062,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-53409,King,Joel,24,defender,DF
+13063,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-67089,Cummings,Jason,25,forward,FW
+13064,WC-2022,2022 FIFA Men's World Cup,T-04,Australia,AUS,P-27035,Baccus,Keanu,26,midfielder,MF
+13065,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-09658,Courtois,Thibaut,1,goal keeper,GK
+13066,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-70547,Alderweireld,Toby,2,defender,DF
+13067,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-75820,Theate,Arthur,3,defender,DF
+13068,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-61413,Faes,Wout,4,defender,DF
+13069,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-64049,Vertonghen,Jan,5,defender,DF
+13070,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-53048,Witsel,Axel,6,midfielder,MF
+13071,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-48955,De Bruyne,Kevin,7,midfielder,MF
+13072,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-47906,Tielemans,Youri,8,midfielder,MF
+13073,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-72637,Lukaku,Romelu,9,forward,FW
+13074,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-72011,Hazard,Eden,10,forward,FW
+13075,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-06338,Carrasco,Yannick,11,forward,FW
+13076,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-10313,Mignolet,Simon,12,goal keeper,GK
+13077,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-88715,Casteels,Koen,13,goal keeper,GK
+13078,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-84852,Mertens,Dries,14,forward,FW
+13079,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-22930,Meunier,Thomas,15,midfielder,MF
+13080,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-74337,Hazard,Thorgan,16,midfielder,MF
+13081,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-95312,Trossard,Leandro,17,forward,FW
+13082,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-21652,Onana,Amadou,18,midfielder,MF
+13083,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-73834,Dendoncker,Leander,19,defender,DF
+13084,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-81997,Vanaken,Hans,20,midfielder,MF
+13085,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-56069,Castagne,Timothy,21,midfielder,MF
+13086,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-61810,De Ketelaere,Charles,22,forward,FW
+13087,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-13975,Batshuayi,Michy,23,forward,FW
+13088,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-70691,Openda,Loïs,24,forward,FW
+13089,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-29578,Doku,Jérémy,25,forward,FW
+13090,WC-2022,2022 FIFA Men's World Cup,T-06,Belgium,BEL,P-56669,Debast,Zeno,26,defender,DF
+13091,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-21531,Alisson,not applicable,1,goal keeper,GK
+13092,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-40137,Danilo,not applicable,2,defender,DF
+13093,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-32798,Silva,Thiago,3,defender,DF
+13094,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-76060,Marquinhos,not applicable,4,defender,DF
+13095,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-02305,Casemiro,not applicable,5,midfielder,MF
+13096,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-97698,Sandro,Alex,6,defender,DF
+13097,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-05164,Paquetá,Lucas,7,midfielder,MF
+13098,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-74941,Fred,not applicable,8,midfielder,MF
+13099,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-68016,Richarlison,not applicable,9,forward,FW
+13100,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-87008,Neymar,not applicable,10,forward,FW
+13101,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-83169,Raphinha,not applicable,11,forward,FW
+13102,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-66020,Weverton,not applicable,12,goal keeper,GK
+13103,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-09441,Alves,Dani,13,defender,DF
+13104,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-55590,Militão,Éder,14,defender,DF
+13105,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-77071,Fabinho,not applicable,15,midfielder,MF
+13106,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-26953,Telles,Alex,16,defender,DF
+13107,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-74688,Guimarães,Bruno,17,midfielder,MF
+13108,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-92004,Jesus,Gabriel,18,forward,FW
+13109,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-37860,Antony,not applicable,19,forward,FW
+13110,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-92812,Júnior,Vinícius,20,forward,FW
+13111,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-06446,Rodrygo,not applicable,21,forward,FW
+13112,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-42740,Ribeiro,Éverton,22,midfielder,MF
+13113,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-89248,Ederson,not applicable,23,goal keeper,GK
+13114,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-14060,Bremer,not applicable,24,defender,DF
+13115,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-15197,Pedro,not applicable,25,forward,FW
+13116,WC-2022,2022 FIFA Men's World Cup,T-09,Brazil,BRA,P-70483,Martinelli,Gabriel,26,forward,FW
+13117,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-22927,Ngapandouetnbu,Simon,1,goal keeper,GK
+13118,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-32773,Ngom Mbekeli,Jerome,2,defender,DF
+13119,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-93209,Nkoulou,Nicolas,3,defender,DF
+13120,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-74894,Wooh,Christopher,4,defender,DF
+13121,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-36707,Ondoua,Gaël,5,midfielder,MF
+13122,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-27913,Ngamaleu,Moumi,6,forward,FW
+13123,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-68058,Nkoudou,Georges-Kévin,7,midfielder,MF
+13124,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-38355,Zambo Anguissa,André-Frank,8,midfielder,MF
+13125,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-39239,Nsame,Jean-Pierre,9,forward,FW
+13126,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-53452,Aboubakar,Vincent,10,forward,FW
+13127,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-51549,Bassogog,Christian,11,forward,FW
+13128,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-20259,Toko Ekambi,Karl,12,forward,FW
+13129,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-06117,Choupo-Moting,Eric Maxim,13,forward,FW
+13130,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-63923,Gouet,Samuel,14,midfielder,MF
+13131,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-29115,Kunde,Pierre,15,midfielder,MF
+13132,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-70357,Epassy,Devis,16,goal keeper,GK
+13133,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-80930,Mbaizo,Olivier,17,defender,DF
+13134,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-34633,Hongla,Martin,18,midfielder,MF
+13135,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-47677,Fai,Collins,19,defender,DF
+13136,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-39394,Mbeumo,Bryan,20,forward,FW
+13137,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-59303,Castelletto,Jean-Charles,21,defender,DF
+13138,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-62618,Ntcham,Olivier,22,midfielder,MF
+13139,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-67127,Onana,André,23,goal keeper,GK
+13140,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-02759,Ebosse,Enzo,24,defender,DF
+13141,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-55367,Tolo,Nouhou,25,defender,DF
+13142,WC-2022,2022 FIFA Men's World Cup,T-11,Cameroon,CMR,P-25904,Marou,Souaibou,26,midfielder,MF
+13143,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-94317,St. Clair,Dayne,1,goal keeper,GK
+13144,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-12635,Johnston,Alistair,2,defender,DF
+13145,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-55821,Adekugbe,Sam,3,defender,DF
+13146,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-31806,Miller,Kamal,4,defender,DF
+13147,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-89710,Vitória,Steven,5,defender,DF
+13148,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-65386,Piette,Samuel,6,midfielder,MF
+13149,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-28794,Eustáquio,Stephen,7,midfielder,MF
+13150,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-32574,Fraser,Liam,8,midfielder,MF
+13151,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-58061,Cavallini,Lucas,9,forward,FW
+13152,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-35706,Hoilett,Junior,10,midfielder,MF
+13153,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-96259,Buchanan,Tajon,11,forward,FW
+13154,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-83822,Ugbo,Iké,12,forward,FW
+13155,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-03472,Hutchinson,Atiba,13,midfielder,MF
+13156,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-72399,Kaye,Mark-Anthony,14,midfielder,MF
+13157,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-85670,Koné,Ismaël,15,midfielder,MF
+13158,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-61949,Pantemis,James,16,goal keeper,GK
+13159,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-01925,Larin,Cyle,17,forward,FW
+13160,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-46263,Borjan,Milan,18,goal keeper,GK
+13161,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-46358,Davies,Alphonso,19,forward,FW
+13162,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-48340,David,Jonathan,20,forward,FW
+13163,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-27541,Osorio,Jonathan,21,midfielder,MF
+13164,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-42390,Laryea,Richie,22,defender,DF
+13165,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-00809,Millar,Liam,23,midfielder,MF
+13166,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-49915,Wotherspoon,David,24,midfielder,MF
+13167,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-21099,Cornelius,Derek,25,defender,DF
+13168,WC-2022,2022 FIFA Men's World Cup,T-12,Canada,CAN,P-71727,Waterman,Joel,26,defender,DF
+13169,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-81392,Navas,Keylor,1,goal keeper,GK
+13170,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-57150,Chacón,Daniel,2,midfielder,MF
+13171,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-65777,Vargas,Juan Pablo,3,defender,DF
+13172,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-80986,Fuller,Keysher,4,defender,DF
+13173,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-11767,Borges,Celso,5,midfielder,MF
+13174,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-97912,Duarte,Óscar,6,defender,DF
+13175,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-02556,Contreras,Anthony,7,forward,FW
+13176,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-10740,Oviedo,Bryan,8,defender,DF
+13177,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-09889,Bennette,Jewison,9,midfielder,MF
+13178,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-99590,Ruiz,Bryan,10,midfielder,MF
+13179,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-58669,Venegas,Johan,11,forward,FW
+13180,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-70812,Campbell,Joel,12,forward,FW
+13181,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-12179,Torres,Gerson,13,midfielder,MF
+13182,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-32622,Salas,Youstin,14,midfielder,MF
+13183,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-71100,Calvo,Francisco,15,defender,DF
+13184,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-39281,Martínez,Carlos,16,defender,DF
+13185,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-24978,Tejeda,Yeltsin,17,midfielder,MF
+13186,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-03616,Alvarado,Esteban,18,goal keeper,GK
+13187,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-37984,Waston,Kendall,19,defender,DF
+13188,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-44957,Aguilera,Brandon,20,midfielder,MF
+13189,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-01994,López,Douglas,21,midfielder,MF
+13190,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-37189,Matarrita,Rónald,22,defender,DF
+13191,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-81142,Sequeira,Patrick,23,goal keeper,GK
+13192,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-23993,Wilson,Roan,24,midfielder,MF
+13193,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-14872,Hernández,Anthony,25,midfielder,MF
+13194,WC-2022,2022 FIFA Men's World Cup,T-17,Costa Rica,CRI,P-22631,Zamora,Álvaro,26,midfielder,MF
+13195,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-99988,Livaković,Dominik,1,goal keeper,GK
+13196,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-91350,Stanišić,Josip,2,defender,DF
+13197,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-95766,Barišić,Borna,3,defender,DF
+13198,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-93884,Perišić,Ivan,4,forward,FW
+13199,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-01196,Erlić,Martin,5,defender,DF
+13200,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-56297,Lovren,Dejan,6,defender,DF
+13201,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-64353,Majer,Lovro,7,midfielder,MF
+13202,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-07670,Kovačić,Mateo,8,midfielder,MF
+13203,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-65182,Kramarić,Andrej,9,forward,FW
+13204,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-29491,Modrić,Luka,10,midfielder,MF
+13205,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-79215,Brozović,Marcelo,11,midfielder,MF
+13206,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-32870,Grbić,Ivo,12,goal keeper,GK
+13207,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-22160,Vlašić,Nikola,13,midfielder,MF
+13208,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-31643,Livaja,Marko,14,forward,FW
+13209,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-89948,Pašalić,Mario,15,midfielder,MF
+13210,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-46461,Petković,Bruno,16,forward,FW
+13211,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-99461,Budimir,Ante,17,forward,FW
+13212,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-26942,Oršić,Mislav,18,forward,FW
+13213,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-84190,Sosa,Borna,19,defender,DF
+13214,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-58420,Gvardiol,Joško,20,defender,DF
+13215,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-91294,Vida,Domagoj,21,defender,DF
+13216,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-16484,Juranović,Josip,22,defender,DF
+13217,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-94815,Ivušić,Ivica,23,goal keeper,GK
+13218,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-57417,Šutalo,Josip,24,defender,DF
+13219,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-67668,Sučić,Luka,25,midfielder,MF
+13220,WC-2022,2022 FIFA Men's World Cup,T-18,Croatia,HRV,P-86466,Jakić,Kristijan,26,midfielder,MF
+13221,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-58755,Schmeichel,Kasper,1,goal keeper,GK
+13222,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-43705,Andersen,Joachim,2,defender,DF
+13223,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-49454,Nelsson,Victor,3,defender,DF
+13224,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-14988,Kjær,Simon,4,defender,DF
+13225,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-39995,Mæhle,Joakim,5,defender,DF
+13226,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-18923,Christensen,Andreas,6,defender,DF
+13227,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-26593,Jensen,Mathias,7,midfielder,MF
+13228,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-57615,Delaney,Thomas,8,midfielder,MF
+13229,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-85579,Braithwaite,Martin,9,forward,FW
+13230,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-50104,Eriksen,Christian,10,midfielder,MF
+13231,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-82313,Olsen,Andreas Skov,11,midfielder,MF
+13232,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-72592,Dolberg,Kasper,12,forward,FW
+13233,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-82877,Kristensen,Rasmus,13,defender,DF
+13234,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-57782,Damsgaard,Mikkel,14,midfielder,MF
+13235,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-56182,Nørgaard,Christian,15,midfielder,MF
+13236,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-07304,Christensen,Oliver,16,goal keeper,GK
+13237,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-11588,Stryger Larsen,Jens,17,defender,DF
+13238,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-93781,Wass,Daniel,18,defender,DF
+13239,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-59609,Wind,Jonas,19,forward,FW
+13240,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-08442,Poulsen,Yussuf,20,forward,FW
+13241,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-29053,Cornelius,Andreas,21,forward,FW
+13242,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-35930,Rønnow,Frederik,22,goal keeper,GK
+13243,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-98199,Højbjerg,Pierre-Emile,23,midfielder,MF
+13244,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-76468,Skov,Robert,24,midfielder,MF
+13245,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-70516,Lindstrøm,Jesper,25,midfielder,MF
+13246,WC-2022,2022 FIFA Men's World Cup,T-22,Denmark,DNK,P-92135,Bah,Alexander,26,defender,DF
+13247,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-56347,Galíndez,Hernán,1,goal keeper,GK
+13248,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-96347,Torres,Félix,2,defender,DF
+13249,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-29713,Hincapié,Piero,3,defender,DF
+13250,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-22286,Arboleda,Robert,4,defender,DF
+13251,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-75628,Cifuentes,José,5,midfielder,MF
+13252,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-49934,Pacho,William,6,defender,DF
+13253,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-52697,Estupiñán,Pervis,7,defender,DF
+13254,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-13321,Gruezo,Carlos,8,midfielder,MF
+13255,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-16576,Preciado,Ayrton,9,midfielder,MF
+13256,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-34543,Ibarra,Romario,10,midfielder,MF
+13257,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-44851,Estrada,Michael,11,forward,FW
+13258,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-39347,Ramírez,Moisés,12,goal keeper,GK
+13259,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-75912,Valencia,Enner,13,forward,FW
+13260,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-06545,Arreaga,Xavier,14,defender,DF
+13261,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-11495,Mena,Ángel,15,midfielder,MF
+13262,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-78091,Sarmiento,Jeremy,16,midfielder,MF
+13263,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-62543,Preciado,Ángelo,17,defender,DF
+13264,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-04237,Palacios,Diego,18,defender,DF
+13265,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-13973,Plata,Gonzalo,19,midfielder,MF
+13266,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-56839,Méndez,Sebas,20,midfielder,MF
+13267,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-28364,Franco,Alan,21,midfielder,MF
+13268,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-94877,Domínguez,Alexander,22,goal keeper,GK
+13269,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-82216,Caicedo,Moisés,23,midfielder,MF
+13270,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-69217,Reasco,Djorkaeff,24,forward,FW
+13271,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-73694,Porozo,Jackson,25,defender,DF
+13272,WC-2022,2022 FIFA Men's World Cup,T-25,Ecuador,ECU,P-02839,Rodríguez,Kevin,26,forward,FW
+13273,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-70618,Pickford,Jordan,1,goal keeper,GK
+13274,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-74071,Walker,Kyle,2,defender,DF
+13275,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-36400,Shaw,Luke,3,defender,DF
+13276,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-84787,Rice,Declan,4,midfielder,MF
+13277,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-92628,Stones,John,5,defender,DF
+13278,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-02465,Maguire,Harry,6,defender,DF
+13279,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-21153,Grealish,Jack,7,forward,FW
+13280,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-08169,Henderson,Jordan,8,midfielder,MF
+13281,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-58924,Kane,Harry,9,forward,FW
+13282,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-21553,Sterling,Raheem,10,forward,FW
+13283,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-59837,Rashford,Marcus,11,forward,FW
+13284,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-25937,Trippier,Kieran,12,defender,DF
+13285,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-89070,Pope,Nick,13,goal keeper,GK
+13286,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-43567,Phillips,Kalvin,14,midfielder,MF
+13287,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-31219,Dier,Eric,15,defender,DF
+13288,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-76287,Coady,Conor,16,defender,DF
+13289,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-76842,Saka,Bukayo,17,forward,FW
+13290,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-05318,Alexander-Arnold,Trent,18,defender,DF
+13291,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-90012,Mount,Mason,19,midfielder,MF
+13292,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-10501,Foden,Phil,20,midfielder,MF
+13293,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-50034,White,Ben,21,defender,DF
+13294,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-15674,Bellingham,Jude,22,midfielder,MF
+13295,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-62368,Ramsdale,Aaron,23,goal keeper,GK
+13296,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-22844,Wilson,Callum,24,forward,FW
+13297,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-95181,Maddison,James,25,midfielder,MF
+13298,WC-2022,2022 FIFA Men's World Cup,T-28,England,ENG,P-46540,Gallagher,Conor,26,midfielder,MF
+13299,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-30711,Lloris,Hugo,1,goal keeper,GK
+13300,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-60652,Pavard,Benjamin,2,defender,DF
+13301,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-91324,Disasi,Axel,3,defender,DF
+13302,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-42326,Varane,Raphaël,4,defender,DF
+13303,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-78484,Koundé,Jules,5,defender,DF
+13304,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-32431,Guendouzi,Matteo,6,midfielder,MF
+13305,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-90908,Griezmann,Antoine,7,forward,FW
+13306,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-54517,Tchouaméni,Aurélien,8,midfielder,MF
+13307,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-89750,Giroud,Olivier,9,forward,FW
+13308,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-64077,Mbappé,Kylian,10,forward,FW
+13309,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-97778,Dembélé,Ousmane,11,forward,FW
+13310,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-92987,Kolo Muani,Randal,12,forward,FW
+13311,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-23304,Fofana,Youssouf,13,midfielder,MF
+13312,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-57401,Rabiot,Adrien,14,midfielder,MF
+13313,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-00465,Veretout,Jordan,15,midfielder,MF
+13314,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-69594,Mandanda,Steve,16,goal keeper,GK
+13315,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-07089,Saliba,William,17,defender,DF
+13316,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-03945,Upamecano,Dayot,18,defender,DF
+13317,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-35408,Benzema,Karim,19,forward,FW
+13318,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-06614,Coman,Kingsley,20,forward,FW
+13319,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-84424,Hernandez,Lucas,21,defender,DF
+13320,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-09867,Hernandez,Théo,22,defender,DF
+13321,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-81466,Areola,Alphonse,23,goal keeper,GK
+13322,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-86920,Konaté,Ibrahima,24,defender,DF
+13323,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-80996,Camavinga,Eduardo,25,midfielder,MF
+13324,WC-2022,2022 FIFA Men's World Cup,T-30,France,FRA,P-13613,Thuram,Marcus,26,forward,FW
+13325,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-19408,Neuer,Manuel,1,goal keeper,GK
+13326,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-51201,Rüdiger,Antonio,2,defender,DF
+13327,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-20804,Raum,David,3,defender,DF
+13328,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-36126,Ginter,Matthias,4,defender,DF
+13329,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-11933,Kehrer,Thilo,5,defender,DF
+13330,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-30316,Kimmich,Joshua,6,midfielder,MF
+13331,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-77743,Havertz,Kai,7,forward,FW
+13332,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-79409,Goretzka,Leon,8,midfielder,MF
+13333,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-46246,Füllkrug,Niclas,9,forward,FW
+13334,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-75989,Gnabry,Serge,10,forward,FW
+13335,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-63673,Götze,Mario,11,midfielder,MF
+13336,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-81947,Trapp,Kevin,12,goal keeper,GK
+13337,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-28154,Müller,Thomas,13,midfielder,MF
+13338,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-47182,Musiala,Jamal,14,midfielder,MF
+13339,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-48737,Süle,Niklas,15,defender,DF
+13340,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-89863,Klostermann,Lukas,16,defender,DF
+13341,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-50679,Brandt,Julian,17,midfielder,MF
+13342,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-18188,Hofmann,Jonas,18,midfielder,MF
+13343,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-39464,Sané,Leroy,19,midfielder,MF
+13344,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-63385,Günter,Christian,20,defender,DF
+13345,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-08896,Gündoğan,İlkay,21,midfielder,MF
+13346,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-03367,ter Stegen,Marc-André,22,goal keeper,GK
+13347,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-71859,Schlotterbeck,Nico,23,defender,DF
+13348,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-05901,Adeyemi,Karim,24,forward,FW
+13349,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-69200,Bella-Kotchap,Armel,25,defender,DF
+13350,WC-2022,2022 FIFA Men's World Cup,T-31,Germany,DEU,P-04137,Moukoko,Youssoufa,26,forward,FW
+13351,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-51990,Ati-Zigi,Lawrence,1,goal keeper,GK
+13352,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-12913,Lamptey,Tariq,2,defender,DF
+13353,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-08359,Odoi,Denis,3,defender,DF
+13354,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-50142,Salisu,Mohammed,4,defender,DF
+13355,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-07875,Partey,Thomas,5,midfielder,MF
+13356,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-70145,Owusu,Elisha,6,midfielder,MF
+13357,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-62854,Issahaku,Abdul Fatawu,7,midfielder,MF
+13358,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-92252,Kyereh,Daniel-Kofi,8,midfielder,MF
+13359,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-31765,Ayew,Jordan,9,forward,FW
+13360,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-01945,Ayew,André,10,forward,FW
+13361,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-72363,Bukari,Osman,11,midfielder,MF
+13362,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-16148,Danlad,Ibrahim,12,goal keeper,GK
+13363,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-13639,Afriyie,Daniel,13,midfielder,MF
+13364,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-28517,Mensah,Gideon,14,defender,DF
+13365,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-09991,Aidoo,Joseph,15,defender,DF
+13366,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-36638,Manaf Nurudeen,Abdul,16,goal keeper,GK
+13367,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-94579,Rahman,Baba,17,defender,DF
+13368,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-82956,Amartey,Daniel,18,defender,DF
+13369,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-53967,Williams,Iñaki,19,forward,FW
+13370,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-23821,Kudus,Mohammed,20,midfielder,MF
+13371,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-21820,Abdul Samed,Salis,21,midfielder,MF
+13372,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-33325,Sulemana,Kamaldeen,22,midfielder,MF
+13373,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-59808,Djiku,Alexander,23,defender,DF
+13374,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-20467,Sowah,Kamal,24,midfielder,MF
+13375,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-14179,Semenyo,Antoine,25,forward,FW
+13376,WC-2022,2022 FIFA Men's World Cup,T-32,Ghana,GHA,P-36105,Seidu,Alidu,26,defender,DF
+13377,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-20998,Beiranvand,Alireza,1,goal keeper,GK
+13378,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-84382,Moharrami,Sadegh,2,defender,DF
+13379,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-75785,Hajsafi,Ehsan,3,defender,DF
+13380,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-97838,Khalilzadeh,Shojae,4,defender,DF
+13381,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-74098,Mohammadi,Milad,5,defender,DF
+13382,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-95374,Ezatolahi,Saeid,6,midfielder,MF
+13383,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-98775,Jahanbakhsh,Alireza,7,midfielder,MF
+13384,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-29864,Pouraliganji,Morteza,8,defender,DF
+13385,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-85860,Taremi,Mehdi,9,forward,FW
+13386,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-53957,Ansarifard,Karim,10,forward,FW
+13387,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-24531,Amiri,Vahid,11,midfielder,MF
+13388,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-17784,Niazmand,Payam,12,goal keeper,GK
+13389,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-74612,Kanaanizadegan,Hossein,13,defender,DF
+13390,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-87786,Ghoddos,Saman,14,midfielder,MF
+13391,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-98747,Cheshmi,Rouzbeh,15,defender,DF
+13392,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-04541,Torabi,Mehdi,16,midfielder,MF
+13393,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-45653,Gholizadeh,Ali,17,midfielder,MF
+13394,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-68842,Karimi,Ali,18,midfielder,MF
+13395,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-15905,Hosseini,Majid,19,defender,DF
+13396,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-09113,Azmoun,Sardar,20,forward,FW
+13397,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-42215,Nourollahi,Ahmad,21,midfielder,MF
+13398,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-80505,Abedzadeh,Amir,22,goal keeper,GK
+13399,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-47137,Rezaeian,Ramin,23,defender,DF
+13400,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-28492,Hosseini,Hossein,24,goal keeper,GK
+13401,WC-2022,2022 FIFA Men's World Cup,T-38,Iran,IRN,P-62858,Jalali,Abolfazl,25,defender,DF
+13402,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-53272,Kawashima,Eiji,1,goal keeper,GK
+13403,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-45981,Yamane,Miki,2,defender,DF
+13404,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-77382,Taniguchi,Shogo,3,defender,DF
+13405,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-35225,Itakura,Ko,4,defender,DF
+13406,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-26303,Nagatomo,Yuto,5,defender,DF
+13407,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-53282,Endo,Wataru,6,midfielder,MF
+13408,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-99817,Shibasaki,Gaku,7,midfielder,MF
+13409,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-58907,Dōan,Ritsu,8,midfielder,MF
+13410,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-22633,Mitoma,Kaoru,9,midfielder,MF
+13411,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-05559,Minamino,Takumi,10,midfielder,MF
+13412,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-39942,Kubo,Takefusa,11,midfielder,MF
+13413,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-66906,Gonda,Shūichi,12,goal keeper,GK
+13414,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-75751,Morita,Hidemasa,13,midfielder,MF
+13415,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-86909,Ito,Junya,14,midfielder,MF
+13416,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-62952,Kamada,Daichi,15,midfielder,MF
+13417,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-68429,Tomiyasu,Takehiro,16,defender,DF
+13418,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-82447,Tanaka,Ao,17,midfielder,MF
+13419,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-46913,Asano,Takuma,18,forward,FW
+13420,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-56398,Sakai,Hiroki,19,defender,DF
+13421,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-44328,Machino,Shuto,20,forward,FW
+13422,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-57586,Ueda,Ayase,21,forward,FW
+13423,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-89321,Yoshida,Maya,22,defender,DF
+13424,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-77827,Schmidt,Daniel,23,goal keeper,GK
+13425,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-64056,Soma,Yuki,24,midfielder,MF
+13426,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-30206,Maeda,Daizen,25,forward,FW
+13427,WC-2022,2022 FIFA Men's World Cup,T-44,Japan,JPN,P-41902,Ito,Hiroki,26,defender,DF
+13428,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-94928,Talavera,Alfredo,1,goal keeper,GK
+13429,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-38529,Araujo,Néstor,2,defender,DF
+13430,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-36212,Montes,César,3,defender,DF
+13431,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-26546,Álvarez,Edson,4,defender,DF
+13432,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-09877,Vásquez,Johan,5,defender,DF
+13433,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-96510,Arteaga,Gerardo,6,defender,DF
+13434,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-26412,Romo,Luis,7,midfielder,MF
+13435,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-19618,Rodríguez,Carlos,8,midfielder,MF
+13436,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-57865,Jiménez,Raúl,9,forward,FW
+13437,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-64182,Vega,Alexis,10,forward,FW
+13438,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-51689,Funes Mori,Rogelio,11,forward,FW
+13439,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-96662,Cota,Rodolfo,12,goal keeper,GK
+13440,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-80826,Ochoa,Guillermo,13,goal keeper,GK
+13441,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-64299,Gutiérrez,Érick,14,midfielder,MF
+13442,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-21208,Moreno,Héctor,15,defender,DF
+13443,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-42911,Herrera,Héctor,16,midfielder,MF
+13444,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-95198,Pineda,Orbelín,17,forward,FW
+13445,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-40312,Guardado,Andrés,18,midfielder,MF
+13446,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-24062,Sánchez,Jorge,19,defender,DF
+13447,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-49482,Martín,Henry,20,forward,FW
+13448,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-81433,Antuna,Uriel,21,forward,FW
+13449,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-24705,Lozano,Hirving,22,forward,FW
+13450,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-80088,Gallardo,Jesús,23,defender,DF
+13451,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-49806,Chávez,Luis,24,midfielder,MF
+13452,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-73491,Alvarado,Roberto,25,forward,FW
+13453,WC-2022,2022 FIFA Men's World Cup,T-46,Mexico,MEX,P-09058,Álvarez,Kevin,26,defender,DF
+13454,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-50688,Bounou,Yassine,1,goal keeper,GK
+13455,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-45288,Hakimi,Achraf,2,defender,DF
+13456,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-09614,Mazraoui,Noussair,3,defender,DF
+13457,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-71023,Amrabat,Sofyan,4,midfielder,MF
+13458,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-47490,Aguerd,Nayef,5,defender,DF
+13459,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-26068,Saïss,Romain,6,defender,DF
+13460,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-70715,Ziyech,Hakim,7,midfielder,MF
+13461,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-40619,Ounahi,Azzedine,8,midfielder,MF
+13462,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-90423,Hamdallah,Abderrazak,9,forward,FW
+13463,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-94093,Zaroury,Anass,10,midfielder,MF
+13464,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-05265,Sabiri,Abdelhamid,11,forward,FW
+13465,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-15566,Mohamedi,Munir,12,goal keeper,GK
+13466,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-87409,Chair,Ilias,13,midfielder,MF
+13467,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-48295,Aboukhlal,Zakaria,14,midfielder,MF
+13468,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-23330,Amallah,Selim,15,midfielder,MF
+13469,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-21052,Ezzalzouli,Abde,16,forward,FW
+13470,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-59033,Boufal,Sofiane,17,midfielder,MF
+13471,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-14026,El Yamiq,Jawad,18,defender,DF
+13472,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-42517,En-Nesyri,Youssef,19,forward,FW
+13473,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-52013,Dari,Achraf,20,defender,DF
+13474,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-05216,Cheddira,Walid,21,forward,FW
+13475,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-88869,Tagnaouti,Ahmed Reda,22,goal keeper,GK
+13476,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-80656,El Khannous,Bilal,23,midfielder,MF
+13477,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-00597,Benoun,Badr,24,defender,DF
+13478,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-91543,Attiyat Allah,Yahia,25,defender,DF
+13479,WC-2022,2022 FIFA Men's World Cup,T-47,Morocco,MAR,P-86644,Jabrane,Yahya,26,midfielder,MF
+13480,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-18921,Pasveer,Remko,1,goal keeper,GK
+13481,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-74111,Timber,Jurriën,2,defender,DF
+13482,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-73572,de Ligt,Matthijs,3,defender,DF
+13483,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-56029,van Dijk,Virgil,4,defender,DF
+13484,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-64438,Aké,Nathan,5,defender,DF
+13485,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-70280,de Vrij,Stefan,6,defender,DF
+13486,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-44799,Bergwijn,Steven,7,forward,FW
+13487,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-28911,Gakpo,Cody,8,forward,FW
+13488,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-64551,de Jong,Luuk,9,forward,FW
+13489,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-27540,Depay,Memphis,10,forward,FW
+13490,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-10326,Berghuis,Steven,11,midfielder,MF
+13491,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-57903,Lang,Noa,12,forward,FW
+13492,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-15282,Bijlow,Justin,13,goal keeper,GK
+13493,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-42078,Klaassen,Davy,14,midfielder,MF
+13494,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-55965,de Roon,Marten,15,midfielder,MF
+13495,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-78630,Malacia,Tyrell,16,defender,DF
+13496,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-39861,Blind,Daley,17,defender,DF
+13497,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-57087,Janssen,Vincent,18,forward,FW
+13498,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-95036,Weghorst,Wout,19,forward,FW
+13499,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-35705,Koopmeiners,Teun,20,midfielder,MF
+13500,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-17688,de Jong,Frenkie,21,midfielder,MF
+13501,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-97615,Dumfries,Denzel,22,defender,DF
+13502,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-82000,Noppert,Andries,23,goal keeper,GK
+13503,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-95763,Taylor,Kenneth,24,midfielder,MF
+13504,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-34458,Simons,Xavi,25,midfielder,MF
+13505,WC-2022,2022 FIFA Men's World Cup,T-48,Netherlands,NLD,P-70227,Frimpong,Jeremie,26,defender,DF
+13506,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-31606,Szczęsny,Wojciech,1,goal keeper,GK
+13507,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-17099,Cash,Matty,2,defender,DF
+13508,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-61813,Jędrzejczyk,Artur,3,defender,DF
+13509,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-76995,Wieteska,Mateusz,4,defender,DF
+13510,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-10172,Bednarek,Jan,5,defender,DF
+13511,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-14593,Bielik,Krystian,6,midfielder,MF
+13512,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-12381,Milik,Arkadiusz,7,forward,FW
+13513,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-44699,Szymański,Damian,8,midfielder,MF
+13514,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-00549,Lewandowski,Robert,9,forward,FW
+13515,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-45449,Krychowiak,Grzegorz,10,midfielder,MF
+13516,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-64261,Grosicki,Kamil,11,midfielder,MF
+13517,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-17943,Skorupski,Łukasz,12,goal keeper,GK
+13518,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-83610,Kamiński,Jakub,13,midfielder,MF
+13519,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-44780,Kiwior,Jakub,14,defender,DF
+13520,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-29046,Glik,Kamil,15,defender,DF
+13521,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-85630,Świderski,Karol,16,forward,FW
+13522,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-31085,Żurkowski,Szymon,17,midfielder,MF
+13523,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-42160,Bereszyński,Bartosz,18,defender,DF
+13524,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-65512,Szymański,Sebastian,19,midfielder,MF
+13525,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-32165,Zieliński,Piotr,20,midfielder,MF
+13526,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-40498,Zalewski,Nicola,21,midfielder,MF
+13527,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-90913,Grabara,Kamil,22,goal keeper,GK
+13528,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-11013,Piątek,Krzysztof,23,forward,FW
+13529,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-23437,Frankowski,Przemysław,24,midfielder,MF
+13530,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-42168,Gumny,Robert,25,defender,DF
+13531,WC-2022,2022 FIFA Men's World Cup,T-57,Poland,POL,P-02071,Skóraś,Michał,26,midfielder,MF
+13532,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-72028,Patrício,Rui,1,goal keeper,GK
+13533,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-41603,Dalot,Diogo,2,defender,DF
+13534,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-81972,Pepe,not applicable,3,defender,DF
+13535,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-10712,Dias,Rúben,4,defender,DF
+13536,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-67578,Guerreiro,Raphaël,5,defender,DF
+13537,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-46583,Palhinha,João,6,midfielder,MF
+13538,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-70442,Ronaldo,Cristiano,7,forward,FW
+13539,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-39584,Fernandes,Bruno,8,midfielder,MF
+13540,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-33280,Silva,André,9,forward,FW
+13541,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-34205,Silva,Bernardo,10,forward,FW
+13542,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-17931,Félix,João,11,forward,FW
+13543,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-85204,Sá,José,12,goal keeper,GK
+13544,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-98929,Pereira,Danilo,13,defender,DF
+13545,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-44689,Carvalho,William,14,midfielder,MF
+13546,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-27349,Leão,Rafael,15,forward,FW
+13547,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-89266,Vitinha,not applicable,16,midfielder,MF
+13548,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-31133,Mário,João,17,midfielder,MF
+13549,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-22983,Neves,Rúben,18,midfielder,MF
+13550,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-87003,Mendes,Nuno,19,defender,DF
+13551,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-16736,Cancelo,João,20,defender,DF
+13552,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-05304,Horta,Ricardo,21,forward,FW
+13553,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-54827,Costa,Diogo,22,goal keeper,GK
+13554,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-57759,Nunes,Matheus,23,midfielder,MF
+13555,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-05289,Silva,António,24,defender,DF
+13556,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-78787,Otávio,not applicable,25,midfielder,MF
+13557,WC-2022,2022 FIFA Men's World Cup,T-58,Portugal,PRT,P-41647,Ramos,Gonçalo,26,forward,FW
+13558,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-70879,Al-Sheeb,Saad,1,goal keeper,GK
+13559,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-00052,Ró-Ró,not applicable,2,defender,DF
+13560,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-01258,Hassan,Abdelkarim,3,midfielder,MF
+13561,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-90689,Waad,Mohammed,4,defender,DF
+13562,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-42663,Salman,Tarek,5,defender,DF
+13563,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-97800,Hatem,Abdulaziz,6,midfielder,MF
+13564,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-57100,Alaaeldin,Ahmed,7,forward,FW
+13565,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-51678,Assadalla,Ali,8,midfielder,MF
+13566,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-17048,Muntari,Mohammed,9,forward,FW
+13567,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-38732,Al-Haydos,Hassan,10,midfielder,MF
+13568,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-47319,Afif,Akram,11,forward,FW
+13569,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-95754,Boudiaf,Karim,12,midfielder,MF
+13570,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-32949,Kheder,Musab,13,defender,DF
+13571,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-33804,Ahmed,Homam,14,defender,DF
+13572,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-15161,Al-Rawi,Bassam,15,defender,DF
+13573,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-12810,Khoukhi,Boualem,16,defender,DF
+13574,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-01077,Mohammad,Ismaeel,17,defender,DF
+13575,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-54495,Muneer,Khalid,18,forward,FW
+13576,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-01930,Ali,Almoez,19,forward,FW
+13577,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-43921,Al-Hajri,Salem,20,midfielder,MF
+13578,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-75618,Hassan,Yousef,21,goal keeper,GK
+13579,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-28811,Barsham,Meshaal,22,goal keeper,GK
+13580,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-63532,Madibo,Assim,23,midfielder,MF
+13581,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-93316,Al-Hadhrami,Naif,24,midfielder,MF
+13582,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-22110,Gaber,Jassem,25,midfielder,MF
+13583,WC-2022,2022 FIFA Men's World Cup,T-59,Qatar,QAT,P-26637,Meshaal,Mostafa,26,midfielder,MF
+13584,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-06659,Al-Rubaie,Mohammed,1,goal keeper,GK
+13585,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-06789,Al-Ghannam,Sultan,2,defender,DF
+13586,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-20388,Madu,Abdullah,3,defender,DF
+13587,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-12335,Al-Amri,Abdulelah,4,defender,DF
+13588,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-87284,Al-Bulaihi,Ali,5,defender,DF
+13589,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-94422,Al-Breik,Mohammed,6,defender,DF
+13590,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-93688,Al-Faraj,Salman,7,midfielder,MF
+13591,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-20216,Al-Malki,Abdulellah,8,midfielder,MF
+13592,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-89845,Al-Buraikan,Firas,9,forward,FW
+13593,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-70583,Al-Dawsari,Salem,10,forward,FW
+13594,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-37308,Al-Shehri,Saleh,11,forward,FW
+13595,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-08125,Abdulhamid,Saud,12,defender,DF
+13596,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-45457,Al-Shahrani,Yasser,13,defender,DF
+13597,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-99177,Otayf,Abdullah,14,midfielder,MF
+13598,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-45413,Al-Hassan,Ali,15,midfielder,MF
+13599,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-87569,Al-Najei,Sami,16,midfielder,MF
+13600,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-93173,Al-Tambakti,Hassan,17,defender,DF
+13601,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-76864,Al-Abed,Nawaf,18,midfielder,MF
+13602,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-84563,Bahebri,Hattan,19,forward,FW
+13603,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-45581,Al-Aboud,Abdulrahman,20,forward,FW
+13604,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-85438,Al-Owais,Mohammed,21,goal keeper,GK
+13605,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-67035,Al-Aqidi,Nawaf,22,goal keeper,GK
+13606,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-91268,Kanno,Mohamed,23,midfielder,MF
+13607,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-10907,Al-Dawsari,Nasser,24,midfielder,MF
+13608,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-40487,Asiri,Haitham,25,forward,FW
+13609,WC-2022,2022 FIFA Men's World Cup,T-63,Saudi Arabia,SAU,P-06750,Sharahili,Riyadh,26,midfielder,MF
+13610,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-99821,Dieng,Seny,1,goal keeper,GK
+13611,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-11718,Mendy,Formose,2,defender,DF
+13612,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-47321,Koulibaly,Kalidou,3,defender,DF
+13613,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-90626,Cissé,Pape Abou,4,defender,DF
+13614,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-40621,Gueye,Idrissa,5,midfielder,MF
+13615,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-96697,Mendy,Nampalys,6,midfielder,MF
+13616,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-86937,Jackson,Nicolas,7,forward,FW
+13617,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-55140,Kouyaté,Cheikhou,8,defender,DF
+13618,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-33622,Dia,Boulaye,9,forward,FW
+13619,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-66635,N'Diaye,Moussa,10,defender,DF
+13620,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-61416,Ciss,Pathé,11,midfielder,MF
+13621,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-86095,Ballo-Touré,Fodé,12,defender,DF
+13622,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-33958,Ndiaye,Iliman,13,forward,FW
+13623,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-54506,Jakobs,Ismail,14,defender,DF
+13624,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-09292,Diatta,Krépin,15,midfielder,MF
+13625,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-45399,Mendy,Édouard,16,goal keeper,GK
+13626,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-76835,Sarr,Pape Matar,17,midfielder,MF
+13627,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-37935,Sarr,Ismaïla,18,forward,FW
+13628,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-27280,Diédhiou,Famara,19,forward,FW
+13629,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-88928,Dieng,Bamba,20,forward,FW
+13630,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-55298,Sabaly,Youssouf,21,defender,DF
+13631,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-77769,Diallo,Abdou,22,defender,DF
+13632,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-53694,Gomis,Alfred,23,goal keeper,GK
+13633,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-92891,Name,Moustapha,24,defender,DF
+13634,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-37001,Loum,Mamadou,25,midfielder,MF
+13635,WC-2022,2022 FIFA Men's World Cup,T-65,Senegal,SEN,P-45280,Gueye,Pape,26,midfielder,MF
+13636,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-72770,Dmitrović,Marko,1,goal keeper,GK
+13637,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-98435,Pavlović,Strahinja,2,defender,DF
+13638,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-55665,Eraković,Strahinja,3,defender,DF
+13639,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-57535,Milenković,Nikola,4,defender,DF
+13640,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-30283,Veljković,Miloš,5,defender,DF
+13641,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-89598,Maksimović,Nemanja,6,midfielder,MF
+13642,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-79900,Radonjić,Nemanja,7,forward,FW
+13643,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-24610,Gudelj,Nemanja,8,midfielder,MF
+13644,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-85696,Mitrović,Aleksandar,9,forward,FW
+13645,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-33390,Tadić,Dušan,10,forward,FW
+13646,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-62033,Jović,Luka,11,forward,FW
+13647,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-35773,Rajković,Predrag,12,goal keeper,GK
+13648,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-19069,Mitrović,Stefan,13,defender,DF
+13649,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-58363,Živković,Andrija,14,midfielder,MF
+13650,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-70515,Babić,Srđan,15,defender,DF
+13651,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-78056,Lukić,Saša,16,midfielder,MF
+13652,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-80738,Kostić,Filip,17,midfielder,MF
+13653,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-63293,Vlahović,Dušan,18,forward,FW
+13654,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-09530,Račić,Uroš,19,midfielder,MF
+13655,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-27744,Milinković-Savić,Sergej,20,midfielder,MF
+13656,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-79754,Đuričić,Filip,21,forward,FW
+13657,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-54211,Lazović,Darko,22,midfielder,MF
+13658,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-24245,Milinković-Savić,Vanja,23,goal keeper,GK
+13659,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-67641,Ilić,Ivan,24,midfielder,MF
+13660,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-82143,Mladenović,Filip,25,defender,DF
+13661,WC-2022,2022 FIFA Men's World Cup,T-66,Serbia,SRB,P-89573,Grujić,Marko,26,midfielder,MF
+13662,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-42523,Kim,Seung-gyu,1,goal keeper,GK
+13663,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-88529,Jong-gyu,Yoon,2,defender,DF
+13664,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-82889,Jin-su,Kim,3,defender,DF
+13665,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-14360,Min-jae,Kim,4,defender,DF
+13666,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-64292,Jung,Woo-young,5,midfielder,MF
+13667,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-67516,In-beom,Hwang,6,midfielder,MF
+13668,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-77335,Son,Heung-min,7,midfielder,MF
+13669,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-32599,Seung-ho,Paik,8,midfielder,MF
+13670,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-87169,Gue-sung,Cho,9,forward,FW
+13671,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-93920,Lee,Jae-sung,10,midfielder,MF
+13672,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-58692,Hwang,Hee-chan,11,midfielder,MF
+13673,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-49090,Bum-keun,Song,12,goal keeper,GK
+13674,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-61172,Jun-ho,Son,13,midfielder,MF
+13675,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-91889,Hong,Chul,14,defender,DF
+13676,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-07233,Moon-hwan,Kim,15,defender,DF
+13677,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-92710,Ui-jo,Hwang,16,forward,FW
+13678,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-10357,Sang-ho,Na,17,midfielder,MF
+13679,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-87514,Kang-in,Lee,18,midfielder,MF
+13680,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-07259,Kim,Young-gwon,19,defender,DF
+13681,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-57511,Kyung-won,Kwon,20,defender,DF
+13682,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-04157,Jo,Hyeon-woo,21,goal keeper,GK
+13683,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-88360,Chang-hoon,Kwon,22,midfielder,MF
+13684,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-66969,Tae-hwan,Kim,23,defender,DF
+13685,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-05917,Yu-min,Cho,24,defender,DF
+13686,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-94500,Woo-yeong,Jeong,25,midfielder,MF
+13687,WC-2022,2022 FIFA Men's World Cup,T-71,South Korea,KOR,P-97485,Min-kyu,Song,26,midfielder,MF
+13688,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-92513,Sánchez,Robert,1,goal keeper,GK
+13689,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-60716,Azpilicueta,César,2,defender,DF
+13690,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-37420,García,Eric,3,defender,DF
+13691,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-16333,Torres,Pau,4,defender,DF
+13692,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-28010,Busquets,Sergio,5,midfielder,MF
+13693,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-86871,Llorente,Marcos,6,midfielder,MF
+13694,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-29274,Morata,Álvaro,7,forward,FW
+13695,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-37294,Koke,not applicable,8,midfielder,MF
+13696,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-88433,Gavi,not applicable,9,midfielder,MF
+13697,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-09400,Asensio,Marco,10,forward,FW
+13698,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-31301,Torres,Ferran,11,forward,FW
+13699,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-68218,Williams,Nico,12,forward,FW
+13700,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-33433,Raya,David,13,goal keeper,GK
+13701,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-49008,Balde,Alejandro,14,defender,DF
+13702,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-87958,Guillamón,Hugo,15,defender,DF
+13703,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-62341,Rodri,not applicable,16,midfielder,MF
+13704,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-46898,Pino,Yeremy,17,forward,FW
+13705,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-01416,Alba,Jordi,18,defender,DF
+13706,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-30405,Soler,Carlos,19,midfielder,MF
+13707,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-71071,Carvajal,Dani,20,defender,DF
+13708,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-40007,Olmo,Dani,21,forward,FW
+13709,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-81427,Sarabia,Pablo,22,forward,FW
+13710,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-94271,Simón,Unai,23,goal keeper,GK
+13711,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-99025,Laporte,Aymeric,24,defender,DF
+13712,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-33854,Fati,Ansu,25,forward,FW
+13713,WC-2022,2022 FIFA Men's World Cup,T-73,Spain,ESP,P-24897,Pedri,not applicable,26,midfielder,MF
+13714,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-63312,Sommer,Yann,1,goal keeper,GK
+13715,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-29932,Fernandes,Edimilson,2,defender,DF
+13716,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-38927,Widmer,Silvan,3,defender,DF
+13717,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-19193,Elvedi,Nico,4,defender,DF
+13718,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-23925,Akanji,Manuel,5,defender,DF
+13719,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-83560,Zakaria,Denis,6,midfielder,MF
+13720,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-19075,Embolo,Breel,7,forward,FW
+13721,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-68060,Freuler,Remo,8,midfielder,MF
+13722,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-07180,Seferovic,Haris,9,forward,FW
+13723,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-77224,Xhaka,Granit,10,midfielder,MF
+13724,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-20482,Steffen,Renato,11,defender,DF
+13725,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-75926,Omlin,Jonas,12,goal keeper,GK
+13726,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-43367,Rodríguez,Ricardo,13,defender,DF
+13727,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-32222,Aebischer,Michel,14,midfielder,MF
+13728,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-11878,Sow,Djibril,15,midfielder,MF
+13729,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-71875,Fassnacht,Christian,16,midfielder,MF
+13730,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-85823,Vargas,Ruben,17,forward,FW
+13731,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-56868,Cömert,Eray,18,defender,DF
+13732,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-85577,Okafor,Noah,19,forward,FW
+13733,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-00244,Frei,Fabian,20,midfielder,MF
+13734,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-06076,Kobel,Gregor,21,goal keeper,GK
+13735,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-25131,Schär,Fabian,22,defender,DF
+13736,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-39460,Shaqiri,Xherdan,23,midfielder,MF
+13737,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-38800,Köhn,Philipp,24,goal keeper,GK
+13738,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-25593,Rieder,Fabian,25,midfielder,MF
+13739,WC-2022,2022 FIFA Men's World Cup,T-75,Switzerland,CHE,P-17496,Jashari,Ardon,26,midfielder,MF
+13740,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-25989,Mathlouthi,Aymen,1,goal keeper,GK
+13741,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-22128,Ifa,Bilel,2,defender,DF
+13742,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-73455,Talbi,Montassar,3,defender,DF
+13743,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-81706,Meriah,Yassine,4,defender,DF
+13744,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-68161,Ghandri,Nader,5,midfielder,MF
+13745,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-11879,Bronn,Dylan,6,defender,DF
+13746,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-25741,Msakni,Youssef,7,forward,FW
+13747,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-48887,Mejbri,Hannibal,8,midfielder,MF
+13748,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-11346,Jebali,Issam,9,forward,FW
+13749,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-42223,Khazri,Wahbi,10,forward,FW
+13750,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-21865,Khenissi,Taha Yassine,11,forward,FW
+13751,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-38981,Maâloul,Ali,12,defender,DF
+13752,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-90867,Sassi,Ferjani,13,midfielder,MF
+13753,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-29063,Laïdouni,Aïssa,14,midfielder,MF
+13754,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-42575,Ben Romdhane,Mohamed Ali,15,midfielder,MF
+13755,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-32803,Dahmen,Aymen,16,goal keeper,GK
+13756,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-47815,Skhiri,Ellyes,17,midfielder,MF
+13757,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-09569,Chaalali,Ghailene,18,midfielder,MF
+13758,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-82056,Jaziri,Seifeddine,19,forward,FW
+13759,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-49094,Dräger,Mohamed,20,defender,DF
+13760,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-27079,Kechrida,Wajdi,21,defender,DF
+13761,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-82657,Ben Saïd,Bechir,22,goal keeper,GK
+13762,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-69793,Sliti,Naïm,23,forward,FW
+13763,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-64924,Abdi,Ali,24,defender,DF
+13764,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-45680,Ben Slimane,Anis,25,forward,FW
+13765,WC-2022,2022 FIFA Men's World Cup,T-79,Tunisia,TUN,P-57303,Hassen,Mouez,26,goal keeper,GK
+13766,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-48903,Turner,Matt,1,goal keeper,GK
+13767,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-89452,Dest,Sergiño,2,defender,DF
+13768,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-57029,Zimmerman,Walker,3,defender,DF
+13769,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-14151,Adams,Tyler,4,midfielder,MF
+13770,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-70867,Robinson,Antonee,5,defender,DF
+13771,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-59571,Musah,Yunus,6,midfielder,MF
+13772,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-85878,Reyna,Giovanni,7,forward,FW
+13773,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-68952,McKennie,Weston,8,midfielder,MF
+13774,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-34132,Ferreira,Jesús,9,forward,FW
+13775,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-11737,Pulisic,Christian,10,forward,FW
+13776,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-03484,Aaronson,Brenden,11,forward,FW
+13777,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-01792,Horvath,Ethan,12,goal keeper,GK
+13778,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-26367,Ream,Tim,13,defender,DF
+13779,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-74007,de la Torre,Luca,14,midfielder,MF
+13780,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-75522,Long,Aaron,15,defender,DF
+13781,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-77402,Morris,Jordan,16,forward,FW
+13782,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-35320,Roldan,Cristian,17,midfielder,MF
+13783,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-48265,Moore,Shaq,18,defender,DF
+13784,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-68131,Wright,Haji,19,forward,FW
+13785,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-25925,Carter-Vickers,Cameron,20,defender,DF
+13786,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-30252,Weah,Timothy,21,forward,FW
+13787,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-95273,Yedlin,DeAndre,22,defender,DF
+13788,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-86410,Acosta,Kellyn,23,midfielder,MF
+13789,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-94647,Sargent,Josh,24,forward,FW
+13790,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-38940,Johnson,Sean,25,goal keeper,GK
+13791,WC-2022,2022 FIFA Men's World Cup,T-83,United States,USA,P-80838,Scally,Joe,26,defender,DF
+13792,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-10014,Muslera,Fernando,1,goal keeper,GK
+13793,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-65659,Giménez,José,2,defender,DF
+13794,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-78440,Godín,Diego,3,defender,DF
+13795,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-89869,Araújo,Ronald,4,defender,DF
+13796,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-46785,Vecino,Matías,5,midfielder,MF
+13797,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-58791,Bentancur,Rodrigo,6,midfielder,MF
+13798,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-86878,de la Cruz,Nicolás,7,midfielder,MF
+13799,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-95062,Pellistri,Facundo,8,forward,FW
+13800,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-30486,Suárez,Luis,9,forward,FW
+13801,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-62594,De Arrascaeta,Giorgian,10,midfielder,MF
+13802,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-18885,Núñez,Darwin,11,forward,FW
+13803,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-19914,Sosa,Sebastián,12,goal keeper,GK
+13804,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-78932,Varela,Guillermo,13,defender,DF
+13805,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-47386,Torreira,Lucas,14,midfielder,MF
+13806,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-05174,Valverde,Federico,15,midfielder,MF
+13807,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-90796,Olivera,Mathías,16,defender,DF
+13808,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-18564,Viña,Matías,17,defender,DF
+13809,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-70671,Gómez,Maxi,18,forward,FW
+13810,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-20051,Coates,Sebastián,19,defender,DF
+13811,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-68430,Torres,Facundo,20,forward,FW
+13812,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-59138,Cavani,Edinson,21,forward,FW
+13813,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-74058,Cáceres,Martín,22,defender,DF
+13814,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-00232,Rochet,Sergio,23,goal keeper,GK
+13815,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-24667,Canobbio,Agustín,24,midfielder,MF
+13816,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-94091,Ugarte,Manuel,25,midfielder,MF
+13817,WC-2022,2022 FIFA Men's World Cup,T-84,Uruguay,URY,P-55597,Rodríguez,José Luis,26,defender,DF
+13818,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-46457,Hennessey,Wayne,1,goal keeper,GK
+13819,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-92343,Gunter,Chris,2,defender,DF
+13820,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-87190,Williams,Neco,3,defender,DF
+13821,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-41198,Davies,Ben,4,defender,DF
+13822,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-74888,Mepham,Chris,5,defender,DF
+13823,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-38105,Rodon,Joe,6,defender,DF
+13824,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-92761,Allen,Joe,7,midfielder,MF
+13825,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-94779,Wilson,Harry,8,midfielder,MF
+13826,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-57098,Johnson,Brennan,9,forward,FW
+13827,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-86951,Ramsey,Aaron,10,midfielder,MF
+13828,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-63927,Bale,Gareth,11,forward,FW
+13829,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-31718,Ward,Danny,12,goal keeper,GK
+13830,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-10657,Moore,Kieffer,13,forward,FW
+13831,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-56503,Roberts,Connor,14,defender,DF
+13832,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-50398,Ampadu,Ethan,15,defender,DF
+13833,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-69082,Morrell,Joe,16,midfielder,MF
+13834,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-34567,Lockyer,Tom,17,defender,DF
+13835,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-56664,Williams,Jonny,18,midfielder,MF
+13836,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-37173,Harris,Mark,19,forward,FW
+13837,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-74707,James,Daniel,20,forward,FW
+13838,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-92482,Davies,Adam,21,goal keeper,GK
+13839,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-20564,Thomas,Sorba,22,midfielder,MF
+13840,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-24982,Levitt,Dylan,23,midfielder,MF
+13841,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-02030,Cabango,Ben,24,defender,DF
+13842,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-07137,Colwill,Rubin,25,midfielder,MF
+13843,WC-2022,2022 FIFA Men's World Cup,T-85,Wales,WAL,P-84269,Smith,Matthew,26,midfielder,MF
